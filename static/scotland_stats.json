@@ -1,0 +1,388 @@
+{
+    "Kilmarnock": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 5.21,
+                "corners_contra": 4.14
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 3.53,
+                "corners_contra": 6.93
+            }
+        },
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "66%",
+            "over_3_5": "45%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 29,
+            "ganados": 4,
+            "empatados": 9,
+            "perdidos": 16,
+            "goles_favor": 32,
+            "goles_contra": 60,
+            "diferencia": -28,
+            "puntos": 21
+        }
+    },
+    "Dundee Utd": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 5.47,
+                "corners_contra": 5.8
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 3.64,
+                "corners_contra": 4.79
+            }
+        },
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "48%",
+            "over_3_5": "34%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 29,
+            "ganados": 7,
+            "empatados": 12,
+            "perdidos": 10,
+            "goles_favor": 36,
+            "goles_contra": 46,
+            "diferencia": -10,
+            "puntos": 33
+        }
+    },
+    "Celtic": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 8.64,
+                "corners_contra": 2.86
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 5.4,
+                "corners_contra": 4.67
+            }
+        },
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "66%",
+            "over_3_5": "38%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 29,
+            "ganados": 18,
+            "empatados": 4,
+            "perdidos": 7,
+            "goles_favor": 53,
+            "goles_contra": 31,
+            "diferencia": 22,
+            "puntos": 58
+        }
+    },
+    "Motherwell": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 3.93,
+                "corners_contra": 3.73
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 3.71,
+                "corners_contra": 4.64
+            }
+        },
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "34%",
+            "over_3_5": "21%",
+            "bts": "41%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 29,
+            "ganados": 14,
+            "empatados": 11,
+            "perdidos": 4,
+            "goles_favor": 48,
+            "goles_contra": 20,
+            "diferencia": 28,
+            "puntos": 53
+        }
+    },
+    "Livingston": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 5.27,
+                "corners_contra": 5.2
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 3.86,
+                "corners_contra": 6.57
+            }
+        },
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "66%",
+            "over_3_5": "38%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 29,
+            "ganados": 1,
+            "empatados": 11,
+            "perdidos": 17,
+            "goles_favor": 31,
+            "goles_contra": 59,
+            "diferencia": -28,
+            "puntos": 14
+        }
+    },
+    "Hearts": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 5.73,
+                "corners_contra": 4.27
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 5.14,
+                "corners_contra": 4.71
+            }
+        },
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "48%",
+            "over_3_5": "28%",
+            "bts": "41%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 29,
+            "ganados": 19,
+            "empatados": 6,
+            "perdidos": 4,
+            "goles_favor": 52,
+            "goles_contra": 24,
+            "diferencia": 28,
+            "puntos": 63
+        }
+    },
+    "Dundee FC": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 4.43,
+                "corners_contra": 5.86
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 3.13,
+                "corners_contra": 6.0
+            }
+        },
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "52%",
+            "over_3_5": "31%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 29,
+            "ganados": 8,
+            "empatados": 7,
+            "perdidos": 14,
+            "goles_favor": 29,
+            "goles_contra": 46,
+            "diferencia": -17,
+            "puntos": 31
+        }
+    },
+    "Hibernian": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 6.0,
+                "corners_contra": 5.79
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 4.4,
+                "corners_contra": 5.27
+            }
+        },
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "55%",
+            "over_3_5": "34%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 29,
+            "ganados": 12,
+            "empatados": 10,
+            "perdidos": 7,
+            "goles_favor": 48,
+            "goles_contra": 35,
+            "diferencia": 13,
+            "puntos": 46
+        }
+    },
+    "Rangers": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 6.47,
+                "corners_contra": 2.87
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 7.14,
+                "corners_contra": 5.71
+            }
+        },
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "52%",
+            "over_3_5": "28%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 29,
+            "ganados": 15,
+            "empatados": 12,
+            "perdidos": 2,
+            "goles_favor": 51,
+            "goles_contra": 25,
+            "diferencia": 26,
+            "puntos": 57
+        }
+    },
+    "St. Mirren": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 5.57,
+                "corners_contra": 4.79
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 5.8,
+                "corners_contra": 6.2
+            }
+        },
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "34%",
+            "over_3_5": "21%",
+            "bts": "41%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 29,
+            "ganados": 5,
+            "empatados": 9,
+            "perdidos": 15,
+            "goles_favor": 23,
+            "goles_contra": 45,
+            "diferencia": -22,
+            "puntos": 24
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50.6%",
+            "over_2_5": "30.5%",
+            "over_3_5": "11.5%",
+            "bts": "28.4%"
+        },
+        "position": {}
+    },
+    "Falkirk": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 4.4,
+                "corners_contra": 4.0
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 4.86,
+                "corners_contra": 5.64
+            }
+        },
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "52%",
+            "over_3_5": "28%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 29,
+            "ganados": 12,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 37,
+            "goles_contra": 37,
+            "diferencia": 0,
+            "puntos": 42
+        }
+    },
+    "Aberdeen": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 6.21,
+                "corners_contra": 4.93
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 3.6,
+                "corners_contra": 5.93
+            }
+        },
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "34%",
+            "over_3_5": "21%",
+            "bts": "34%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 29,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 16,
+            "goles_favor": 29,
+            "goles_contra": 41,
+            "diferencia": -12,
+            "puntos": 29
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:33:24.098531",
+        "liga": "scotland"
+    }
+}

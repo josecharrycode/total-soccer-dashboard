@@ -1,0 +1,336 @@
+{
+    "Porz": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "89%",
+            "over_3_5": "67%",
+            "bts": "78%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 18,
+            "ganados": 6,
+            "empatados": 2,
+            "perdidos": 10,
+            "goles_favor": 40,
+            "goles_contra": 45,
+            "diferencia": -5,
+            "puntos": 20
+        }
+    },
+    "Bornheim": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "72%",
+            "over_3_5": "56%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 18,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 35,
+            "goles_contra": 34,
+            "diferencia": 1,
+            "puntos": 22
+        }
+    },
+    "VfL Vichttal": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "65%",
+            "over_3_5": "35%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 17,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 34,
+            "goles_contra": 21,
+            "diferencia": 13,
+            "puntos": 33
+        }
+    },
+    "Teutonia Weiden": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "71%",
+            "over_3_5": "53%",
+            "bts": "35%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 17,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 11,
+            "goles_favor": 15,
+            "goles_contra": 49,
+            "diferencia": -34,
+            "puntos": 12
+        }
+    },
+    "Bergisch G.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "94%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 18,
+            "ganados": 12,
+            "empatados": 5,
+            "perdidos": 1,
+            "goles_favor": 40,
+            "goles_contra": 14,
+            "diferencia": 26,
+            "puntos": 41
+        }
+    },
+    "SSV Merten": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "67%",
+            "over_3_5": "22%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 18,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 5,
+            "goles_favor": 31,
+            "goles_contra": 15,
+            "diferencia": 16,
+            "puntos": 33
+        }
+    },
+    "Konigsdorf": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "94%",
+            "over_2_5": "61%",
+            "over_3_5": "39%",
+            "bts": "78%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 18,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 26,
+            "goles_contra": 33,
+            "diferencia": -7,
+            "puntos": 22
+        }
+    },
+    "E. Hohkeppel": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "78%",
+            "over_3_5": "50%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 18,
+            "ganados": 12,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 52,
+            "goles_contra": 18,
+            "diferencia": 34,
+            "puntos": 39
+        }
+    },
+    "Fortuna Koln B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "67%",
+            "over_3_5": "39%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 18,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 36,
+            "goles_contra": 22,
+            "diferencia": 14,
+            "puntos": 30
+        }
+    },
+    "Siegburger": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "56%",
+            "over_3_5": "50%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 18,
+            "ganados": 10,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 41,
+            "goles_contra": 17,
+            "diferencia": 24,
+            "puntos": 34
+        }
+    },
+    "Wegberg-Beeck": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "72%",
+            "over_3_5": "39%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 18,
+            "ganados": 8,
+            "empatados": 3,
+            "perdidos": 7,
+            "goles_favor": 37,
+            "goles_contra": 24,
+            "diferencia": 13,
+            "puntos": 27
+        }
+    },
+    "SF Duren": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "83%",
+            "over_3_5": "72%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 18,
+            "ganados": 3,
+            "empatados": 2,
+            "perdidos": 13,
+            "goles_favor": 28,
+            "goles_contra": 54,
+            "diferencia": -26,
+            "puntos": 11
+        }
+    },
+    "Frechen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "72%",
+            "over_3_5": "56%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 18,
+            "ganados": 10,
+            "empatados": 1,
+            "perdidos": 7,
+            "goles_favor": 39,
+            "goles_contra": 28,
+            "diferencia": 11,
+            "puntos": 31
+        }
+    },
+    "Hennef": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "94%",
+            "over_2_5": "56%",
+            "over_3_5": "39%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 18,
+            "ganados": 5,
+            "empatados": 2,
+            "perdidos": 11,
+            "goles_favor": 20,
+            "goles_contra": 40,
+            "diferencia": -20,
+            "puntos": 17
+        }
+    },
+    "Duren": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "61%",
+            "over_3_5": "50%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 18,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 6,
+            "goles_favor": 30,
+            "goles_contra": 34,
+            "diferencia": -4,
+            "puntos": 28
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68.5%",
+            "over_2_5": "48.3%",
+            "over_3_5": "30.1%",
+            "bts": "23.8%"
+        },
+        "position": {}
+    },
+    "Pesch": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "78%",
+            "over_3_5": "72%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 18,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 15,
+            "goles_favor": 18,
+            "goles_contra": 74,
+            "diferencia": -56,
+            "puntos": 5
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:09:16.729965",
+        "liga": "germany19"
+    }
+}

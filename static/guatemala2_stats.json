@@ -1,0 +1,256 @@
+{
+    "Comunicaciones": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "67%",
+            "over_3_5": "50%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 12,
+            "ganados": 8,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 23,
+            "goles_contra": 16,
+            "diferencia": 7,
+            "puntos": 25
+        }
+    },
+    "Marquense": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "50%",
+            "over_3_5": "17%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 12,
+            "goles_contra": 17,
+            "diferencia": -5,
+            "puntos": 12
+        }
+    },
+    "Aurora": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "25%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 4,
+            "goles_favor": 10,
+            "goles_contra": 15,
+            "diferencia": -5,
+            "puntos": 14
+        }
+    },
+    "Mictlan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "17%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 12,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 5,
+            "goles_favor": 12,
+            "goles_contra": 15,
+            "diferencia": -3,
+            "puntos": 15
+        }
+    },
+    "Achuapa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "25%",
+            "over_3_5": "17%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 12,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 5,
+            "goles_favor": 10,
+            "goles_contra": 13,
+            "diferencia": -3,
+            "puntos": 15
+        }
+    },
+    "Antigua GFC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "42%",
+            "over_3_5": "33%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 4,
+            "goles_favor": 15,
+            "goles_contra": 18,
+            "diferencia": -3,
+            "puntos": 14
+        }
+    },
+    "Coban Imperial": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 12,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 2,
+            "goles_favor": 20,
+            "goles_contra": 11,
+            "diferencia": 9,
+            "puntos": 22
+        }
+    },
+    "Malacateco": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "25%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 12,
+            "goles_contra": 16,
+            "diferencia": -4,
+            "puntos": 12
+        }
+    },
+    "Municipal": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "58%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 12,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 16,
+            "goles_contra": 13,
+            "diferencia": 3,
+            "puntos": 18
+        }
+    },
+    "Guastatoya": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "25%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 12,
+            "goles_contra": 14,
+            "diferencia": -2,
+            "puntos": 13
+        }
+    },
+    "Xelaju": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "58%",
+            "over_2_5": "25%",
+            "over_3_5": "17%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 12,
+            "ganados": 5,
+            "empatados": 4,
+            "perdidos": 3,
+            "goles_favor": 16,
+            "goles_contra": 8,
+            "diferencia": 8,
+            "puntos": 19
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "40.3%",
+            "over_2_5": "25.0%",
+            "over_3_5": "8.3%",
+            "bts": "29.9%"
+        },
+        "position": {}
+    },
+    "Mixco": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "42%",
+            "over_3_5": "17%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 12,
+            "ganados": 4,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 13,
+            "goles_contra": 15,
+            "diferencia": -2,
+            "puntos": 16
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:11:04.065567",
+        "liga": "guatemala2"
+    }
+}

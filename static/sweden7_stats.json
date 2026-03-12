@@ -1,0 +1,296 @@
+{
+    "IFK Ostersund": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "83%",
+            "over_3_5": "67%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 12,
+            "ganados": 9,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 39,
+            "goles_contra": 18,
+            "diferencia": 21,
+            "puntos": 28
+        }
+    },
+    "Taftea": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "50%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 12,
+            "ganados": 2,
+            "empatados": 3,
+            "perdidos": 7,
+            "goles_favor": 11,
+            "goles_contra": 28,
+            "diferencia": -17,
+            "puntos": 9
+        }
+    },
+    "Boden": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "42%",
+            "over_3_5": "17%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 10,
+            "goles_contra": 20,
+            "diferencia": -10,
+            "puntos": 12
+        }
+    },
+    "Friska Viljor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "92%",
+            "over_3_5": "58%",
+            "bts": "92%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 12,
+            "ganados": 5,
+            "empatados": 0,
+            "perdidos": 7,
+            "goles_favor": 24,
+            "goles_contra": 25,
+            "diferencia": -1,
+            "puntos": 15
+        }
+    },
+    "Kiruna FF": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "58%",
+            "over_3_5": "25%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 12,
+            "ganados": 1,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 13,
+            "goles_contra": 23,
+            "diferencia": -10,
+            "puntos": 8
+        }
+    },
+    "Gottne IF": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "75%",
+            "over_3_5": "50%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 12,
+            "ganados": 5,
+            "empatados": 1,
+            "perdidos": 6,
+            "goles_favor": 18,
+            "goles_contra": 21,
+            "diferencia": -3,
+            "puntos": 16
+        }
+    },
+    "IFK Lulea": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 12,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 2,
+            "goles_favor": 21,
+            "goles_contra": 11,
+            "diferencia": 10,
+            "puntos": 22
+        }
+    },
+    "Bergnasets": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "58%",
+            "over_3_5": "25%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 12,
+            "goles_contra": 20,
+            "diferencia": -8,
+            "puntos": 13
+        }
+    },
+    "Umea FC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "75%",
+            "over_3_5": "58%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 12,
+            "ganados": 8,
+            "empatados": 0,
+            "perdidos": 4,
+            "goles_favor": 32,
+            "goles_contra": 19,
+            "diferencia": 13,
+            "puntos": 24
+        }
+    },
+    "Boden City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "42%",
+            "over_3_5": "17%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 12,
+            "ganados": 1,
+            "empatados": 4,
+            "perdidos": 7,
+            "goles_favor": 12,
+            "goles_contra": 22,
+            "diferencia": -10,
+            "puntos": 7
+        }
+    },
+    "Pitea": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "92%",
+            "over_3_5": "42%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 12,
+            "ganados": 9,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 32,
+            "goles_contra": 12,
+            "diferencia": 20,
+            "puntos": 29
+        }
+    },
+    "Kubikenborg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "83%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 12,
+            "ganados": 7,
+            "empatados": 0,
+            "perdidos": 5,
+            "goles_favor": 20,
+            "goles_contra": 22,
+            "diferencia": -2,
+            "puntos": 21
+        }
+    },
+    "Skelleftea": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "58%",
+            "over_3_5": "50%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 12,
+            "ganados": 7,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 24,
+            "goles_contra": 16,
+            "diferencia": 8,
+            "puntos": 23
+        }
+    },
+    "Lucksta": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "92%",
+            "over_3_5": "50%",
+            "bts": "92%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 1,
+            "perdidos": 8,
+            "goles_favor": 19,
+            "goles_contra": 30,
+            "diferencia": -11,
+            "puntos": 10
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67.9%",
+            "over_2_5": "40.5%",
+            "over_3_5": "26.2%",
+            "bts": "17.9%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:40:02.800343",
+        "liga": "sweden7"
+    }
+}

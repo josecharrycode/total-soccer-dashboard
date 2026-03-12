@@ -1,0 +1,336 @@
+{
+    "E. Khuzestan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "59%",
+            "over_2_5": "23%",
+            "over_3_5": "9%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 22,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 9,
+            "goles_favor": 16,
+            "goles_contra": 23,
+            "diferencia": -7,
+            "puntos": 25
+        }
+    },
+    "Paykan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "48%",
+            "over_2_5": "17%",
+            "over_3_5": "9%",
+            "bts": "30%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 23,
+            "ganados": 5,
+            "empatados": 9,
+            "perdidos": 9,
+            "goles_favor": 15,
+            "goles_contra": 21,
+            "diferencia": -6,
+            "puntos": 24
+        }
+    },
+    "K. Khorramabad": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "57%",
+            "over_2_5": "39%",
+            "over_3_5": "13%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 23,
+            "ganados": 7,
+            "empatados": 8,
+            "perdidos": 8,
+            "goles_favor": 22,
+            "goles_contra": 24,
+            "diferencia": -2,
+            "puntos": 29
+        }
+    },
+    "Esteghlal": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "32%",
+            "over_3_5": "18%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 22,
+            "ganados": 10,
+            "empatados": 9,
+            "perdidos": 3,
+            "goles_favor": 27,
+            "goles_contra": 17,
+            "diferencia": 10,
+            "puntos": 39
+        }
+    },
+    "Malavan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "36%",
+            "over_2_5": "18%",
+            "over_3_5": "9%",
+            "bts": "27%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 22,
+            "ganados": 7,
+            "empatados": 10,
+            "perdidos": 5,
+            "goles_favor": 14,
+            "goles_contra": 16,
+            "diferencia": -2,
+            "puntos": 31
+        }
+    },
+    "Mes Rafsanjan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "59%",
+            "over_2_5": "27%",
+            "over_3_5": "14%",
+            "bts": "27%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 22,
+            "ganados": 3,
+            "empatados": 6,
+            "perdidos": 13,
+            "goles_favor": 13,
+            "goles_contra": 29,
+            "diferencia": -16,
+            "puntos": 15
+        }
+    },
+    "Zob Ahan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "48%",
+            "over_2_5": "19%",
+            "over_3_5": "5%",
+            "bts": "29%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 21,
+            "ganados": 3,
+            "empatados": 10,
+            "perdidos": 8,
+            "goles_favor": 12,
+            "goles_contra": 19,
+            "diferencia": -7,
+            "puntos": 19
+        }
+    },
+    "Sepahan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "27%",
+            "over_3_5": "5%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 22,
+            "ganados": 11,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 24,
+            "goles_contra": 13,
+            "diferencia": 11,
+            "puntos": 39
+        }
+    },
+    "Persepolis": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "59%",
+            "over_2_5": "36%",
+            "over_3_5": "9%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 22,
+            "ganados": 9,
+            "empatados": 7,
+            "perdidos": 6,
+            "goles_favor": 23,
+            "goles_contra": 19,
+            "diferencia": 4,
+            "puntos": 34
+        }
+    },
+    "Shams A. Qazvin": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "41%",
+            "over_2_5": "14%",
+            "over_3_5": "9%",
+            "bts": "32%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 22,
+            "ganados": 3,
+            "empatados": 12,
+            "perdidos": 7,
+            "goles_favor": 15,
+            "goles_contra": 19,
+            "diferencia": -4,
+            "puntos": 21
+        }
+    },
+    "Foolad": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "45%",
+            "over_2_5": "27%",
+            "over_3_5": "18%",
+            "bts": "41%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 22,
+            "ganados": 7,
+            "empatados": 10,
+            "perdidos": 5,
+            "goles_favor": 21,
+            "goles_contra": 16,
+            "diferencia": 5,
+            "puntos": 31
+        }
+    },
+    "Aluminium Arak": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "38%",
+            "over_2_5": "19%",
+            "over_3_5": "14%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 21,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 10,
+            "goles_favor": 14,
+            "goles_contra": 21,
+            "diferencia": -7,
+            "puntos": 21
+        }
+    },
+    "Tractor Sazi": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "45%",
+            "over_2_5": "36%",
+            "over_3_5": "18%",
+            "bts": "41%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 22,
+            "ganados": 9,
+            "empatados": 10,
+            "perdidos": 3,
+            "goles_favor": 27,
+            "goles_contra": 12,
+            "diferencia": 15,
+            "puntos": 37
+        }
+    },
+    "Gol Gohar": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "26%",
+            "over_3_5": "17%",
+            "bts": "39%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 23,
+            "ganados": 10,
+            "empatados": 6,
+            "perdidos": 7,
+            "goles_favor": 24,
+            "goles_contra": 24,
+            "diferencia": 0,
+            "puntos": 36
+        }
+    },
+    "Chadormalu": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "32%",
+            "over_3_5": "23%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 22,
+            "ganados": 9,
+            "empatados": 8,
+            "perdidos": 5,
+            "goles_favor": 27,
+            "goles_contra": 19,
+            "diferencia": 8,
+            "puntos": 35
+        }
+    },
+    "Fajr Sepasi": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "48%",
+            "over_3_5": "9%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 23,
+            "ganados": 8,
+            "empatados": 6,
+            "perdidos": 9,
+            "goles_favor": 25,
+            "goles_contra": 27,
+            "diferencia": -2,
+            "puntos": 30
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "27.7%",
+            "over_2_5": "12.4%",
+            "over_3_5": "5.1%",
+            "bts": "40.4%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:13:33.270203",
+        "liga": "iran"
+    }
+}

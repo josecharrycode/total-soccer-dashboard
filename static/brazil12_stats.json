@@ -1,0 +1,216 @@
+{
+    "Chapada": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "44%",
+            "over_3_5": "44%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 9,
+            "ganados": 3,
+            "empatados": 2,
+            "perdidos": 4,
+            "goles_favor": 12,
+            "goles_contra": 13,
+            "diferencia": -1,
+            "puntos": 11
+        }
+    },
+    "Operario VG": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56%",
+            "over_2_5": "22%",
+            "over_3_5": "22%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 9,
+            "ganados": 4,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 9,
+            "goles_contra": 9,
+            "diferencia": 0,
+            "puntos": 14
+        }
+    },
+    "Cuiaba": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "44%",
+            "over_2_5": "33%",
+            "over_3_5": "11%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 9,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 8,
+            "goles_contra": 8,
+            "diferencia": 0,
+            "puntos": 12
+        }
+    },
+    "Mixto": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56%",
+            "over_2_5": "33%",
+            "over_3_5": "22%",
+            "bts": "22%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 9,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 13,
+            "goles_contra": 4,
+            "diferencia": 9,
+            "puntos": 15
+        }
+    },
+    "Primavera AC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56%",
+            "over_2_5": "33%",
+            "over_3_5": "22%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 9,
+            "ganados": 1,
+            "empatados": 7,
+            "perdidos": 1,
+            "goles_favor": 6,
+            "goles_contra": 9,
+            "diferencia": -3,
+            "puntos": 10
+        }
+    },
+    "Nova Mutum": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "78%",
+            "over_3_5": "44%",
+            "bts": "78%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 9,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 13,
+            "goles_contra": 15,
+            "diferencia": -2,
+            "puntos": 12
+        }
+    },
+    "Luverdense": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "33%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 9,
+            "ganados": 5,
+            "empatados": 2,
+            "perdidos": 2,
+            "goles_favor": 7,
+            "goles_contra": 3,
+            "diferencia": 4,
+            "puntos": 17
+        }
+    },
+    "U. Rondonopolis": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "44%",
+            "over_2_5": "33%",
+            "over_3_5": "11%",
+            "bts": "22%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 9,
+            "ganados": 2,
+            "empatados": 4,
+            "perdidos": 3,
+            "goles_favor": 7,
+            "goles_contra": 7,
+            "diferencia": 0,
+            "puntos": 10
+        }
+    },
+    "Varzea Grande": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "44%",
+            "over_3_5": "22%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 9,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 6,
+            "goles_favor": 5,
+            "goles_contra": 14,
+            "diferencia": -9,
+            "puntos": 5
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "33.3%",
+            "over_2_5": "20.0%",
+            "over_3_5": "6.7%",
+            "bts": "44.4%"
+        },
+        "position": {}
+    },
+    "Sport Sinop": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "33%",
+            "over_2_5": "11%",
+            "over_3_5": "0%",
+            "bts": "22%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 9,
+            "ganados": 3,
+            "empatados": 4,
+            "perdidos": 2,
+            "goles_favor": 6,
+            "goles_contra": 4,
+            "diferencia": 2,
+            "puntos": 13
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:54:03.007078",
+        "liga": "brazil12"
+    }
+}

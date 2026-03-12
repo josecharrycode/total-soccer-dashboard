@@ -1,0 +1,376 @@
+{
+    "Comerciantes U.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "67%",
+            "over_3_5": "33%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 6,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 8,
+            "goles_contra": 9,
+            "diferencia": -1,
+            "puntos": 7
+        }
+    },
+    "Sport Huancayo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "67%",
+            "over_3_5": "17%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 6,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 8,
+            "goles_contra": 8,
+            "diferencia": 0,
+            "puntos": 7
+        }
+    },
+    "S. Cristal": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "33%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 6,
+            "ganados": 2,
+            "empatados": 2,
+            "perdidos": 2,
+            "goles_favor": 10,
+            "goles_contra": 8,
+            "diferencia": 2,
+            "puntos": 8
+        }
+    },
+    "Cienciano": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "50%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 6,
+            "ganados": 3,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 14,
+            "goles_contra": 9,
+            "diferencia": 5,
+            "puntos": 10
+        }
+    },
+    "Alianza Lima": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "50%",
+            "over_3_5": "17%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 6,
+            "ganados": 5,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 9,
+            "goles_contra": 3,
+            "diferencia": 6,
+            "puntos": 16
+        }
+    },
+    "Sport Boys": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "33%",
+            "over_2_5": "17%",
+            "over_3_5": "17%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 6,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 3,
+            "goles_contra": 6,
+            "diferencia": -3,
+            "puntos": 5
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "48.1%",
+            "over_2_5": "29.6%",
+            "over_3_5": "11.1%",
+            "bts": "25.0%"
+        },
+        "position": {}
+    },
+    "Los Chankas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 6,
+            "ganados": 4,
+            "empatados": 2,
+            "perdidos": 0,
+            "goles_favor": 11,
+            "goles_contra": 6,
+            "diferencia": 5,
+            "puntos": 14
+        }
+    },
+    "UCV Moquegua": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 6,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 5,
+            "goles_contra": 9,
+            "diferencia": -4,
+            "puntos": 7
+        }
+    },
+    "Alianza A.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "33%",
+            "over_2_5": "17%",
+            "over_3_5": "17%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 6,
+            "ganados": 1,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 3,
+            "goles_contra": 5,
+            "diferencia": -2,
+            "puntos": 6
+        }
+    },
+    "Cusco": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "33%",
+            "over_3_5": "17%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 6,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 6,
+            "goles_contra": 6,
+            "diferencia": 0,
+            "puntos": 7
+        }
+    },
+    "Atletico Grau": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "33%",
+            "over_3_5": "17%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 18,
+            "partidos": 6,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 4,
+            "goles_favor": 3,
+            "goles_contra": 8,
+            "diferencia": -5,
+            "puntos": 4
+        }
+    },
+    "ADT": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 6,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 5,
+            "goles_contra": 8,
+            "diferencia": -3,
+            "puntos": 5
+        }
+    },
+    "Juan Pablo II": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "83%",
+            "over_3_5": "50%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 6,
+            "ganados": 3,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 11,
+            "goles_contra": 15,
+            "diferencia": -4,
+            "puntos": 10
+        }
+    },
+    "FBC Melgar": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "83%",
+            "over_3_5": "50%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 6,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 3,
+            "goles_favor": 11,
+            "goles_contra": 9,
+            "diferencia": 2,
+            "puntos": 9
+        }
+    },
+    "Cajamarca": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 6,
+            "ganados": 4,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 10,
+            "goles_contra": 6,
+            "diferencia": 4,
+            "puntos": 13
+        }
+    },
+    "D. Garcilaso": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "17%",
+            "over_3_5": "17%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 6,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 5,
+            "goles_contra": 7,
+            "diferencia": -2,
+            "puntos": 5
+        }
+    },
+    "Universitario": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 6,
+            "ganados": 3,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 9,
+            "goles_contra": 7,
+            "diferencia": 2,
+            "puntos": 11
+        }
+    },
+    "FC Cajamarca": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 6,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 7,
+            "goles_contra": 9,
+            "diferencia": -2,
+            "puntos": 5
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:26:52.101003",
+        "liga": "peru"
+    }
+}

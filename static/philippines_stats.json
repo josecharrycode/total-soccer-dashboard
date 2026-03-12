@@ -1,0 +1,236 @@
+{
+    "Kaya FC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "50%",
+            "over_3_5": "44%",
+            "bts": "31%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 16,
+            "ganados": 11,
+            "empatados": 1,
+            "perdidos": 4,
+            "goles_favor": 59,
+            "goles_contra": 10,
+            "diferencia": 49,
+            "puntos": 34
+        }
+    },
+    "Garelli Utd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "93%",
+            "over_3_5": "60%",
+            "bts": "27%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 15,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 12,
+            "goles_favor": 15,
+            "goles_contra": 59,
+            "diferencia": -44,
+            "puntos": 9
+        }
+    },
+    "Mendiola": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "93%",
+            "over_3_5": "80%",
+            "bts": "27%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 15,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 14,
+            "goles_favor": 7,
+            "goles_contra": 89,
+            "diferencia": -82,
+            "puntos": 3
+        }
+    },
+    "Maharlika": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "62%",
+            "over_3_5": "56%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 16,
+            "ganados": 6,
+            "empatados": 2,
+            "perdidos": 8,
+            "goles_favor": 30,
+            "goles_contra": 28,
+            "diferencia": 2,
+            "puntos": 20
+        }
+    },
+    "Manila Digger": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "50%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 12,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 0,
+            "goles_favor": 52,
+            "goles_contra": 9,
+            "diferencia": 43,
+            "puntos": 30
+        }
+    },
+    "Stallion": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "53%",
+            "over_3_5": "47%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 15,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 40,
+            "goles_contra": 13,
+            "diferencia": 27,
+            "puntos": 25
+        }
+    },
+    "DH Cebu": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "79%",
+            "over_3_5": "64%",
+            "bts": "29%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 14,
+            "ganados": 11,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 62,
+            "goles_contra": 9,
+            "diferencia": 53,
+            "puntos": 34
+        }
+    },
+    "Philippine Army": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "86%",
+            "over_3_5": "86%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 14,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 12,
+            "goles_favor": 10,
+            "goles_contra": 87,
+            "diferencia": -77,
+            "puntos": 2
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72.5%",
+            "over_2_5": "58.8%",
+            "over_3_5": "48.8%",
+            "bts": "31.3%"
+        },
+        "position": {}
+    },
+    "Davao Aguilas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "71%",
+            "over_3_5": "43%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 14,
+            "ganados": 8,
+            "empatados": 2,
+            "perdidos": 4,
+            "goles_favor": 39,
+            "goles_contra": 16,
+            "diferencia": 23,
+            "puntos": 26
+        }
+    },
+    "One Taguig": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64%",
+            "over_2_5": "64%",
+            "over_3_5": "36%",
+            "bts": "14%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 14,
+            "ganados": 13,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 66,
+            "goles_contra": 3,
+            "diferencia": 63,
+            "puntos": 39
+        }
+    },
+    "Tuloy FC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "93%",
+            "over_3_5": "80%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 15,
+            "ganados": 3,
+            "empatados": 1,
+            "perdidos": 11,
+            "goles_favor": 24,
+            "goles_contra": 81,
+            "diferencia": -57,
+            "puntos": 10
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:27:23.151394",
+        "liga": "philippines"
+    }
+}

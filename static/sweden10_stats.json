@@ -1,0 +1,296 @@
+{
+    "Balkan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "81%",
+            "over_3_5": "54%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 26,
+            "ganados": 4,
+            "empatados": 9,
+            "perdidos": 13,
+            "goles_favor": 34,
+            "goles_contra": 56,
+            "diferencia": -22,
+            "puntos": 21
+        }
+    },
+    "Nosaby": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "81%",
+            "over_3_5": "50%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 41,
+            "goles_contra": 48,
+            "diferencia": -7,
+            "puntos": 33
+        }
+    },
+    "Vaxjo Norra": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "65%",
+            "over_3_5": "35%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 46,
+            "goles_contra": 32,
+            "diferencia": 14,
+            "puntos": 38
+        }
+    },
+    "Torns": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "46%",
+            "over_3_5": "35%",
+            "bts": "35%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 26,
+            "ganados": 10,
+            "empatados": 4,
+            "perdidos": 12,
+            "goles_favor": 30,
+            "goles_contra": 46,
+            "diferencia": -16,
+            "puntos": 34
+        }
+    },
+    "Karlskrona": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "65%",
+            "over_3_5": "54%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 26,
+            "ganados": 16,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 59,
+            "goles_contra": 28,
+            "diferencia": 31,
+            "puntos": 53
+        }
+    },
+    "Kristianstad": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "58%",
+            "over_3_5": "23%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 26,
+            "ganados": 18,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 47,
+            "goles_contra": 22,
+            "diferencia": 25,
+            "puntos": 58
+        }
+    },
+    "Karlshamn": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "58%",
+            "over_3_5": "35%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 26,
+            "ganados": 10,
+            "empatados": 2,
+            "perdidos": 14,
+            "goles_favor": 31,
+            "goles_contra": 43,
+            "diferencia": -12,
+            "puntos": 32
+        }
+    },
+    "Osterlen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "69%",
+            "over_3_5": "38%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 14,
+            "goles_favor": 41,
+            "goles_contra": 43,
+            "diferencia": -2,
+            "puntos": 30
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "65.4%",
+            "over_2_5": "40.7%",
+            "over_3_5": "21.4%",
+            "bts": "22.0%"
+        },
+        "position": {}
+    },
+    "Rappe": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "42%",
+            "over_3_5": "23%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 10,
+            "perdidos": 7,
+            "goles_favor": 29,
+            "goles_contra": 32,
+            "diferencia": -3,
+            "puntos": 37
+        }
+    },
+    "Linero": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "69%",
+            "over_3_5": "35%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 26,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 13,
+            "goles_favor": 39,
+            "goles_contra": 45,
+            "diferencia": -6,
+            "puntos": 33
+        }
+    },
+    "IFK Trelleborg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "73%",
+            "over_3_5": "50%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 26,
+            "ganados": 13,
+            "empatados": 7,
+            "perdidos": 6,
+            "goles_favor": 58,
+            "goles_contra": 41,
+            "diferencia": 17,
+            "puntos": 46
+        }
+    },
+    "Solvesborg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "65%",
+            "over_3_5": "46%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 26,
+            "ganados": 13,
+            "empatados": 6,
+            "perdidos": 7,
+            "goles_favor": 54,
+            "goles_contra": 41,
+            "diferencia": 13,
+            "puntos": 45
+        }
+    },
+    "IFK Hassleholm": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "69%",
+            "over_3_5": "38%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 36,
+            "goles_contra": 58,
+            "diferencia": -22,
+            "puntos": 22
+        }
+    },
+    "Hogaborg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "73%",
+            "over_3_5": "54%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 14,
+            "goles_favor": 43,
+            "goles_contra": 53,
+            "diferencia": -10,
+            "puntos": 28
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:40:40.376802",
+        "liga": "sweden10"
+    }
+}

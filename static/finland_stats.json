@@ -1,0 +1,388 @@
+{
+    "SJK": {
+        "corners": {
+            "local": {
+                "partidos": 16,
+                "corners_favor": 6.13,
+                "corners_contra": 4.94
+            },
+            "visitante": {
+                "partidos": 16,
+                "corners_favor": 6.75,
+                "corners_contra": 5.25
+            }
+        },
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "78%",
+            "over_3_5": "59%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 32,
+            "ganados": 17,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 70,
+            "goles_contra": 51,
+            "diferencia": 19,
+            "puntos": 59
+        }
+    },
+    "HJK Helsinki": {
+        "corners": {
+            "local": {
+                "partidos": 16,
+                "corners_favor": 6.0,
+                "corners_contra": 5.0
+            },
+            "visitante": {
+                "partidos": 16,
+                "corners_favor": 5.31,
+                "corners_contra": 5.13
+            }
+        },
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "75%",
+            "over_3_5": "66%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 32,
+            "ganados": 14,
+            "empatados": 7,
+            "perdidos": 11,
+            "goles_favor": 74,
+            "goles_contra": 52,
+            "diferencia": 22,
+            "puntos": 49
+        }
+    },
+    "KTP": {
+        "corners": {
+            "local": {
+                "partidos": 13,
+                "corners_favor": 5.62,
+                "corners_contra": 4.77
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 4.29,
+                "corners_contra": 6.43
+            }
+        },
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "78%",
+            "over_3_5": "48%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 27,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 16,
+            "goles_favor": 31,
+            "goles_contra": 61,
+            "diferencia": -30,
+            "puntos": 21
+        }
+    },
+    "Mariehamn": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 4.57,
+                "corners_contra": 5.86
+            },
+            "visitante": {
+                "partidos": 13,
+                "corners_favor": 2.69,
+                "corners_contra": 7.69
+            }
+        },
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "52%",
+            "over_3_5": "37%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 27,
+            "ganados": 8,
+            "empatados": 8,
+            "perdidos": 11,
+            "goles_favor": 34,
+            "goles_contra": 53,
+            "diferencia": -19,
+            "puntos": 32
+        }
+    },
+    "Oulu": {
+        "corners": {
+            "local": {
+                "partidos": 13,
+                "corners_favor": 4.69,
+                "corners_contra": 4.62
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 3.36,
+                "corners_contra": 5.43
+            }
+        },
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "67%",
+            "over_3_5": "52%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 27,
+            "ganados": 8,
+            "empatados": 3,
+            "perdidos": 16,
+            "goles_favor": 35,
+            "goles_contra": 53,
+            "diferencia": -18,
+            "puntos": 27
+        }
+    },
+    "Jaro": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 4.93,
+                "corners_contra": 6.07
+            },
+            "visitante": {
+                "partidos": 13,
+                "corners_favor": 4.31,
+                "corners_contra": 6.69
+            }
+        },
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "67%",
+            "over_3_5": "37%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 27,
+            "ganados": 10,
+            "empatados": 4,
+            "perdidos": 13,
+            "goles_favor": 35,
+            "goles_contra": 44,
+            "diferencia": -9,
+            "puntos": 34
+        }
+    },
+    "KuPS": {
+        "corners": {
+            "local": {
+                "partidos": 16,
+                "corners_favor": 5.88,
+                "corners_contra": 3.63
+            },
+            "visitante": {
+                "partidos": 16,
+                "corners_favor": 5.38,
+                "corners_contra": 5.63
+            }
+        },
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "56%",
+            "over_3_5": "34%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 32,
+            "ganados": 20,
+            "empatados": 7,
+            "perdidos": 5,
+            "goles_favor": 62,
+            "goles_contra": 34,
+            "diferencia": 28,
+            "puntos": 67
+        }
+    },
+    "Ilves": {
+        "corners": {
+            "local": {
+                "partidos": 16,
+                "corners_favor": 5.94,
+                "corners_contra": 4.19
+            },
+            "visitante": {
+                "partidos": 16,
+                "corners_favor": 7.19,
+                "corners_contra": 3.75
+            }
+        },
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "75%",
+            "over_3_5": "53%",
+            "bts": "66%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 32,
+            "ganados": 18,
+            "empatados": 6,
+            "perdidos": 8,
+            "goles_favor": 68,
+            "goles_contra": 45,
+            "diferencia": 23,
+            "puntos": 60
+        }
+    },
+    "VPS": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 6.93,
+                "corners_contra": 5.29
+            },
+            "visitante": {
+                "partidos": 13,
+                "corners_favor": 3.92,
+                "corners_contra": 7.23
+            }
+        },
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "59%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 27,
+            "ganados": 8,
+            "empatados": 7,
+            "perdidos": 12,
+            "goles_favor": 37,
+            "goles_contra": 42,
+            "diferencia": -5,
+            "puntos": 31
+        }
+    },
+    "Inter Turku": {
+        "corners": {
+            "local": {
+                "partidos": 16,
+                "corners_favor": 7.44,
+                "corners_contra": 4.06
+            },
+            "visitante": {
+                "partidos": 16,
+                "corners_favor": 6.5,
+                "corners_contra": 4.31
+            }
+        },
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "59%",
+            "over_3_5": "38%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 32,
+            "ganados": 17,
+            "empatados": 10,
+            "perdidos": 5,
+            "goles_favor": 60,
+            "goles_contra": 33,
+            "diferencia": 27,
+            "puntos": 61
+        }
+    },
+    "Gnistan": {
+        "corners": {
+            "local": {
+                "partidos": 16,
+                "corners_favor": 5.88,
+                "corners_contra": 6.69
+            },
+            "visitante": {
+                "partidos": 16,
+                "corners_favor": 5.06,
+                "corners_contra": 6.94
+            }
+        },
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "69%",
+            "over_3_5": "50%",
+            "bts": "66%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 32,
+            "ganados": 8,
+            "empatados": 9,
+            "perdidos": 15,
+            "goles_favor": 47,
+            "goles_contra": 65,
+            "diferencia": -18,
+            "puntos": 33
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "66.7%",
+            "over_2_5": "45.8%",
+            "over_3_5": "26.0%",
+            "bts": "20.1%"
+        },
+        "position": {}
+    },
+    "Haka": {
+        "corners": {
+            "local": {
+                "partidos": 13,
+                "corners_favor": 5.15,
+                "corners_contra": 6.85
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 5.71,
+                "corners_contra": 6.0
+            }
+        },
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "63%",
+            "over_3_5": "37%",
+            "bts": "70%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 27,
+            "ganados": 4,
+            "empatados": 5,
+            "perdidos": 18,
+            "goles_favor": 30,
+            "goles_contra": 50,
+            "diferencia": -20,
+            "puntos": 17
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:03:49.770991",
+        "liga": "finland"
+    }
+}

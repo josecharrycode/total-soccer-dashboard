@@ -1,0 +1,336 @@
+{
+    "Aurora": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "73%",
+            "over_3_5": "47%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 30,
+            "ganados": 11,
+            "empatados": 4,
+            "perdidos": 15,
+            "goles_favor": 53,
+            "goles_contra": 63,
+            "diferencia": -10,
+            "puntos": 37
+        }
+    },
+    "Always Ready": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "63%",
+            "over_3_5": "53%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 30,
+            "ganados": 22,
+            "empatados": 5,
+            "perdidos": 3,
+            "goles_favor": 91,
+            "goles_contra": 34,
+            "diferencia": 57,
+            "puntos": 71
+        }
+    },
+    "Nacional Potosi": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "60%",
+            "over_3_5": "37%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 30,
+            "ganados": 12,
+            "empatados": 7,
+            "perdidos": 11,
+            "goles_favor": 51,
+            "goles_contra": 41,
+            "diferencia": 10,
+            "puntos": 43
+        }
+    },
+    "Real Oruro": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "77%",
+            "over_3_5": "60%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 30,
+            "ganados": 8,
+            "empatados": 7,
+            "perdidos": 15,
+            "goles_favor": 60,
+            "goles_contra": 66,
+            "diferencia": -6,
+            "puntos": 31
+        }
+    },
+    "U. de Vinto": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 30,
+            "ganados": 6,
+            "empatados": 8,
+            "perdidos": 16,
+            "goles_favor": 32,
+            "goles_contra": 60,
+            "diferencia": -28,
+            "puntos": 26
+        }
+    },
+    "Guabira": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "73%",
+            "over_3_5": "53%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 30,
+            "ganados": 13,
+            "empatados": 4,
+            "perdidos": 13,
+            "goles_favor": 58,
+            "goles_contra": 63,
+            "diferencia": -5,
+            "puntos": 43
+        }
+    },
+    "Bolivar": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "77%",
+            "over_3_5": "57%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 30,
+            "ganados": 21,
+            "empatados": 5,
+            "perdidos": 4,
+            "goles_favor": 82,
+            "goles_contra": 32,
+            "diferencia": 50,
+            "puntos": 68
+        }
+    },
+    "ABB": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "57%",
+            "over_3_5": "37%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 30,
+            "ganados": 6,
+            "empatados": 8,
+            "perdidos": 16,
+            "goles_favor": 33,
+            "goles_contra": 64,
+            "diferencia": -31,
+            "puntos": 26
+        }
+    },
+    "The Strongest": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "80%",
+            "over_3_5": "53%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 30,
+            "ganados": 21,
+            "empatados": 1,
+            "perdidos": 8,
+            "goles_favor": 77,
+            "goles_contra": 47,
+            "diferencia": 30,
+            "puntos": 64
+        }
+    },
+    "I. Petrolero": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "73%",
+            "over_3_5": "47%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 30,
+            "ganados": 13,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 56,
+            "goles_contra": 57,
+            "diferencia": -1,
+            "puntos": 45
+        }
+    },
+    "Blooming": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "77%",
+            "over_3_5": "47%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 30,
+            "ganados": 14,
+            "empatados": 4,
+            "perdidos": 12,
+            "goles_favor": 53,
+            "goles_contra": 56,
+            "diferencia": -3,
+            "puntos": 46
+        }
+    },
+    "Wilstermann": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "57%",
+            "over_3_5": "40%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 30,
+            "ganados": 4,
+            "empatados": 7,
+            "perdidos": 19,
+            "goles_favor": 30,
+            "goles_contra": 71,
+            "diferencia": -41,
+            "puntos": 19
+        }
+    },
+    "GV San Jose": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "63%",
+            "over_3_5": "43%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 30,
+            "ganados": 12,
+            "empatados": 5,
+            "perdidos": 13,
+            "goles_favor": 46,
+            "goles_contra": 50,
+            "diferencia": -4,
+            "puntos": 41
+        }
+    },
+    "SA Bulo Bulo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "57%",
+            "over_3_5": "43%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 30,
+            "ganados": 13,
+            "empatados": 7,
+            "perdidos": 10,
+            "goles_favor": 62,
+            "goles_contra": 54,
+            "diferencia": 8,
+            "puntos": 46
+        }
+    },
+    "Real Tomayapo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "57%",
+            "over_3_5": "33%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 30,
+            "ganados": 9,
+            "empatados": 8,
+            "perdidos": 13,
+            "goles_favor": 40,
+            "goles_contra": 53,
+            "diferencia": -13,
+            "puntos": 35
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "66.3%",
+            "over_2_5": "45.4%",
+            "over_3_5": "30.0%",
+            "bts": "19.8%"
+        },
+        "position": {}
+    },
+    "Oriente P.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "67%",
+            "over_3_5": "43%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 30,
+            "ganados": 9,
+            "empatados": 6,
+            "perdidos": 15,
+            "goles_favor": 45,
+            "goles_contra": 58,
+            "diferencia": -13,
+            "puntos": 33
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:51:53.548678",
+        "liga": "bolivia"
+    }
+}

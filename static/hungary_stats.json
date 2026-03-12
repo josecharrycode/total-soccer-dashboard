@@ -1,0 +1,256 @@
+{
+    "Debrecen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "60%",
+            "over_3_5": "24%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 25,
+            "ganados": 12,
+            "empatados": 7,
+            "perdidos": 6,
+            "goles_favor": 39,
+            "goles_contra": 30,
+            "diferencia": 9,
+            "puntos": 43
+        }
+    },
+    "Puskas A.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "48%",
+            "over_3_5": "20%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 25,
+            "ganados": 10,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 31,
+            "goles_contra": 31,
+            "diferencia": 0,
+            "puntos": 35
+        }
+    },
+    "Ujpest": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "64%",
+            "over_3_5": "28%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 25,
+            "ganados": 8,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 33,
+            "goles_contra": 41,
+            "diferencia": -8,
+            "puntos": 30
+        }
+    },
+    "Gyor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "52%",
+            "over_3_5": "36%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 25,
+            "ganados": 14,
+            "empatados": 7,
+            "perdidos": 4,
+            "goles_favor": 50,
+            "goles_contra": 27,
+            "diferencia": 23,
+            "puntos": 49
+        }
+    },
+    "Kazincbarcika": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "68%",
+            "over_3_5": "36%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 25,
+            "ganados": 4,
+            "empatados": 2,
+            "perdidos": 19,
+            "goles_favor": 21,
+            "goles_contra": 52,
+            "diferencia": -31,
+            "puntos": 14
+        }
+    },
+    "DVTK": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "56%",
+            "over_3_5": "40%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 25,
+            "ganados": 5,
+            "empatados": 10,
+            "perdidos": 10,
+            "goles_favor": 33,
+            "goles_contra": 40,
+            "diferencia": -7,
+            "puntos": 25
+        }
+    },
+    "Zalaegerszegi": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "48%",
+            "over_3_5": "32%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 25,
+            "ganados": 10,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 38,
+            "goles_contra": 31,
+            "diferencia": 7,
+            "puntos": 38
+        }
+    },
+    "Kisvarda": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60%",
+            "over_2_5": "48%",
+            "over_3_5": "28%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 25,
+            "ganados": 11,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 31,
+            "goles_contra": 37,
+            "diferencia": -6,
+            "puntos": 38
+        }
+    },
+    "Ferencvaros": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "72%",
+            "over_3_5": "40%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 25,
+            "ganados": 15,
+            "empatados": 4,
+            "perdidos": 6,
+            "goles_favor": 49,
+            "goles_contra": 27,
+            "diferencia": 22,
+            "puntos": 49
+        }
+    },
+    "Nyiregyhaza": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "60%",
+            "over_3_5": "44%",
+            "bts": "68%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 25,
+            "ganados": 7,
+            "empatados": 7,
+            "perdidos": 11,
+            "goles_favor": 34,
+            "goles_contra": 43,
+            "diferencia": -9,
+            "puntos": 28
+        }
+    },
+    "MTK Budapest": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "76%",
+            "over_3_5": "64%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 25,
+            "ganados": 7,
+            "empatados": 6,
+            "perdidos": 12,
+            "goles_favor": 45,
+            "goles_contra": 54,
+            "diferencia": -9,
+            "puntos": 27
+        }
+    },
+    "Paks": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "68%",
+            "over_3_5": "40%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 25,
+            "ganados": 10,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 46,
+            "goles_contra": 37,
+            "diferencia": 9,
+            "puntos": 37
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60.0%",
+            "over_2_5": "36.0%",
+            "over_3_5": "15.3%",
+            "bts": "20.7%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:11:30.234393",
+        "liga": "hungary"
+    }
+}

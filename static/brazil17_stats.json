@@ -1,0 +1,216 @@
+{
+    "Pombal": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "67%",
+            "over_3_5": "44%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 9,
+            "ganados": 2,
+            "empatados": 2,
+            "perdidos": 5,
+            "goles_favor": 10,
+            "goles_contra": 18,
+            "diferencia": -8,
+            "puntos": 8
+        }
+    },
+    "A. Cajazeirense": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "22%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 9,
+            "ganados": 3,
+            "empatados": 1,
+            "perdidos": 5,
+            "goles_favor": 6,
+            "goles_contra": 11,
+            "diferencia": -5,
+            "puntos": 10
+        }
+    },
+    "Treze": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "56%",
+            "over_3_5": "11%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 9,
+            "ganados": 4,
+            "empatados": 0,
+            "perdidos": 5,
+            "goles_favor": 11,
+            "goles_contra": 11,
+            "diferencia": 0,
+            "puntos": 12
+        }
+    },
+    "EC de Patos": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "44%",
+            "over_2_5": "22%",
+            "over_3_5": "11%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 9,
+            "ganados": 3,
+            "empatados": 2,
+            "perdidos": 4,
+            "goles_favor": 6,
+            "goles_contra": 9,
+            "diferencia": -3,
+            "puntos": 11
+        }
+    },
+    "Botafogo PB": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "20%",
+            "over_3_5": "20%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 10,
+            "ganados": 4,
+            "empatados": 4,
+            "perdidos": 2,
+            "goles_favor": 13,
+            "goles_contra": 8,
+            "diferencia": 5,
+            "puntos": 16
+        }
+    },
+    "Confiança EC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "56%",
+            "over_3_5": "33%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 9,
+            "ganados": 2,
+            "empatados": 2,
+            "perdidos": 5,
+            "goles_favor": 12,
+            "goles_contra": 17,
+            "diferencia": -5,
+            "puntos": 8
+        }
+    },
+    "Sousa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "40%",
+            "over_3_5": "0%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 10,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 13,
+            "goles_contra": 9,
+            "diferencia": 4,
+            "puntos": 15
+        }
+    },
+    "Nacional Patos": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "56%",
+            "over_3_5": "22%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 9,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 1,
+            "goles_favor": 14,
+            "goles_contra": 10,
+            "diferencia": 4,
+            "puntos": 14
+        }
+    },
+    "Serra Branca": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "30%",
+            "over_3_5": "20%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 10,
+            "ganados": 5,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 12,
+            "goles_contra": 10,
+            "diferencia": 2,
+            "puntos": 17
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "40.4%",
+            "over_2_5": "19.1%",
+            "over_3_5": "6.4%",
+            "bts": "28.7%"
+        },
+        "position": {}
+    },
+    "Campinense": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60%",
+            "over_2_5": "40%",
+            "over_3_5": "30%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 10,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 15,
+            "goles_contra": 9,
+            "diferencia": 6,
+            "puntos": 18
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:54:53.552906",
+        "liga": "brazil17"
+    }
+}

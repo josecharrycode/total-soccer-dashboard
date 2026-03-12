@@ -1,0 +1,396 @@
+{
+    "Verl B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "55%",
+            "over_3_5": "36%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 22,
+            "ganados": 6,
+            "empatados": 6,
+            "perdidos": 10,
+            "goles_favor": 31,
+            "goles_contra": 43,
+            "diferencia": -12,
+            "puntos": 24
+        }
+    },
+    "ASC Dortmund": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "54%",
+            "over_3_5": "50%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 24,
+            "ganados": 15,
+            "empatados": 5,
+            "perdidos": 4,
+            "goles_favor": 61,
+            "goles_contra": 28,
+            "diferencia": 33,
+            "puntos": 50
+        }
+    },
+    "Erkenschwick": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "74%",
+            "over_3_5": "48%",
+            "bts": "70%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 23,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 36,
+            "goles_contra": 46,
+            "diferencia": -10,
+            "puntos": 29
+        }
+    },
+    "E. Rheine": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "67%",
+            "over_3_5": "43%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 21,
+            "ganados": 6,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 35,
+            "goles_contra": 37,
+            "diferencia": -2,
+            "puntos": 26
+        }
+    },
+    "Lippstadt": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "59%",
+            "over_3_5": "36%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 22,
+            "ganados": 13,
+            "empatados": 6,
+            "perdidos": 3,
+            "goles_favor": 44,
+            "goles_contra": 17,
+            "diferencia": 27,
+            "puntos": 45
+        }
+    },
+    "Sprockhovel": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "82%",
+            "over_3_5": "55%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 22,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 43,
+            "goles_contra": 44,
+            "diferencia": -1,
+            "puntos": 28
+        }
+    },
+    "Wattenscheid 09": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "57%",
+            "over_3_5": "35%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 23,
+            "ganados": 15,
+            "empatados": 6,
+            "perdidos": 2,
+            "goles_favor": 47,
+            "goles_contra": 19,
+            "diferencia": 28,
+            "puntos": 51
+        }
+    },
+    "Gievenbeck": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "61%",
+            "over_3_5": "26%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 23,
+            "ganados": 9,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 34,
+            "goles_contra": 35,
+            "diferencia": -1,
+            "puntos": 32
+        }
+    },
+    "Turkspor D.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "70%",
+            "over_3_5": "52%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 23,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 11,
+            "goles_favor": 42,
+            "goles_contra": 45,
+            "diferencia": -3,
+            "puntos": 30
+        }
+    },
+    "Rot Weiss Ahlen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "62%",
+            "over_3_5": "48%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 18,
+            "partidos": 21,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 13,
+            "goles_favor": 17,
+            "goles_contra": 50,
+            "diferencia": -33,
+            "puntos": 14
+        }
+    },
+    "Finnentrop/B.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "68%",
+            "over_3_5": "59%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 22,
+            "ganados": 4,
+            "empatados": 8,
+            "perdidos": 10,
+            "goles_favor": 32,
+            "goles_contra": 52,
+            "diferencia": -20,
+            "puntos": 20
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64.9%",
+            "over_2_5": "43.6%",
+            "over_3_5": "22.7%",
+            "bts": "20.1%"
+        },
+        "position": {}
+    },
+    "V. Clarholz": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "65%",
+            "over_3_5": "43%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 23,
+            "ganados": 9,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 33,
+            "goles_contra": 38,
+            "diferencia": -5,
+            "puntos": 31
+        }
+    },
+    "Hiltrup": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "57%",
+            "over_3_5": "39%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 23,
+            "ganados": 6,
+            "empatados": 8,
+            "perdidos": 9,
+            "goles_favor": 33,
+            "goles_contra": 37,
+            "diferencia": -4,
+            "puntos": 26
+        }
+    },
+    "Vreden": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "52%",
+            "over_3_5": "38%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 21,
+            "ganados": 6,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 30,
+            "goles_contra": 35,
+            "diferencia": -5,
+            "puntos": 23
+        }
+    },
+    "Ennepetal": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "78%",
+            "over_3_5": "43%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 19,
+            "partidos": 23,
+            "ganados": 3,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 28,
+            "goles_contra": 57,
+            "diferencia": -29,
+            "puntos": 13
+        }
+    },
+    "P. Munster B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "83%",
+            "over_3_5": "43%",
+            "bts": "70%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 23,
+            "ganados": 14,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 52,
+            "goles_contra": 31,
+            "diferencia": 21,
+            "puntos": 45
+        }
+    },
+    "Schermbeck": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "61%",
+            "over_3_5": "48%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 23,
+            "ganados": 5,
+            "empatados": 8,
+            "perdidos": 10,
+            "goles_favor": 34,
+            "goles_contra": 42,
+            "diferencia": -8,
+            "puntos": 23
+        }
+    },
+    "Bielefeld B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "58%",
+            "over_3_5": "37%",
+            "bts": "68%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 19,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 7,
+            "goles_favor": 28,
+            "goles_contra": 31,
+            "diferencia": -3,
+            "puntos": 26
+        }
+    },
+    "W. Rhynern": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "71%",
+            "over_3_5": "48%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 21,
+            "ganados": 14,
+            "empatados": 4,
+            "perdidos": 3,
+            "goles_favor": 52,
+            "goles_contra": 25,
+            "diferencia": 27,
+            "puntos": 46
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:08:34.213704",
+        "liga": "germany12"
+    }
+}

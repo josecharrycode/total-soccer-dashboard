@@ -1,0 +1,256 @@
+{
+    "Haugesund W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "73%",
+            "over_3_5": "50%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 22,
+            "ganados": 14,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 53,
+            "goles_contra": 26,
+            "diferencia": 27,
+            "puntos": 46
+        }
+    },
+    "Viking FK W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "64%",
+            "over_3_5": "41%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 22,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 11,
+            "goles_favor": 30,
+            "goles_contra": 45,
+            "diferencia": -15,
+            "puntos": 25
+        }
+    },
+    "HamKam W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "50%",
+            "over_3_5": "32%",
+            "bts": "27%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 22,
+            "ganados": 3,
+            "empatados": 1,
+            "perdidos": 18,
+            "goles_favor": 13,
+            "goles_contra": 47,
+            "diferencia": -34,
+            "puntos": 10
+        }
+    },
+    "Start W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "36%",
+            "over_3_5": "27%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 22,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 9,
+            "goles_favor": 23,
+            "goles_contra": 31,
+            "diferencia": -8,
+            "puntos": 25
+        }
+    },
+    "KIL/Hemne W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "55%",
+            "over_3_5": "32%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 22,
+            "ganados": 3,
+            "empatados": 6,
+            "perdidos": 13,
+            "goles_favor": 19,
+            "goles_contra": 46,
+            "diferencia": -27,
+            "puntos": 15
+        }
+    },
+    "TIL 2020 W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "68%",
+            "over_3_5": "55%",
+            "bts": "68%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 22,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 39,
+            "goles_contra": 45,
+            "diferencia": -6,
+            "puntos": 26
+        }
+    },
+    "Arna-Bjornar W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "59%",
+            "over_3_5": "45%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 22,
+            "ganados": 10,
+            "empatados": 6,
+            "perdidos": 6,
+            "goles_favor": 42,
+            "goles_contra": 35,
+            "diferencia": 7,
+            "puntos": 36
+        }
+    },
+    "Odd W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "59%",
+            "over_3_5": "36%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 22,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 11,
+            "goles_favor": 29,
+            "goles_contra": 41,
+            "diferencia": -12,
+            "puntos": 25
+        }
+    },
+    "Aalesund W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "64%",
+            "over_3_5": "41%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 22,
+            "ganados": 15,
+            "empatados": 6,
+            "perdidos": 1,
+            "goles_favor": 54,
+            "goles_contra": 15,
+            "diferencia": 39,
+            "puntos": 51
+        }
+    },
+    "Asane W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "68%",
+            "over_3_5": "36%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 22,
+            "ganados": 11,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 40,
+            "goles_contra": 23,
+            "diferencia": 17,
+            "puntos": 38
+        }
+    },
+    "Molde W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "82%",
+            "over_3_5": "73%",
+            "bts": "91%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 22,
+            "ganados": 13,
+            "empatados": 5,
+            "perdidos": 4,
+            "goles_favor": 54,
+            "goles_contra": 32,
+            "diferencia": 22,
+            "puntos": 44
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61.4%",
+            "over_2_5": "42.4%",
+            "over_3_5": "20.5%",
+            "bts": "23.1%"
+        },
+        "position": {}
+    },
+    "Fyllingsdalen W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "59%",
+            "over_3_5": "41%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 22,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 28,
+            "goles_contra": 38,
+            "diferencia": -10,
+            "puntos": 26
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:25:59.581003",
+        "liga": "norway12"
+    }
+}

@@ -1,0 +1,296 @@
+{
+    "Heidelberg Utd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "50%",
+            "over_3_5": "0%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 4,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 5,
+            "goles_contra": 3,
+            "diferencia": 2,
+            "puntos": 9
+        }
+    },
+    "Green Gully": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 4,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 2,
+            "goles_contra": 10,
+            "diferencia": -8,
+            "puntos": 1
+        }
+    },
+    "Avondale": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "25%",
+            "over_3_5": "25%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 4,
+            "ganados": 2,
+            "empatados": 0,
+            "perdidos": 2,
+            "goles_favor": 6,
+            "goles_contra": 4,
+            "diferencia": 2,
+            "puntos": 6
+        }
+    },
+    "Dandenong T.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "25%",
+            "over_3_5": "0%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 4,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 2,
+            "goles_contra": 5,
+            "diferencia": -3,
+            "puntos": 1
+        }
+    },
+    "Dandenong City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 4,
+            "goles_contra": 5,
+            "diferencia": -1,
+            "puntos": 5
+        }
+    },
+    "Melbourne C. B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 6,
+            "goles_contra": 7,
+            "diferencia": -1,
+            "puntos": 5
+        }
+    },
+    "St. Albans": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "25%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 2,
+            "goles_contra": 6,
+            "diferencia": -4,
+            "puntos": 4
+        }
+    },
+    "Bentleigh G.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "25%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 2,
+            "goles_contra": 2,
+            "diferencia": 0,
+            "puntos": 4
+        }
+    },
+    "South Melbourne": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "0%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 4,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 6,
+            "goles_contra": 3,
+            "diferencia": 3,
+            "puntos": 9
+        }
+    },
+    "George Cross": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "25%",
+            "over_3_5": "0%",
+            "bts": "25%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 4,
+            "ganados": 2,
+            "empatados": 2,
+            "perdidos": 0,
+            "goles_favor": 4,
+            "goles_contra": 1,
+            "diferencia": 3,
+            "puntos": 8
+        }
+    },
+    "Altona Magic": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "75%",
+            "over_3_5": "50%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 3,
+            "goles_favor": 5,
+            "goles_contra": 7,
+            "diferencia": -2,
+            "puntos": 3
+        }
+    },
+    "Oakleigh C.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "75%",
+            "over_3_5": "75%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 4,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 8,
+            "goles_contra": 6,
+            "diferencia": 2,
+            "puntos": 7
+        }
+    },
+    "Hume City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 4,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 5,
+            "goles_contra": 5,
+            "diferencia": 0,
+            "puntos": 7
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "46.4%",
+            "over_2_5": "21.4%",
+            "over_3_5": "7.1%",
+            "bts": "32.1%"
+        },
+        "position": {}
+    },
+    "Preston Lions": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "75%",
+            "over_3_5": "25%",
+            "bts": "25%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 4,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 9,
+            "goles_contra": 2,
+            "diferencia": 7,
+            "puntos": 9
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:48:47.059386",
+        "liga": "australia3"
+    }
+}

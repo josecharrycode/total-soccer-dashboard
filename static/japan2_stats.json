@@ -1,0 +1,636 @@
+{
+    "Blaublitz Akita": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 4.42,
+                "corners_contra": 5.47
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 3.47,
+                "corners_contra": 5.63
+            }
+        },
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "53%",
+            "over_3_5": "29%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 38,
+            "ganados": 11,
+            "empatados": 10,
+            "perdidos": 17,
+            "goles_favor": 43,
+            "goles_contra": 59,
+            "diferencia": -16,
+            "puntos": 43
+        }
+    },
+    "Oita Trinita": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 3.68,
+                "corners_contra": 4.16
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 4.32,
+                "corners_contra": 4.95
+            }
+        },
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "32%",
+            "over_3_5": "11%",
+            "bts": "37%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 38,
+            "ganados": 8,
+            "empatados": 14,
+            "perdidos": 16,
+            "goles_favor": 27,
+            "goles_contra": 44,
+            "diferencia": -17,
+            "puntos": 38
+        }
+    },
+    "Ventforet Kofu": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 3.79,
+                "corners_contra": 4.89
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 4.0,
+                "corners_contra": 4.95
+            }
+        },
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "37%",
+            "over_3_5": "21%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 38,
+            "ganados": 11,
+            "empatados": 11,
+            "perdidos": 16,
+            "goles_favor": 37,
+            "goles_contra": 45,
+            "diferencia": -8,
+            "puntos": 44
+        }
+    },
+    "C. Sapporo": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 6.32,
+                "corners_contra": 4.32
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 4.37,
+                "corners_contra": 4.47
+            }
+        },
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "61%",
+            "over_3_5": "32%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 38,
+            "ganados": 16,
+            "empatados": 5,
+            "perdidos": 17,
+            "goles_favor": 50,
+            "goles_contra": 63,
+            "diferencia": -13,
+            "puntos": 53
+        }
+    },
+    "Kataller Toyama": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.42,
+                "corners_contra": 4.58
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 4.0,
+                "corners_contra": 6.11
+            }
+        },
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "39%",
+            "over_3_5": "24%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 38,
+            "ganados": 9,
+            "empatados": 10,
+            "perdidos": 19,
+            "goles_favor": 34,
+            "goles_contra": 49,
+            "diferencia": -15,
+            "puntos": 37
+        }
+    },
+    "V-V. Nagasaki": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.26,
+                "corners_contra": 4.42
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 5.63,
+                "corners_contra": 5.11
+            }
+        },
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "53%",
+            "over_3_5": "29%",
+            "bts": "66%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 38,
+            "ganados": 19,
+            "empatados": 13,
+            "perdidos": 6,
+            "goles_favor": 63,
+            "goles_contra": 44,
+            "diferencia": 19,
+            "puntos": 70
+        }
+    },
+    "Mito Hollyhock": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.05,
+                "corners_contra": 3.47
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 3.74,
+                "corners_contra": 4.68
+            }
+        },
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "47%",
+            "over_3_5": "21%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 38,
+            "ganados": 20,
+            "empatados": 10,
+            "perdidos": 8,
+            "goles_favor": 55,
+            "goles_contra": 34,
+            "diferencia": 21,
+            "puntos": 70
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "45.3%",
+            "over_2_5": "26.1%",
+            "over_3_5": "12.4%",
+            "bts": "29.3%"
+        },
+        "position": {}
+    },
+    "R. Yamaguchi": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 4.74,
+                "corners_contra": 3.95
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 5.0,
+                "corners_contra": 4.58
+            }
+        },
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "42%",
+            "over_3_5": "24%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 19,
+            "partidos": 38,
+            "ganados": 7,
+            "empatados": 15,
+            "perdidos": 16,
+            "goles_favor": 36,
+            "goles_contra": 47,
+            "diferencia": -11,
+            "puntos": 36
+        }
+    },
+    "JEF Utd Chiba": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.16,
+                "corners_contra": 3.63
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 3.79,
+                "corners_contra": 5.74
+            }
+        },
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "39%",
+            "over_3_5": "26%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 38,
+            "ganados": 20,
+            "empatados": 9,
+            "perdidos": 9,
+            "goles_favor": 56,
+            "goles_contra": 34,
+            "diferencia": 22,
+            "puntos": 69
+        }
+    },
+    "Iwaki": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.84,
+                "corners_contra": 4.32
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 5.37,
+                "corners_contra": 4.21
+            }
+        },
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "42%",
+            "over_3_5": "29%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 38,
+            "ganados": 15,
+            "empatados": 11,
+            "perdidos": 12,
+            "goles_favor": 55,
+            "goles_contra": 44,
+            "diferencia": 11,
+            "puntos": 56
+        }
+    },
+    "Jubilo Iwata": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.16,
+                "corners_contra": 4.26
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 5.0,
+                "corners_contra": 4.95
+            }
+        },
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "55%",
+            "over_3_5": "39%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 38,
+            "ganados": 19,
+            "empatados": 7,
+            "perdidos": 12,
+            "goles_favor": 59,
+            "goles_contra": 51,
+            "diferencia": 8,
+            "puntos": 64
+        }
+    },
+    "Fujieda MYFC": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.42,
+                "corners_contra": 4.68
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 5.74,
+                "corners_contra": 4.47
+            }
+        },
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "42%",
+            "over_3_5": "21%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 38,
+            "ganados": 9,
+            "empatados": 12,
+            "perdidos": 17,
+            "goles_favor": 41,
+            "goles_contra": 50,
+            "diferencia": -9,
+            "puntos": 39
+        }
+    },
+    "Sagan Tosu": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 4.84,
+                "corners_contra": 4.84
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 4.53,
+                "corners_contra": 4.16
+            }
+        },
+        "goals": {
+            "over_1_5": "58%",
+            "over_2_5": "45%",
+            "over_3_5": "26%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 38,
+            "ganados": 16,
+            "empatados": 10,
+            "perdidos": 12,
+            "goles_favor": 46,
+            "goles_contra": 43,
+            "diferencia": 3,
+            "puntos": 58
+        }
+    },
+    "Tokushima V.": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 4.47,
+                "corners_contra": 4.0
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 3.74,
+                "corners_contra": 4.37
+            }
+        },
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "18%",
+            "over_3_5": "11%",
+            "bts": "32%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 38,
+            "ganados": 18,
+            "empatados": 11,
+            "perdidos": 9,
+            "goles_favor": 45,
+            "goles_contra": 24,
+            "diferencia": 21,
+            "puntos": 65
+        }
+    },
+    "M. Yamagata": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.37,
+                "corners_contra": 5.21
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 4.21,
+                "corners_contra": 5.47
+            }
+        },
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "68%",
+            "over_3_5": "37%",
+            "bts": "66%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 38,
+            "ganados": 15,
+            "empatados": 8,
+            "perdidos": 15,
+            "goles_favor": 58,
+            "goles_contra": 54,
+            "diferencia": 4,
+            "puntos": 53
+        }
+    },
+    "R. Kumamoto": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.79,
+                "corners_contra": 4.47
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 4.95,
+                "corners_contra": 4.89
+            }
+        },
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "47%",
+            "over_3_5": "32%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 18,
+            "partidos": 38,
+            "ganados": 9,
+            "empatados": 10,
+            "perdidos": 19,
+            "goles_favor": 41,
+            "goles_contra": 57,
+            "diferencia": -16,
+            "puntos": 37
+        }
+    },
+    "Omiya Ardija": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 6.53,
+                "corners_contra": 5.53
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 4.53,
+                "corners_contra": 4.89
+            }
+        },
+        "goals": {
+            "over_1_5": "66%",
+            "over_2_5": "55%",
+            "over_3_5": "26%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 38,
+            "ganados": 18,
+            "empatados": 9,
+            "perdidos": 11,
+            "goles_favor": 60,
+            "goles_contra": 39,
+            "diferencia": 21,
+            "puntos": 63
+        }
+    },
+    "FC Imabari": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 4.16,
+                "corners_contra": 5.63
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 5.16,
+                "corners_contra": 4.89
+            }
+        },
+        "goals": {
+            "over_1_5": "58%",
+            "over_2_5": "42%",
+            "over_3_5": "29%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 38,
+            "ganados": 13,
+            "empatados": 14,
+            "perdidos": 11,
+            "goles_favor": 46,
+            "goles_contra": 46,
+            "diferencia": 0,
+            "puntos": 53
+        }
+    },
+    "Vegalta Sendai": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 5.26,
+                "corners_contra": 3.53
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 5.53,
+                "corners_contra": 4.95
+            }
+        },
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "37%",
+            "over_3_5": "21%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 38,
+            "ganados": 16,
+            "empatados": 14,
+            "perdidos": 8,
+            "goles_favor": 47,
+            "goles_contra": 36,
+            "diferencia": 11,
+            "puntos": 62
+        }
+    },
+    "Ehime FC": {
+        "corners": {
+            "local": {
+                "partidos": 19,
+                "corners_favor": 4.37,
+                "corners_contra": 5.21
+            },
+            "visitante": {
+                "partidos": 19,
+                "corners_favor": 3.53,
+                "corners_contra": 7.58
+            }
+        },
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "50%",
+            "over_3_5": "34%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 20,
+            "partidos": 38,
+            "ganados": 3,
+            "empatados": 13,
+            "perdidos": 22,
+            "goles_favor": 35,
+            "goles_contra": 71,
+            "diferencia": -36,
+            "puntos": 22
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:18:47.729262",
+        "liga": "japan2"
+    }
+}

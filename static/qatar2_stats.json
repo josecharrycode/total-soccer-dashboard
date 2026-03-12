@@ -1,0 +1,176 @@
+{
+    "Lusail City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "22%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 5,
+            "ganados": 4,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 12,
+            "goles_contra": 5,
+            "diferencia": 7,
+            "puntos": 12
+        }
+    },
+    "Al Kharitiyath": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "56%",
+            "over_3_5": "22%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 5,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 2,
+            "goles_favor": 8,
+            "goles_contra": 5,
+            "diferencia": 3,
+            "puntos": 9
+        }
+    },
+    "Al Bidda": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "44%",
+            "over_3_5": "22%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 5,
+            "goles_contra": 5,
+            "diferencia": 0,
+            "puntos": 5
+        }
+    },
+    "Al Khor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "33%",
+            "bts": "89%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 5,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 2,
+            "goles_favor": 7,
+            "goles_contra": 7,
+            "diferencia": 0,
+            "puntos": 5
+        }
+    },
+    "Al Muaidar": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "56%",
+            "over_3_5": "44%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 6,
+            "goles_contra": 12,
+            "diferencia": -6,
+            "puntos": 4
+        }
+    },
+    "Al Markhiya": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "89%",
+            "over_3_5": "22%",
+            "bts": "78%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 4,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 6,
+            "goles_contra": 3,
+            "diferencia": 3,
+            "puntos": 7
+        }
+    },
+    "Al Mesaimeer": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "67%",
+            "over_3_5": "22%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 5,
+            "ganados": 2,
+            "empatados": 0,
+            "perdidos": 3,
+            "goles_favor": 7,
+            "goles_contra": 8,
+            "diferencia": -1,
+            "puntos": 6
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61.1%",
+            "over_2_5": "27.8%",
+            "over_3_5": "16.7%",
+            "bts": "22.2%"
+        },
+        "position": {}
+    },
+    "Al Waab": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "44%",
+            "over_3_5": "33%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 6,
+            "goles_contra": 6,
+            "diferencia": 0,
+            "puntos": 5
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:30:51.839942",
+        "liga": "qatar2"
+    }
+}

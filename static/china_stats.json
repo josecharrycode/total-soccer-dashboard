@@ -1,0 +1,336 @@
+{
+    "S. Shenhua": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "100%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 5,
+            "goles_contra": 3,
+            "diferencia": 2,
+            "puntos": 3
+        }
+    },
+    "Zhejiang": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 0,
+            "diferencia": 2,
+            "puntos": 3
+        }
+    },
+    "Shanghai Port": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 2,
+            "diferencia": -1,
+            "puntos": 0
+        }
+    },
+    "Tianjin JT": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "0%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 0,
+            "goles_contra": 0,
+            "diferencia": 0,
+            "puntos": 1
+        }
+    },
+    "Shandong T.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 3,
+            "goles_contra": 0,
+            "diferencia": 3,
+            "puntos": 3
+        }
+    },
+    "Beijing Guoan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 0,
+            "diferencia": 2,
+            "puntos": 3
+        }
+    },
+    "Qingdao West C.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 0,
+            "goles_contra": 2,
+            "diferencia": -2,
+            "puntos": 0
+        }
+    },
+    "Yunnan Yukun": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "100%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 3,
+            "goles_contra": 1,
+            "diferencia": 2,
+            "puntos": 3
+        }
+    },
+    "Chongqing T.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "0%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 0,
+            "goles_contra": 0,
+            "diferencia": 0,
+            "puntos": 1
+        }
+    },
+    "Wuhan Three T.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 0,
+            "goles_contra": 2,
+            "diferencia": -2,
+            "puntos": 0
+        }
+    },
+    "Dalian Yingbo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "100%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 5,
+            "diferencia": -2,
+            "puntos": 0
+        }
+    },
+    "Shenzhen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "100%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 5,
+            "diferencia": -4,
+            "puntos": 0
+        }
+    },
+    "Liaoning Tieren": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 0,
+            "goles_contra": 3,
+            "diferencia": -3,
+            "puntos": 0
+        }
+    },
+    "Qingdao Hainiu": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "100%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 3,
+            "diferencia": -2,
+            "puntos": 0
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "62.5%",
+            "over_2_5": "37.5%",
+            "over_3_5": "25.0%",
+            "bts": "31.3%"
+        },
+        "position": {}
+    },
+    "Henan SL": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 1,
+            "diferencia": 1,
+            "puntos": 3
+        }
+    },
+    "Chengdu": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "100%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 5,
+            "goles_contra": 1,
+            "diferencia": 4,
+            "puntos": 3
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:56:13.660031",
+        "liga": "china"
+    }
+}

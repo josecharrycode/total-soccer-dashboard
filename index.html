@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Total Soccer Predictor</title>
+    
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+    <header class="header">
+        <div class="container header-content">
+            <h1 class="logo">⚽ <span class="logo-text">TOTAL SOCCER DASHBOARD</span></h1>
+            
+            <div class="league-selector-container">
+                <select id="league-select" class="league-select">
+                    <option value="">Cargando ligas disponibles...</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content container">
+        
+        <section id="setup-section" class="match-setup">
+            <div class="team-selectors">
+                <div class="team-selector home-team">
+                    <label>LOCAL 🏠</label>
+                    <select id="home-team" class="team-select">
+                        <option value="">-- Seleccionar --</option>
+                    </select>
+                </div>
+                
+                <div class="vs-divider">
+                    <span class="vs-text">VS</span>
+                </div>
+                
+                <div class="team-selector away-team">
+                    <label>VISITANTE ✈️</label>
+                    <select id="away-team" class="team-select">
+                        <option value="">-- Seleccionar --</option>
+                    </select>
+                </div>
+            </div>
+            
+            <button id="analyze-btn" class="analyze-btn" disabled>ANALIZAR PARTIDO 📊</button>
+        </section>
+
+        <div id="results-container" class="dashboard-3col hidden">
+            
+            <aside class="panel-lateral panel-local">
+                <h2 id="home-name" class="team-title text-green">EQUIPO LOCAL</h2>
+                <div class="stat-list">
+                    <div class="stat-item"><span>Posición</span><span id="h-pos" class="bold">#0</span></div>
+                    <div class="stat-item"><span>Puntos</span><span id="h-pts" class="bold">0 pts</span></div>
+                    <div class="stat-item"><span>Partidos (G/E/P)</span><span id="h-games" class="bold">0 (0/0/0)</span></div>
+                    <div class="stat-item"><span>Win Rate</span><span id="h-winrate" class="bold">0%</span></div>
+                    <div class="stat-item"><span>Goles F/C</span><span id="h-goals" class="bold">0/0</span></div>
+                    <div class="stat-item"><span>Promedio Goles</span><span id="h-avg-goals" class="bold">0.00 / 0.00</span></div>
+                    <div class="stat-item"><span>Diferencia</span><span id="h-diff" class="text-green bold">+0</span></div>
+                    <div class="stat-item"><span>Corners (F/C)</span><span id="h-corners" class="bold">0.0 / 0.0</span></div>
+                    <div class="stat-item"><span>Over 2.5</span><span id="h-o25" class="bold">0%</span></div>
+                    <div class="stat-item"><span>BTTS</span><span id="h-btts" class="bold">0%</span></div>
+                </div>
+            </aside>
+
+            <section class="panel-central">
+                <div class="pred-grid">
+                    
+                    <div class="pred-box col-span-2">
+                        <div class="box-header">🏆 GANADOR</div>
+                        <h1 id="pred-winner" class="text-green text-center">LOCAL</h1>
+                        <p id="pred-conf" class="text-center text-muted text-sm mb-2">Confianza: MEDIA (45.9%)</p>
+                        
+                        <div class="prob-bar-container">
+                            <div id="bar-1" class="prob-bar bg-green" style="width: 45%;"></div>
+                            <div id="bar-x" class="prob-bar bg-gray" style="width: 32%;"></div>
+                            <div id="bar-2" class="prob-bar bg-blue" style="width: 23%;"></div>
+                        </div>
+                        <div class="text-xs text-center mt-1 text-muted">
+                            Local: <span id="txt-1">45%</span> | Empate: <span id="txt-x">32%</span> | Visita: <span id="txt-2">23%</span>
+                        </div>
+                    </div>
+
+                    <div class="pred-box">
+                        <div class="box-header">🎯 AMBOS ANOTAN</div>
+                        <h1 id="pred-btts-text" class="text-green text-center">✅ SÍ</h1>
+                        <p id="pred-btts-prob" class="text-center text-muted text-sm">Probabilidad: 50.0%</p>
+                    </div>
+
+                    <div class="pred-box">
+                        <div class="box-header">⚽ OVER/UNDER</div>
+                        <div class="flex-between text-sm mb-1"><span>Over 1.5 ★</span><span id="ou-15" class="bold">72.5%</span></div>
+                        <div class="flex-between text-sm mb-1"><span>Over 2.5</span><span id="ou-25" class="bold">46.0%</span></div>
+                        <div class="flex-between text-sm"><span>Over 3.5</span><span id="ou-35" class="bold">22.0%</span></div>
+                    </div>
+
+                    <div class="pred-box">
+                        <div class="box-header">🚩 CORNERS</div>
+                        <div class="flex-around text-center mb-2">
+                            <div><p class="text-xs text-muted">Total Esperado</p><h2 id="pred-corn-tot" class="text-green">9.1</h2></div>
+                            <div><p class="text-xs text-muted">Local</p><h3 id="pred-corn-h" class="text-green">5.2</h3></div>
+                        </div>
+                        <div class="flex-between bg-darker p-1 radius text-sm">
+                            <span class="text-muted">Visitante: <span id="pred-corn-a" class="text-blue">3.9</span></span>
+                            <span class="text-yellow bold" id="pred-corn-rec">Over 8.5</span>
+                        </div>
+                    </div>
+
+                    <div class="pred-box">
+                        <div class="box-header">🛡️ PORTERÍA CERO</div>
+                        <div class="flex-between mb-2"><span>✅ Local</span><span id="cs-h" class="text-green bold">47.4%</span></div>
+                        <div class="flex-between"><span>✅ Visitante</span><span id="cs-a" class="text-blue bold">36.8%</span></div>
+                    </div>
+
+                    <div class="pred-box">
+                        <div class="box-header">📊 TOTAL GOLES</div>
+                        <div class="flex-between mb-1"><span>Goles Esperados</span><span id="tg-exp" class="text-green bold text-lg">2.71</span></div>
+                        <div class="flex-between mb-2 pb-2 border-bottom"><span>Rango Probable</span><span id="tg-range" class="text-yellow bold">2-3 goles</span></div>
+                        <div class="flex-between text-sm mb-1"><span class="text-muted">0-1 goles</span><span id="tg-01">25%</span></div>
+                        <div class="flex-between text-sm mb-1"><span class="text-muted">2-3 goles</span><span id="tg-23">60%</span></div>
+                        <div class="flex-between text-sm"><span class="text-muted">4+ goles</span><span id="tg-4p">15%</span></div>
+                    </div>
+
+                    <div class="pred-box">
+                        <div class="box-header">🎲 DOBLE CHANCE</div>
+                        <div class="flex-between mb-2 bg-darker p-1 radius"><span>Local o Empate ★</span><span id="dc-1x" class="text-green bold">78.0%</span></div>
+                        <div class="flex-between mb-2 p-1"><span>Visitante o Empate</span><span id="dc-x2" class="text-blue bold">54.1%</span></div>
+                        <div class="flex-between p-1"><span>Local o Visitante</span><span id="dc-12" class="bold">67.9%</span></div>
+                    </div>
+
+                    <div class="pred-box col-span-2">
+                        <div class="box-header">🎯 MARCADORES PROBABLES</div>
+                        <div class="flex-around mt-2 gap-15">
+                            <div class="score-card text-center w-100">
+                                <h1 id="score-1" class="score-value">--</h1>
+                                <div id="score-1-prob" class="score-prob">--</div>
+                            </div>
+                            <div class="score-card text-center w-100">
+                                <h1 id="score-2" class="score-value">--</h1>
+                                <div id="score-2-prob" class="score-prob">--</div>
+                            </div>
+                            <div class="score-card text-center w-100">
+                                <h1 id="score-3" class="score-value">--</h1>
+                                <div id="score-3-prob" class="score-prob">--</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div> <div class="text-center mt-3">
+                    <button id="btn-back" class="analyze-btn" style="font-size:1rem; padding: 10px;">← NUEVO ANÁLISIS</button>
+                </div>
+            </section>
+
+            <aside class="panel-lateral panel-visita">
+                <h2 id="away-name" class="team-title text-blue">EQUIPO VISITANTE</h2>
+                <div class="stat-list">
+                    <div class="stat-item"><span>Posición</span><span id="a-pos" class="bold">#0</span></div>
+                    <div class="stat-item"><span>Puntos</span><span id="a-pts" class="bold">0 pts</span></div>
+                    <div class="stat-item"><span>Partidos (G/E/P)</span><span id="a-games" class="bold">0 (0/0/0)</span></div>
+                    <div class="stat-item"><span>Win Rate</span><span id="a-winrate" class="bold">0%</span></div>
+                    <div class="stat-item"><span>Goles F/C</span><span id="a-goals" class="bold">0/0</span></div>
+                    <div class="stat-item"><span>Promedio Goles</span><span id="a-avg-goals" class="bold">0.00 / 0.00</span></div>
+                    <div class="stat-item"><span>Diferencia</span><span id="a-diff" class="text-blue bold">+0</span></div>
+                    <div class="stat-item"><span>Corners (F/C)</span><span id="a-corners" class="bold">0.0 / 0.0</span></div>
+                    <div class="stat-item"><span>Over 2.5</span><span id="a-o25" class="bold">0%</span></div>
+                    <div class="stat-item"><span>BTTS</span><span id="a-btts" class="bold">0%</span></div>
+                </div>
+            </aside>
+
+        </div>
+    </main>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

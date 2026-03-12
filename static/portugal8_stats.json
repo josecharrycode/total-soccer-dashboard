@@ -1,0 +1,216 @@
+{
+    "SL Benfica W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "67%",
+            "over_3_5": "67%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 12,
+            "ganados": 10,
+            "empatados": 2,
+            "perdidos": 0,
+            "goles_favor": 44,
+            "goles_contra": 6,
+            "diferencia": 38,
+            "puntos": 32
+        }
+    },
+    "Racing Power W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "25%",
+            "over_3_5": "17%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 8,
+            "goles_contra": 15,
+            "diferencia": -7,
+            "puntos": 13
+        }
+    },
+    "Maritimo W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "83%",
+            "over_3_5": "50%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 2,
+            "perdidos": 7,
+            "goles_favor": 16,
+            "goles_contra": 30,
+            "diferencia": -14,
+            "puntos": 11
+        }
+    },
+    "Torreense W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "42%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 12,
+            "ganados": 7,
+            "empatados": 0,
+            "perdidos": 5,
+            "goles_favor": 21,
+            "goles_contra": 17,
+            "diferencia": 4,
+            "puntos": 21
+        }
+    },
+    "Sporting W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "50%",
+            "over_3_5": "42%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 12,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 1,
+            "goles_favor": 28,
+            "goles_contra": 9,
+            "diferencia": 19,
+            "puntos": 25
+        }
+    },
+    "Vitoria G. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 12,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 4,
+            "goles_favor": 13,
+            "goles_contra": 19,
+            "diferencia": -6,
+            "puntos": 14
+        }
+    },
+    "Valadares G. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "25%",
+            "over_3_5": "25%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 12,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 14,
+            "goles_contra": 14,
+            "diferencia": 0,
+            "puntos": 18
+        }
+    },
+    "Damaiense W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "83%",
+            "over_3_5": "58%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 12,
+            "ganados": 1,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 9,
+            "goles_contra": 40,
+            "diferencia": -31,
+            "puntos": 6
+        }
+    },
+    "Rio Ave W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "58%",
+            "over_2_5": "17%",
+            "over_3_5": "8%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 12,
+            "ganados": 2,
+            "empatados": 3,
+            "perdidos": 7,
+            "goles_favor": 6,
+            "goles_contra": 15,
+            "diferencia": -9,
+            "puntos": 9
+        }
+    },
+    "Braga W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "50%",
+            "over_3_5": "17%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 12,
+            "ganados": 4,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 19,
+            "goles_contra": 13,
+            "diferencia": 6,
+            "puntos": 16
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50.0%",
+            "over_2_5": "35.0%",
+            "over_3_5": "23.3%",
+            "bts": "29.2%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:30:06.123566",
+        "liga": "portugal8"
+    }
+}

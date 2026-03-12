@@ -1,0 +1,256 @@
+{
+    "Paris SG W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "65%",
+            "over_3_5": "47%",
+            "bts": "41%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 17,
+            "ganados": 12,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 42,
+            "goles_contra": 15,
+            "diferencia": 27,
+            "puntos": 39
+        }
+    },
+    "Saint-Etienne W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "65%",
+            "over_2_5": "29%",
+            "over_3_5": "24%",
+            "bts": "24%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 17,
+            "ganados": 2,
+            "empatados": 3,
+            "perdidos": 12,
+            "goles_favor": 8,
+            "goles_contra": 30,
+            "diferencia": -22,
+            "puntos": 9
+        }
+    },
+    "Montpellier W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "94%",
+            "over_2_5": "82%",
+            "over_3_5": "35%",
+            "bts": "82%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 17,
+            "ganados": 2,
+            "empatados": 3,
+            "perdidos": 12,
+            "goles_favor": 22,
+            "goles_contra": 36,
+            "diferencia": -14,
+            "puntos": 9
+        }
+    },
+    "Strasbourg W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "53%",
+            "over_3_5": "29%",
+            "bts": "24%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 17,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 7,
+            "goles_favor": 18,
+            "goles_contra": 26,
+            "diferencia": -8,
+            "puntos": 22
+        }
+    },
+    "Lyon W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "71%",
+            "over_3_5": "53%",
+            "bts": "35%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 17,
+            "ganados": 16,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 64,
+            "goles_contra": 7,
+            "diferencia": 57,
+            "puntos": 49
+        }
+    },
+    "Marseille W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "65%",
+            "over_3_5": "35%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 17,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 22,
+            "goles_contra": 37,
+            "diferencia": -15,
+            "puntos": 15
+        }
+    },
+    "Dijon W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "35%",
+            "over_3_5": "12%",
+            "bts": "41%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 17,
+            "ganados": 6,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 16,
+            "goles_contra": 21,
+            "diferencia": -5,
+            "puntos": 24
+        }
+    },
+    "Paris FC W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "59%",
+            "over_3_5": "18%",
+            "bts": "29%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 17,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 31,
+            "goles_contra": 12,
+            "diferencia": 19,
+            "puntos": 33
+        }
+    },
+    "Nantes W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "76%",
+            "over_3_5": "35%",
+            "bts": "76%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 17,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 32,
+            "goles_contra": 28,
+            "diferencia": 4,
+            "puntos": 33
+        }
+    },
+    "Le Havre W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "65%",
+            "over_3_5": "29%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 17,
+            "ganados": 3,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 13,
+            "goles_contra": 37,
+            "diferencia": -24,
+            "puntos": 13
+        }
+    },
+    "Lens W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "59%",
+            "over_3_5": "35%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 17,
+            "ganados": 3,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 17,
+            "goles_contra": 38,
+            "diferencia": -21,
+            "puntos": 13
+        }
+    },
+    "Fleury W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "35%",
+            "over_3_5": "12%",
+            "bts": "29%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 17,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 19,
+            "goles_contra": 17,
+            "diferencia": 2,
+            "puntos": 26
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "57.8%",
+            "over_2_5": "30.4%",
+            "over_3_5": "14.7%",
+            "bts": "30.9%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:05:13.760191",
+        "liga": "france14"
+    }
+}

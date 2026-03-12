@@ -1,0 +1,216 @@
+{
+    "Edinburgh City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "68%",
+            "over_3_5": "46%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 28,
+            "ganados": 9,
+            "empatados": 9,
+            "perdidos": 10,
+            "goles_favor": 40,
+            "goles_contra": 52,
+            "diferencia": -12,
+            "puntos": 36
+        }
+    },
+    "Spartans": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "56%",
+            "over_3_5": "33%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 27,
+            "ganados": 14,
+            "empatados": 6,
+            "perdidos": 7,
+            "goles_favor": 46,
+            "goles_contra": 31,
+            "diferencia": 15,
+            "puntos": 48
+        }
+    },
+    "Dumbarton": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "61%",
+            "over_3_5": "29%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 28,
+            "ganados": 8,
+            "empatados": 7,
+            "perdidos": 13,
+            "goles_favor": 39,
+            "goles_contra": 47,
+            "diferencia": -8,
+            "puntos": 31
+        }
+    },
+    "Elgin City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "59%",
+            "over_3_5": "30%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 27,
+            "ganados": 8,
+            "empatados": 8,
+            "perdidos": 11,
+            "goles_favor": 39,
+            "goles_contra": 45,
+            "diferencia": -6,
+            "puntos": 32
+        }
+    },
+    "Annan Athletic": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "54%",
+            "over_3_5": "43%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 28,
+            "ganados": 7,
+            "empatados": 10,
+            "perdidos": 11,
+            "goles_favor": 36,
+            "goles_contra": 48,
+            "diferencia": -12,
+            "puntos": 31
+        }
+    },
+    "Clyde": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "48%",
+            "over_3_5": "30%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 27,
+            "ganados": 9,
+            "empatados": 14,
+            "perdidos": 4,
+            "goles_favor": 44,
+            "goles_contra": 26,
+            "diferencia": 18,
+            "puntos": 41
+        }
+    },
+    "Stirling Albion": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "54%",
+            "over_3_5": "32%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 28,
+            "ganados": 8,
+            "empatados": 8,
+            "perdidos": 12,
+            "goles_favor": 36,
+            "goles_contra": 47,
+            "diferencia": -11,
+            "puntos": 32
+        }
+    },
+    "Stranraer": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "52%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 27,
+            "ganados": 8,
+            "empatados": 9,
+            "perdidos": 10,
+            "goles_favor": 35,
+            "goles_contra": 37,
+            "diferencia": -2,
+            "puntos": 33
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "57.7%",
+            "over_2_5": "37.2%",
+            "over_3_5": "17.5%",
+            "bts": "21.2%"
+        },
+        "position": {}
+    },
+    "East Kilbride": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "71%",
+            "over_3_5": "54%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 28,
+            "ganados": 16,
+            "empatados": 5,
+            "perdidos": 7,
+            "goles_favor": 60,
+            "goles_contra": 39,
+            "diferencia": 21,
+            "puntos": 53
+        }
+    },
+    "Forfar Athletic": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "54%",
+            "over_3_5": "42%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 8,
+            "perdidos": 10,
+            "goles_favor": 36,
+            "goles_contra": 39,
+            "diferencia": -3,
+            "puntos": 32
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:33:50.878085",
+        "liga": "scotland4"
+    }
+}

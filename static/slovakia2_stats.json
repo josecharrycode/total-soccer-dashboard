@@ -1,0 +1,336 @@
+{
+    "S. Lubovna": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "42%",
+            "over_3_5": "26%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 19,
+            "ganados": 4,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 23,
+            "goles_contra": 28,
+            "diferencia": -5,
+            "puntos": 17
+        }
+    },
+    "Pohronie": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "58%",
+            "over_3_5": "47%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 19,
+            "ganados": 8,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 34,
+            "goles_contra": 21,
+            "diferencia": 13,
+            "puntos": 30
+        }
+    },
+    "Malzenice": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "74%",
+            "over_3_5": "37%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 19,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 28,
+            "goles_contra": 29,
+            "diferencia": -1,
+            "puntos": 25
+        }
+    },
+    "Slavia TU K.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "63%",
+            "over_3_5": "47%",
+            "bts": "74%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 19,
+            "ganados": 5,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 27,
+            "goles_contra": 36,
+            "diferencia": -9,
+            "puntos": 20
+        }
+    },
+    "L. Mikulas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "74%",
+            "over_3_5": "42%",
+            "bts": "79%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 19,
+            "ganados": 9,
+            "empatados": 6,
+            "perdidos": 4,
+            "goles_favor": 38,
+            "goles_contra": 31,
+            "diferencia": 7,
+            "puntos": 33
+        }
+    },
+    "Zvolen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "53%",
+            "over_3_5": "47%",
+            "bts": "74%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 19,
+            "ganados": 7,
+            "empatados": 7,
+            "perdidos": 5,
+            "goles_favor": 30,
+            "goles_contra": 26,
+            "diferencia": 4,
+            "puntos": 28
+        }
+    },
+    "Zlate Moravce": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "84%",
+            "over_3_5": "58%",
+            "bts": "95%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 19,
+            "ganados": 9,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 42,
+            "goles_contra": 33,
+            "diferencia": 9,
+            "puntos": 32
+        }
+    },
+    "Banska Bystrica": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "58%",
+            "over_3_5": "42%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 19,
+            "ganados": 15,
+            "empatados": 3,
+            "perdidos": 1,
+            "goles_favor": 43,
+            "goles_contra": 15,
+            "diferencia": 28,
+            "puntos": 48
+        }
+    },
+    "P. Bystrica": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "45%",
+            "over_3_5": "30%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 20,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 22,
+            "goles_contra": 32,
+            "diferencia": -10,
+            "puntos": 22
+        }
+    },
+    "Puchov": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "53%",
+            "over_3_5": "47%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 19,
+            "ganados": 4,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 25,
+            "goles_contra": 35,
+            "diferencia": -10,
+            "puntos": 19
+        }
+    },
+    "Petrzalka": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "40%",
+            "over_3_5": "30%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 20,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 7,
+            "goles_favor": 26,
+            "goles_contra": 22,
+            "diferencia": 4,
+            "puntos": 29
+        }
+    },
+    "Lehota p. V.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "63%",
+            "over_3_5": "37%",
+            "bts": "74%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 19,
+            "ganados": 5,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 26,
+            "goles_contra": 35,
+            "diferencia": -9,
+            "puntos": 20
+        }
+    },
+    "I. Bratislava": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "47%",
+            "over_3_5": "21%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 19,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 24,
+            "goles_contra": 22,
+            "diferencia": 2,
+            "puntos": 29
+        }
+    },
+    "Samorin": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "58%",
+            "over_3_5": "37%",
+            "bts": "74%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 19,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 9,
+            "goles_favor": 31,
+            "goles_contra": 33,
+            "diferencia": -2,
+            "puntos": 22
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56.9%",
+            "over_2_5": "39.2%",
+            "over_3_5": "18.3%",
+            "bts": "20.6%"
+        },
+        "position": {}
+    },
+    "Zilina B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "53%",
+            "over_3_5": "47%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 19,
+            "ganados": 8,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 28,
+            "goles_contra": 33,
+            "diferencia": -5,
+            "puntos": 27
+        }
+    },
+    "S. Bratislava B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "47%",
+            "over_3_5": "32%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 19,
+            "ganados": 4,
+            "empatados": 6,
+            "perdidos": 9,
+            "goles_favor": 19,
+            "goles_contra": 35,
+            "diferencia": -16,
+            "puntos": 18
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:35:12.695845",
+        "liga": "slovakia2"
+    }
+}

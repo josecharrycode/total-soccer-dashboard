@@ -1,0 +1,296 @@
+{
+    "Team TG FF W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "50%",
+            "over_3_5": "42%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 23,
+            "goles_contra": 59,
+            "diferencia": -36,
+            "puntos": 22
+        }
+    },
+    "Umea W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "54%",
+            "over_3_5": "38%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 26,
+            "ganados": 14,
+            "empatados": 9,
+            "perdidos": 3,
+            "goles_favor": 53,
+            "goles_contra": 23,
+            "diferencia": 30,
+            "puntos": 51
+        }
+    },
+    "Orebro W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "62%",
+            "over_3_5": "35%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 26,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 13,
+            "goles_favor": 38,
+            "goles_contra": 36,
+            "diferencia": 2,
+            "puntos": 33
+        }
+    },
+    "Eskilstuna U. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "65%",
+            "over_3_5": "42%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 26,
+            "ganados": 21,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 67,
+            "goles_contra": 17,
+            "diferencia": 50,
+            "puntos": 65
+        }
+    },
+    "Trelleborg W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "73%",
+            "over_3_5": "42%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 26,
+            "ganados": 17,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 54,
+            "goles_contra": 27,
+            "diferencia": 27,
+            "puntos": 54
+        }
+    },
+    "Gamla Upsala W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "81%",
+            "over_3_5": "50%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 32,
+            "goles_contra": 66,
+            "diferencia": -34,
+            "puntos": 22
+        }
+    },
+    "KIF Orebro W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "81%",
+            "over_3_5": "54%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 26,
+            "ganados": 17,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 66,
+            "goles_contra": 34,
+            "diferencia": 32,
+            "puntos": 55
+        }
+    },
+    "Bollstanas W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "69%",
+            "over_3_5": "35%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 26,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 15,
+            "goles_favor": 23,
+            "goles_contra": 55,
+            "diferencia": -32,
+            "puntos": 21
+        }
+    },
+    "Elfsborg W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "65%",
+            "over_3_5": "27%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 3,
+            "perdidos": 12,
+            "goles_favor": 41,
+            "goles_contra": 34,
+            "diferencia": 7,
+            "puntos": 36
+        }
+    },
+    "Hacken B W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "46%",
+            "over_3_5": "31%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 13,
+            "goles_favor": 27,
+            "goles_contra": 48,
+            "diferencia": -21,
+            "puntos": 25
+        }
+    },
+    "Jitex W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "81%",
+            "over_3_5": "58%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 26,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 52,
+            "goles_contra": 50,
+            "diferencia": 2,
+            "puntos": 40
+        }
+    },
+    "Uppsala W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "58%",
+            "over_3_5": "50%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 26,
+            "ganados": 19,
+            "empatados": 2,
+            "perdidos": 5,
+            "goles_favor": 62,
+            "goles_contra": 23,
+            "diferencia": 39,
+            "puntos": 59
+        }
+    },
+    "Sunnana W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "58%",
+            "over_3_5": "27%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 26,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 18,
+            "goles_favor": 25,
+            "goles_contra": 51,
+            "diferencia": -26,
+            "puntos": 14
+        }
+    },
+    "Mallbacken W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "58%",
+            "over_3_5": "38%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 26,
+            "ganados": 4,
+            "empatados": 6,
+            "perdidos": 16,
+            "goles_favor": 23,
+            "goles_contra": 63,
+            "diferencia": -40,
+            "puntos": 18
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64.3%",
+            "over_2_5": "40.7%",
+            "over_3_5": "22.0%",
+            "bts": "25.3%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:41:05.535433",
+        "liga": "sweden12"
+    }
+}

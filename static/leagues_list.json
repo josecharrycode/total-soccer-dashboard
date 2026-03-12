@@ -1,0 +1,1252 @@
+{
+    "Albania": [
+        {
+            "code": "albania",
+            "name": "Abissnet Superiore"
+        }
+    ],
+    "Argentina": [
+        {
+            "code": "argentina",
+            "name": "Liga Profesional - Apertura"
+        },
+        {
+            "code": "argentina2",
+            "name": "Liga Profesional - Clausura"
+        },
+        {
+            "code": "argentina3",
+            "name": "Primera Nacional"
+        },
+        {
+            "code": "argentina4",
+            "name": "Primera B"
+        },
+        {
+            "code": "argentina5",
+            "name": "Primera B - Clausura"
+        }
+    ],
+    "Armenia": [
+        {
+            "code": "armenia",
+            "name": "Premier League"
+        }
+    ],
+    "Australia": [
+        {
+            "code": "australia",
+            "name": "A-League"
+        },
+        {
+            "code": "australia2",
+            "name": "A-League Women"
+        },
+        {
+            "code": "australia3",
+            "name": "NPL Victoria"
+        },
+        {
+            "code": "australia5",
+            "name": "NPL Western Australia"
+        },
+        {
+            "code": "australia6",
+            "name": "NPL South Australia"
+        },
+        {
+            "code": "australia8",
+            "name": "NPL Tasmania"
+        },
+        {
+            "code": "australia11",
+            "name": "NPL New South Wales"
+        }
+    ],
+    "Austria": [
+        {
+            "code": "austria",
+            "name": "Bundesliga"
+        },
+        {
+            "code": "austria2",
+            "name": "2. Liga"
+        },
+        {
+            "code": "austria5",
+            "name": "Regionalliga West"
+        },
+        {
+            "code": "austria6",
+            "name": "Regionalliga Mitte"
+        },
+        {
+            "code": "austria7",
+            "name": "Regionalliga Ost"
+        },
+        {
+            "code": "austria8",
+            "name": "Bundesliga Women"
+        }
+    ],
+    "Azerbaijan": [
+        {
+            "code": "azerbaijan",
+            "name": "Premier League"
+        },
+        {
+            "code": "azerbaijan2",
+            "name": "First Division"
+        }
+    ],
+    "Bahrain": [
+        {
+            "code": "bahrain",
+            "name": "Premier League"
+        }
+    ],
+    "Bangladesh": [
+        {
+            "code": "bangladesh",
+            "name": "Premier League"
+        }
+    ],
+    "Belgium": [
+        {
+            "code": "belgium",
+            "name": "Pro League"
+        },
+        {
+            "code": "belgium2",
+            "name": "Challenger Pro League"
+        },
+        {
+            "code": "belgium6",
+            "name": "U21 Pro League"
+        }
+    ],
+    "Bolivia": [
+        {
+            "code": "bolivia",
+            "name": "Division Profesional"
+        }
+    ],
+    "Bosnia And Herzegovina": [
+        {
+            "code": "bosnia",
+            "name": "Premier Liga"
+        },
+        {
+            "code": "bosnia2",
+            "name": "Prva Liga - FBiH"
+        }
+    ],
+    "Brazil": [
+        {
+            "code": "brazil",
+            "name": "Serie A"
+        },
+        {
+            "code": "brazil3",
+            "name": "Serie C"
+        },
+        {
+            "code": "brazil4",
+            "name": "Serie D"
+        },
+        {
+            "code": "brazil5",
+            "name": "Brasileiro Women"
+        },
+        {
+            "code": "brazil7",
+            "name": "Mineiro"
+        },
+        {
+            "code": "brazil8",
+            "name": "Goiano"
+        },
+        {
+            "code": "brazil11",
+            "name": "Brasiliense"
+        },
+        {
+            "code": "brazil12",
+            "name": "Matogrossense"
+        },
+        {
+            "code": "brazil14",
+            "name": "Paulista A1"
+        },
+        {
+            "code": "brazil15",
+            "name": "Paulista A2"
+        },
+        {
+            "code": "brazil16",
+            "name": "Paulista A3"
+        },
+        {
+            "code": "brazil17",
+            "name": "Parabaino"
+        },
+        {
+            "code": "brazil19",
+            "name": "Sergipano"
+        }
+    ],
+    "Bulgaria": [
+        {
+            "code": "bulgaria",
+            "name": "Parva Liga"
+        },
+        {
+            "code": "bulgaria2",
+            "name": "Vtora Liga"
+        }
+    ],
+    "Chile": [
+        {
+            "code": "chile",
+            "name": "Liga de Primera"
+        },
+        {
+            "code": "chile2",
+            "name": "Liga de Ascenso"
+        }
+    ],
+    "China": [
+        {
+            "code": "china",
+            "name": "Super League"
+        },
+        {
+            "code": "china3",
+            "name": "League Two"
+        }
+    ],
+    "Colombia": [
+        {
+            "code": "colombia",
+            "name": "Primera A - Apertura"
+        },
+        {
+            "code": "colombia2",
+            "name": "Primera A - Clausura"
+        },
+        {
+            "code": "colombia3",
+            "name": "Primera B - Apertura"
+        },
+        {
+            "code": "colombia4",
+            "name": "Primera B - Clausura"
+        }
+    ],
+    "Costa Rica": [
+        {
+            "code": "costarica",
+            "name": "Primera Div. - Apertura"
+        },
+        {
+            "code": "costarica2",
+            "name": "Primera Div. - Clausura"
+        }
+    ],
+    "Croatia": [
+        {
+            "code": "croatia",
+            "name": "1. HNL"
+        },
+        {
+            "code": "croatia2",
+            "name": "1. NL"
+        }
+    ],
+    "Cyprus": [
+        {
+            "code": "cyprus",
+            "name": "Cyprus League"
+        }
+    ],
+    "Czech Republic": [
+        {
+            "code": "czechrepublic",
+            "name": "1. Liga"
+        },
+        {
+            "code": "czechrepublic2",
+            "name": "FNL"
+        },
+        {
+            "code": "czechrepublic3",
+            "name": "U19 League"
+        },
+        {
+            "code": "czechrepublic4",
+            "name": "1. Liga Women"
+        }
+    ],
+    "Denmark": [
+        {
+            "code": "denmark",
+            "name": "Superligaen"
+        },
+        {
+            "code": "denmark2",
+            "name": "1st Division"
+        },
+        {
+            "code": "denmark3",
+            "name": "2nd Division"
+        }
+    ],
+    "Ecuador": [
+        {
+            "code": "ecuador",
+            "name": "Liga Pro"
+        }
+    ],
+    "Egypt": [
+        {
+            "code": "egypt",
+            "name": "Premier League"
+        }
+    ],
+    "England": [
+        {
+            "code": "england",
+            "name": "Premier League"
+        },
+        {
+            "code": "england3",
+            "name": "League One"
+        },
+        {
+            "code": "england4",
+            "name": "League Two"
+        },
+        {
+            "code": "england5",
+            "name": "National League"
+        },
+        {
+            "code": "england6",
+            "name": "National L. North"
+        },
+        {
+            "code": "england7",
+            "name": "National L. South"
+        },
+        {
+            "code": "england8",
+            "name": "Isthmian league"
+        },
+        {
+            "code": "england9",
+            "name": "Northern league"
+        },
+        {
+            "code": "england10",
+            "name": "Southern Central"
+        },
+        {
+            "code": "england11",
+            "name": "Southern South"
+        },
+        {
+            "code": "england15",
+            "name": "Premier League 2"
+        },
+        {
+            "code": "england17",
+            "name": "Women Super League"
+        },
+        {
+            "code": "england18",
+            "name": "WSL 2"
+        },
+        {
+            "code": "england19",
+            "name": "Professional Development League"
+        }
+    ],
+    "Estonia": [
+        {
+            "code": "estonia",
+            "name": "Meistriliiga"
+        }
+    ],
+    "Faroeislands": [
+        {
+            "code": "faroeislands",
+            "name": "Premier League"
+        },
+        {
+            "code": "faroeislands2",
+            "name": "1. Deild"
+        }
+    ],
+    "Finland": [
+        {
+            "code": "finland",
+            "name": "Veikkausliiga"
+        },
+        {
+            "code": "finland2",
+            "name": "Ykkosliga"
+        },
+        {
+            "code": "finland3",
+            "name": "Ykkonen"
+        },
+        {
+            "code": "finland4",
+            "name": "Kakkonen Group A"
+        },
+        {
+            "code": "finland5",
+            "name": "Kakkonen Group B"
+        }
+    ],
+    "France": [
+        {
+            "code": "france",
+            "name": "Ligue 1"
+        },
+        {
+            "code": "france2",
+            "name": "Ligue 2"
+        },
+        {
+            "code": "france3",
+            "name": "National"
+        },
+        {
+            "code": "france14",
+            "name": "Premiere Ligue Women"
+        }
+    ],
+    "Georgia": [
+        {
+            "code": "georgia",
+            "name": "Erovnuli Liga"
+        },
+        {
+            "code": "georgia2",
+            "name": "Erovnuli Liga 2"
+        },
+        {
+            "code": "georgia3",
+            "name": "Liga 3"
+        }
+    ],
+    "Germany": [
+        {
+            "code": "germany",
+            "name": "Bundesliga"
+        },
+        {
+            "code": "germany2",
+            "name": "2. Bundesliga"
+        },
+        {
+            "code": "germany3",
+            "name": "3. Liga"
+        },
+        {
+            "code": "germany4",
+            "name": "Regionalliga Nord"
+        },
+        {
+            "code": "germany5",
+            "name": "Regionalliga Nordost"
+        },
+        {
+            "code": "germany6",
+            "name": "Regionalliga West"
+        },
+        {
+            "code": "germany7",
+            "name": "Regionalliga Sudwest"
+        },
+        {
+            "code": "germany8",
+            "name": "Regionalliga Bayern"
+        },
+        {
+            "code": "germany9",
+            "name": "Oberliga Baden-W."
+        },
+        {
+            "code": "germany10",
+            "name": "Oberliga Hamburg"
+        },
+        {
+            "code": "germany11",
+            "name": "Oberliga Niederrhein"
+        },
+        {
+            "code": "germany12",
+            "name": "Oberliga Westfalen"
+        },
+        {
+            "code": "germany15",
+            "name": "Oberliga Hessen"
+        },
+        {
+            "code": "germany17",
+            "name": "Oberliga Niedersachsen"
+        },
+        {
+            "code": "germany19",
+            "name": "Oberliga Mittelrhein"
+        },
+        {
+            "code": "germany20",
+            "name": "Oberliga Rheinland-P/S"
+        },
+        {
+            "code": "germany21",
+            "name": "Oberliga Bayern Nord"
+        },
+        {
+            "code": "germany22",
+            "name": "Oberliga Bayern Süd"
+        },
+        {
+            "code": "germany23",
+            "name": "Bundesliga Women"
+        },
+        {
+            "code": "germany24",
+            "name": "2. Bundesliga Women"
+        }
+    ],
+    "Greece": [
+        {
+            "code": "greece",
+            "name": "Super League"
+        }
+    ],
+    "Guatemala": [
+        {
+            "code": "guatemala",
+            "name": "Liga Nacional - Apertura"
+        },
+        {
+            "code": "guatemala2",
+            "name": "Liga Nacional - Clausura"
+        }
+    ],
+    "Hong Kong": [
+        {
+            "code": "hongkong",
+            "name": "Premier League"
+        }
+    ],
+    "Hungary": [
+        {
+            "code": "hungary",
+            "name": "NB I"
+        },
+        {
+            "code": "hungary2",
+            "name": "NB II"
+        },
+        {
+            "code": "hungary3",
+            "name": "NB I - Women"
+        }
+    ],
+    "Iceland": [
+        {
+            "code": "iceland",
+            "name": "Besta deild"
+        },
+        {
+            "code": "iceland2",
+            "name": "1. Deild"
+        },
+        {
+            "code": "iceland3",
+            "name": "2. Deild"
+        },
+        {
+            "code": "iceland5",
+            "name": "Besta deild Women"
+        }
+    ],
+    "India": [
+        {
+            "code": "india",
+            "name": "Super League"
+        },
+        {
+            "code": "india2",
+            "name": "I-League"
+        }
+    ],
+    "Indonesia": [
+        {
+            "code": "indonesia",
+            "name": "Liga 1"
+        }
+    ],
+    "Iran": [
+        {
+            "code": "iran",
+            "name": "Pro League"
+        }
+    ],
+    "Ireland": [
+        {
+            "code": "ireland",
+            "name": "Premier Division"
+        },
+        {
+            "code": "ireland2",
+            "name": "First Division"
+        }
+    ],
+    "Israel": [
+        {
+            "code": "israel",
+            "name": "Ligat HaAl"
+        }
+    ],
+    "Italy": [
+        {
+            "code": "italy",
+            "name": "Serie A"
+        },
+        {
+            "code": "italy2",
+            "name": "Serie B"
+        },
+        {
+            "code": "italy3",
+            "name": "Serie C - Group A"
+        },
+        {
+            "code": "italy4",
+            "name": "Serie C - Group B"
+        },
+        {
+            "code": "italy5",
+            "name": "Serie C - Group C"
+        },
+        {
+            "code": "italy6",
+            "name": "Serie D - Group A"
+        },
+        {
+            "code": "italy7",
+            "name": "Serie D - Group B"
+        },
+        {
+            "code": "italy8",
+            "name": "Serie D - Group C"
+        },
+        {
+            "code": "italy9",
+            "name": "Serie D - Group D"
+        },
+        {
+            "code": "italy10",
+            "name": "Serie D - Group E"
+        },
+        {
+            "code": "italy11",
+            "name": "Serie D - Group F"
+        },
+        {
+            "code": "italy12",
+            "name": "Serie D - Group G"
+        },
+        {
+            "code": "italy13",
+            "name": "Serie D - Group H"
+        },
+        {
+            "code": "italy14",
+            "name": "Serie D - Group I"
+        },
+        {
+            "code": "italy15",
+            "name": "Primavera 1"
+        },
+        {
+            "code": "italy17",
+            "name": "Serie A Women"
+        },
+        {
+            "code": "italy18",
+            "name": "Serie B Women"
+        }
+    ],
+    "Jamaica": [
+        {
+            "code": "jamaica",
+            "name": "Premier League"
+        }
+    ],
+    "Japan": [
+        {
+            "code": "japan",
+            "name": "J1 League"
+        },
+        {
+            "code": "japan2",
+            "name": "J2 League"
+        },
+        {
+            "code": "japan3",
+            "name": "J3 League"
+        },
+        {
+            "code": "japan4",
+            "name": "WE League"
+        }
+    ],
+    "Jordan": [
+        {
+            "code": "jordan",
+            "name": "Premier League"
+        }
+    ],
+    "Kazakhstan": [
+        {
+            "code": "kazakhstan",
+            "name": "Premier League"
+        }
+    ],
+    "Kuwait": [
+        {
+            "code": "kuwait",
+            "name": "Premier League"
+        }
+    ],
+    "Latvia": [
+        {
+            "code": "latvia",
+            "name": "Virsliga"
+        },
+        {
+            "code": "latvia2",
+            "name": "1. Liga"
+        }
+    ],
+    "Lithuania": [
+        {
+            "code": "lithuania",
+            "name": "A Lyga"
+        }
+    ],
+    "Malaysia": [
+        {
+            "code": "malaysia",
+            "name": "Super League"
+        }
+    ],
+    "Mexico": [
+        {
+            "code": "mexico",
+            "name": "Liga MX - Apertura"
+        },
+        {
+            "code": "mexico2",
+            "name": "Liga MX - Clausura"
+        }
+    ],
+    "Montenegro": [
+        {
+            "code": "montenegro",
+            "name": "First League"
+        }
+    ],
+    "Morocco": [
+        {
+            "code": "morocco",
+            "name": "Botola Pro"
+        }
+    ],
+    "Netherlands": [
+        {
+            "code": "netherlands",
+            "name": "Eredivisie"
+        },
+        {
+            "code": "netherlands2",
+            "name": "Eerste Divisie"
+        },
+        {
+            "code": "netherlands3",
+            "name": "Tweede Divisie"
+        },
+        {
+            "code": "netherlands4",
+            "name": "Derde Divisie Gr. A"
+        },
+        {
+            "code": "netherlands5",
+            "name": "Derde Divisie Gr. B"
+        },
+        {
+            "code": "netherlands6",
+            "name": "Eredivisie Women"
+        }
+    ],
+    "Northern Ireland": [
+        {
+            "code": "northernireland",
+            "name": "NIFL Premiership"
+        }
+    ],
+    "North Macedonia": [
+        {
+            "code": "northmacedonia",
+            "name": "First League"
+        }
+    ],
+    "Norway": [
+        {
+            "code": "norway2",
+            "name": "1st Division"
+        },
+        {
+            "code": "norway3",
+            "name": "Division 2 - Gr. 1"
+        },
+        {
+            "code": "norway4",
+            "name": "Division 2 - Gr. 2"
+        },
+        {
+            "code": "norway5",
+            "name": "Division 3 - Gr. 1"
+        },
+        {
+            "code": "norway6",
+            "name": "Division 3 - Gr. 2"
+        },
+        {
+            "code": "norway7",
+            "name": "Division 3 - Gr. 3"
+        },
+        {
+            "code": "norway8",
+            "name": "Division 3 - Gr. 4"
+        },
+        {
+            "code": "norway9",
+            "name": "Division 3 - Gr. 5"
+        },
+        {
+            "code": "norway10",
+            "name": "Division 3 - Gr. 6"
+        },
+        {
+            "code": "norway11",
+            "name": "Toppserien Women"
+        },
+        {
+            "code": "norway12",
+            "name": "1. Division Women"
+        }
+    ],
+    "Paraguay": [
+        {
+            "code": "paraguay",
+            "name": "Primera Div. - Apertura"
+        },
+        {
+            "code": "paraguay2",
+            "name": "Primera Div. - Clausura"
+        },
+        {
+            "code": "paraguay3",
+            "name": "Division Intermedia"
+        }
+    ],
+    "Peru": [
+        {
+            "code": "peru",
+            "name": "Liga 1 - Apertura"
+        },
+        {
+            "code": "peru2",
+            "name": "Liga 1 - Clausura"
+        }
+    ],
+    "Philippines": [
+        {
+            "code": "philippines",
+            "name": "PFL"
+        }
+    ],
+    "Poland": [
+        {
+            "code": "poland",
+            "name": "Ekstraklasa"
+        },
+        {
+            "code": "poland2",
+            "name": "1. Liga"
+        },
+        {
+            "code": "poland3",
+            "name": "2. Liga"
+        },
+        {
+            "code": "poland4",
+            "name": "Ekstraliga Women"
+        }
+    ],
+    "Portugal": [
+        {
+            "code": "portugal",
+            "name": "Liga Portugal"
+        },
+        {
+            "code": "portugal2",
+            "name": "Liga Portugal 2"
+        },
+        {
+            "code": "portugal8",
+            "name": "First Division Women"
+        }
+    ],
+    "Qatar": [
+        {
+            "code": "qatar",
+            "name": "Stars League"
+        },
+        {
+            "code": "qatar2",
+            "name": "Division 2"
+        }
+    ],
+    "Romania": [
+        {
+            "code": "romania",
+            "name": "Liga 1"
+        },
+        {
+            "code": "romania2",
+            "name": "Liga 2"
+        }
+    ],
+    "Russia": [
+        {
+            "code": "russia",
+            "name": "Premier League"
+        },
+        {
+            "code": "russia2",
+            "name": "FNL"
+        }
+    ],
+    "Sanmarino": [
+        {
+            "code": "sanmarino",
+            "name": "Campionato Sammarinese"
+        }
+    ],
+    "Saudi Arabia": [
+        {
+            "code": "saudiarabia",
+            "name": "Professional League"
+        },
+        {
+            "code": "saudiarabia2",
+            "name": "Division 1"
+        }
+    ],
+    "Scotland": [
+        {
+            "code": "scotland",
+            "name": "Premiership"
+        },
+        {
+            "code": "scotland3",
+            "name": "League One"
+        },
+        {
+            "code": "scotland4",
+            "name": "League Two"
+        },
+        {
+            "code": "scotland7",
+            "name": "SWPL 1 Women"
+        }
+    ],
+    "Serbia": [
+        {
+            "code": "serbia",
+            "name": "Super Liga"
+        },
+        {
+            "code": "serbia2",
+            "name": "Prva Liga"
+        }
+    ],
+    "Singapore": [
+        {
+            "code": "singapore",
+            "name": "Premier League"
+        }
+    ],
+    "Slovakia": [
+        {
+            "code": "slovakia",
+            "name": "1. Liga"
+        },
+        {
+            "code": "slovakia2",
+            "name": "2. Liga"
+        },
+        {
+            "code": "slovakia3",
+            "name": "1.Liga Women"
+        }
+    ],
+    "Slovenia": [
+        {
+            "code": "slovenia",
+            "name": "Prva Liga"
+        }
+    ],
+    "South Africa": [
+        {
+            "code": "southafrica",
+            "name": "Premier Division"
+        },
+        {
+            "code": "southafrica2",
+            "name": "First Division"
+        }
+    ],
+    "South Korea": [
+        {
+            "code": "southkorea",
+            "name": "K League 1"
+        },
+        {
+            "code": "southkorea2",
+            "name": "K League 2"
+        }
+    ],
+    "Spain": [
+        {
+            "code": "spain",
+            "name": "LaLiga"
+        },
+        {
+            "code": "spain2",
+            "name": "LaLiga2"
+        },
+        {
+            "code": "spain3",
+            "name": "Primera RFEF - Gr. 1"
+        },
+        {
+            "code": "spain4",
+            "name": "Primera RFEF - Gr. 2"
+        },
+        {
+            "code": "spain5",
+            "name": "Segunda RFEF - Gr. 1"
+        },
+        {
+            "code": "spain6",
+            "name": "Segunda RFEF - Gr. 2"
+        },
+        {
+            "code": "spain7",
+            "name": "Segunda RFEF - Gr. 3"
+        },
+        {
+            "code": "spain8",
+            "name": "Segunda RFEF - Gr. 4"
+        },
+        {
+            "code": "spain9",
+            "name": "Segunda RFEF - Gr. 5"
+        }
+    ],
+    "Sweden": [
+        {
+            "code": "sweden",
+            "name": "Allsvenskan"
+        },
+        {
+            "code": "sweden2",
+            "name": "Superettan"
+        },
+        {
+            "code": "sweden3",
+            "name": "Div 1 - Norra"
+        },
+        {
+            "code": "sweden4",
+            "name": "Div 1 - Sodra"
+        },
+        {
+            "code": "sweden5",
+            "name": "Div 2 - N Gotaland"
+        },
+        {
+            "code": "sweden6",
+            "name": "Div 2 - N Svealand"
+        },
+        {
+            "code": "sweden7",
+            "name": "Div 2 - Norrland"
+        },
+        {
+            "code": "sweden8",
+            "name": "Div 2 - S Svealand"
+        },
+        {
+            "code": "sweden9",
+            "name": "Div 2 - V Götaland"
+        },
+        {
+            "code": "sweden10",
+            "name": "Div 2 - S Götaland"
+        },
+        {
+            "code": "sweden11",
+            "name": "Allsvenskan Women"
+        },
+        {
+            "code": "sweden12",
+            "name": "Elitetan Women"
+        }
+    ],
+    "Switzerland": [
+        {
+            "code": "switzerland",
+            "name": "Super League"
+        },
+        {
+            "code": "switzerland2",
+            "name": "Challenge League"
+        },
+        {
+            "code": "switzerland3",
+            "name": "Promotion League"
+        },
+        {
+            "code": "switzerland4",
+            "name": "Women Super League"
+        }
+    ],
+    "Thailand": [
+        {
+            "code": "thailand",
+            "name": "Thai League 1"
+        }
+    ],
+    "Turkiye": [
+        {
+            "code": "turkey",
+            "name": "Super Lig"
+        },
+        {
+            "code": "turkey2",
+            "name": "1. Lig"
+        },
+        {
+            "code": "turkey3",
+            "name": "2. Lig White Group"
+        },
+        {
+            "code": "turkey4",
+            "name": "2. Lig Red Group"
+        },
+        {
+            "code": "turkey5",
+            "name": "3. Lig Group 1"
+        },
+        {
+            "code": "turkey6",
+            "name": "3. Lig Group 2"
+        },
+        {
+            "code": "turkey7",
+            "name": "3. Lig Group 3"
+        },
+        {
+            "code": "turkey8",
+            "name": "3. Lig Group 4"
+        }
+    ],
+    "Uae": [
+        {
+            "code": "uae",
+            "name": "Pro League"
+        }
+    ],
+    "Ukraine": [
+        {
+            "code": "ukraine",
+            "name": "Premier League"
+        },
+        {
+            "code": "ukraine2",
+            "name": "Persha Liga"
+        },
+        {
+            "code": "ukraine5",
+            "name": "U19 League"
+        }
+    ],
+    "Uruguay": [
+        {
+            "code": "uruguay",
+            "name": "Liga AUF Uruguaya - Apertura"
+        },
+        {
+            "code": "uruguay2",
+            "name": "Liga AUF Uruguaya - Intermediate"
+        },
+        {
+            "code": "uruguay3",
+            "name": "Liga AUF Uruguaya - Clausura"
+        }
+    ],
+    "Usa": [
+        {
+            "code": "usa",
+            "name": "MLS"
+        },
+        {
+            "code": "usa7",
+            "name": "USL Super League"
+        }
+    ],
+    "Venezuela": [
+        {
+            "code": "venezuela",
+            "name": "Liga FUTVE - Apertura"
+        },
+        {
+            "code": "venezuela2",
+            "name": "Liga FUTVE - Clausura"
+        }
+    ],
+    "Vietnam": [
+        {
+            "code": "vietnam",
+            "name": "V League"
+        }
+    ],
+    "Wales": [
+        {
+            "code": "wales",
+            "name": "Cymru Premier"
+        }
+    ]
+}

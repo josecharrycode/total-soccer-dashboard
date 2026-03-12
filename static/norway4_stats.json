@@ -1,0 +1,296 @@
+{
+    "Ull/Kisa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "81%",
+            "over_3_5": "62%",
+            "bts": "85%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 26,
+            "ganados": 13,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 59,
+            "goles_contra": 51,
+            "diferencia": 8,
+            "puntos": 44
+        }
+    },
+    "Strindheim": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "73%",
+            "over_3_5": "50%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 26,
+            "ganados": 7,
+            "empatados": 1,
+            "perdidos": 18,
+            "goles_favor": 36,
+            "goles_contra": 65,
+            "diferencia": -29,
+            "puntos": 22
+        }
+    },
+    "Honefoss": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "73%",
+            "over_3_5": "62%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 26,
+            "ganados": 13,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 57,
+            "goles_contra": 48,
+            "diferencia": 9,
+            "puntos": 42
+        }
+    },
+    "Stjordals-Blink": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "69%",
+            "over_3_5": "42%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 13,
+            "goles_favor": 45,
+            "goles_contra": 45,
+            "diferencia": 0,
+            "puntos": 35
+        }
+    },
+    "Kjelsas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "69%",
+            "over_3_5": "38%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 26,
+            "ganados": 15,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 57,
+            "goles_contra": 41,
+            "diferencia": 16,
+            "puntos": 48
+        }
+    },
+    "Eidsvold": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "77%",
+            "over_3_5": "50%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 26,
+            "ganados": 13,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 50,
+            "goles_contra": 51,
+            "diferencia": -1,
+            "puntos": 44
+        }
+    },
+    "Rana": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "58%",
+            "over_3_5": "27%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 26,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 13,
+            "goles_favor": 34,
+            "goles_contra": 42,
+            "diferencia": -8,
+            "puntos": 33
+        }
+    },
+    "Grorud": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "73%",
+            "over_3_5": "38%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 26,
+            "ganados": 17,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 58,
+            "goles_contra": 36,
+            "diferencia": 22,
+            "puntos": 54
+        }
+    },
+    "Follo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "77%",
+            "over_3_5": "35%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 2,
+            "perdidos": 16,
+            "goles_favor": 33,
+            "goles_contra": 50,
+            "diferencia": -17,
+            "puntos": 26
+        }
+    },
+    "Asker": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "77%",
+            "over_3_5": "58%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 26,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 18,
+            "goles_favor": 32,
+            "goles_contra": 68,
+            "diferencia": -36,
+            "puntos": 14
+        }
+    },
+    "Alta": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "81%",
+            "over_3_5": "69%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 53,
+            "goles_contra": 68,
+            "diferencia": -15,
+            "puntos": 22
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71.4%",
+            "over_2_5": "47.3%",
+            "over_3_5": "32.4%",
+            "bts": "16.5%"
+        },
+        "position": {}
+    },
+    "Tromsdalen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "65%",
+            "over_3_5": "46%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 26,
+            "ganados": 14,
+            "empatados": 5,
+            "perdidos": 7,
+            "goles_favor": 54,
+            "goles_contra": 37,
+            "diferencia": 17,
+            "puntos": 47
+        }
+    },
+    "Levanger": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "54%",
+            "over_3_5": "42%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 26,
+            "ganados": 7,
+            "empatados": 7,
+            "perdidos": 12,
+            "goles_favor": 37,
+            "goles_contra": 48,
+            "diferencia": -11,
+            "puntos": 28
+        }
+    },
+    "Strommen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "73%",
+            "over_3_5": "42%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 26,
+            "ganados": 20,
+            "empatados": 2,
+            "perdidos": 4,
+            "goles_favor": 69,
+            "goles_contra": 24,
+            "diferencia": 45,
+            "puntos": 62
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:24:17.071317",
+        "liga": "norway4"
+    }
+}

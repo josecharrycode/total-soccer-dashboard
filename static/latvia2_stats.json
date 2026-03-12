@@ -1,0 +1,296 @@
+{
+    "JFK Ventspils": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "50%",
+            "over_3_5": "31%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 10,
+            "perdidos": 5,
+            "goles_favor": 40,
+            "goles_contra": 29,
+            "diferencia": 11,
+            "puntos": 43
+        }
+    },
+    "Ogre United": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "73%",
+            "over_3_5": "38%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 26,
+            "ganados": 18,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 66,
+            "goles_contra": 20,
+            "diferencia": 46,
+            "puntos": 58
+        }
+    },
+    "Alberts JDFS": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "54%",
+            "over_3_5": "38%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 26,
+            "ganados": 17,
+            "empatados": 7,
+            "perdidos": 2,
+            "goles_favor": 60,
+            "goles_contra": 24,
+            "diferencia": 36,
+            "puntos": 58
+        }
+    },
+    "Augsdaugava": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "54%",
+            "over_3_5": "35%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 26,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 18,
+            "goles_favor": 19,
+            "goles_contra": 58,
+            "diferencia": -39,
+            "puntos": 14
+        }
+    },
+    "Leevon PPK": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "62%",
+            "over_3_5": "35%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 26,
+            "ganados": 10,
+            "empatados": 6,
+            "perdidos": 10,
+            "goles_favor": 40,
+            "goles_contra": 40,
+            "diferencia": 0,
+            "puntos": 36
+        }
+    },
+    "Smiltene": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "81%",
+            "over_3_5": "50%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 14,
+            "goles_favor": 46,
+            "goles_contra": 48,
+            "diferencia": -2,
+            "puntos": 28
+        }
+    },
+    "AFA Olaine": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "81%",
+            "over_3_5": "69%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 39,
+            "goles_contra": 88,
+            "diferencia": -49,
+            "puntos": 22
+        }
+    },
+    "Rezekne": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "69%",
+            "over_3_5": "35%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 7,
+            "perdidos": 11,
+            "goles_favor": 36,
+            "goles_contra": 57,
+            "diferencia": -21,
+            "puntos": 31
+        }
+    },
+    "Riga FC B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "58%",
+            "over_3_5": "38%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 6,
+            "perdidos": 14,
+            "goles_favor": 35,
+            "goles_contra": 43,
+            "diferencia": -8,
+            "puntos": 24
+        }
+    },
+    "Skanste": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "58%",
+            "over_3_5": "27%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 36,
+            "goles_contra": 39,
+            "diferencia": -3,
+            "puntos": 40
+        }
+    },
+    "Marupe": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "62%",
+            "over_2_5": "50%",
+            "over_3_5": "19%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 26,
+            "ganados": 10,
+            "empatados": 2,
+            "perdidos": 14,
+            "goles_favor": 30,
+            "goles_contra": 33,
+            "diferencia": -3,
+            "puntos": 32
+        }
+    },
+    "Tukums B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "77%",
+            "over_3_5": "46%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 26,
+            "ganados": 7,
+            "empatados": 2,
+            "perdidos": 17,
+            "goles_favor": 37,
+            "goles_contra": 60,
+            "diferencia": -23,
+            "puntos": 23
+        }
+    },
+    "Riga Mariners": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "81%",
+            "over_3_5": "65%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 26,
+            "ganados": 18,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 74,
+            "goles_contra": 34,
+            "diferencia": 40,
+            "puntos": 58
+        }
+    },
+    "RFS B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "62%",
+            "over_3_5": "35%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 46,
+            "goles_contra": 31,
+            "diferencia": 15,
+            "puntos": 41
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64.8%",
+            "over_2_5": "40.1%",
+            "over_3_5": "24.7%",
+            "bts": "22.8%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:20:22.254690",
+        "liga": "latvia2"
+    }
+}

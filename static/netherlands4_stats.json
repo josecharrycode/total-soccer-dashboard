@@ -1,0 +1,376 @@
+{
+    "Genemuiden": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "64%",
+            "over_3_5": "44%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 25,
+            "ganados": 13,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 45,
+            "goles_contra": 35,
+            "diferencia": 10,
+            "puntos": 43
+        }
+    },
+    "Eemdijk": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "68%",
+            "over_3_5": "48%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 25,
+            "ganados": 10,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 50,
+            "goles_contra": 42,
+            "diferencia": 8,
+            "puntos": 37
+        }
+    },
+    "Raalte": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "71%",
+            "over_3_5": "42%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 24,
+            "ganados": 17,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 52,
+            "goles_contra": 25,
+            "diferencia": 27,
+            "puntos": 54
+        }
+    },
+    "Huizen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "64%",
+            "over_3_5": "52%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 25,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 12,
+            "goles_favor": 41,
+            "goles_contra": 50,
+            "diferencia": -9,
+            "puntos": 29
+        }
+    },
+    "Urk": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "79%",
+            "over_3_5": "71%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 24,
+            "ganados": 5,
+            "empatados": 4,
+            "perdidos": 15,
+            "goles_favor": 38,
+            "goles_contra": 73,
+            "diferencia": -35,
+            "puntos": 19
+        }
+    },
+    "TEC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "68%",
+            "over_3_5": "48%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 25,
+            "ganados": 8,
+            "empatados": 1,
+            "perdidos": 16,
+            "goles_favor": 34,
+            "goles_contra": 52,
+            "diferencia": -18,
+            "puntos": 25
+        }
+    },
+    "Sportlust": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "67%",
+            "over_3_5": "38%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 24,
+            "ganados": 11,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 39,
+            "goles_contra": 34,
+            "diferencia": 5,
+            "puntos": 38
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64.1%",
+            "over_2_5": "43.6%",
+            "over_3_5": "26.8%",
+            "bts": "21.6%"
+        },
+        "position": {}
+    },
+    "DOVO": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "55%",
+            "over_3_5": "32%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 22,
+            "ganados": 9,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 34,
+            "goles_contra": 27,
+            "diferencia": 7,
+            "puntos": 32
+        }
+    },
+    "USV Hercules": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "54%",
+            "over_3_5": "33%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 24,
+            "ganados": 8,
+            "empatados": 3,
+            "perdidos": 13,
+            "goles_favor": 31,
+            "goles_contra": 45,
+            "diferencia": -14,
+            "puntos": 27
+        }
+    },
+    "Excelsior 31": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "68%",
+            "over_3_5": "36%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 25,
+            "ganados": 8,
+            "empatados": 2,
+            "perdidos": 15,
+            "goles_favor": 35,
+            "goles_contra": 46,
+            "diferencia": -11,
+            "puntos": 26
+        }
+    },
+    "VV Scherpenzeel": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "64%",
+            "over_3_5": "48%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 25,
+            "ganados": 12,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 45,
+            "goles_contra": 35,
+            "diferencia": 10,
+            "puntos": 41
+        }
+    },
+    "HSC 21": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "72%",
+            "over_3_5": "60%",
+            "bts": "48%"
+        },
+        "position": {
+            "posicion": 18,
+            "partidos": 25,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 22,
+            "goles_favor": 23,
+            "goles_contra": 78,
+            "diferencia": -55,
+            "puntos": 5
+        }
+    },
+    "DVS 33": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "52%",
+            "over_3_5": "28%",
+            "bts": "48%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 25,
+            "ganados": 12,
+            "empatados": 8,
+            "perdidos": 5,
+            "goles_favor": 41,
+            "goles_contra": 27,
+            "diferencia": 14,
+            "puntos": 44
+        }
+    },
+    "Hoogeveen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "76%",
+            "over_3_5": "44%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 25,
+            "ganados": 9,
+            "empatados": 5,
+            "perdidos": 11,
+            "goles_favor": 43,
+            "goles_contra": 48,
+            "diferencia": -5,
+            "puntos": 32
+        }
+    },
+    "Harkemase Boys": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "61%",
+            "over_3_5": "22%",
+            "bts": "74%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 23,
+            "ganados": 9,
+            "empatados": 8,
+            "perdidos": 6,
+            "goles_favor": 41,
+            "goles_contra": 28,
+            "diferencia": 13,
+            "puntos": 35
+        }
+    },
+    "Staphorst": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "71%",
+            "over_3_5": "62%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 24,
+            "ganados": 13,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 49,
+            "goles_contra": 36,
+            "diferencia": 13,
+            "puntos": 42
+        }
+    },
+    "ADO 20": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "40%",
+            "over_3_5": "32%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 25,
+            "ganados": 13,
+            "empatados": 7,
+            "perdidos": 5,
+            "goles_favor": 36,
+            "goles_contra": 28,
+            "diferencia": 8,
+            "puntos": 46
+        }
+    },
+    "Sparta Nijkerk": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "60%",
+            "over_3_5": "44%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 25,
+            "ganados": 14,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 60,
+            "goles_contra": 28,
+            "diferencia": 32,
+            "puntos": 45
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:22:44.106505",
+        "liga": "netherlands4"
+    }
+}

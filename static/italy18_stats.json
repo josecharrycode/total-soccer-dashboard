@@ -1,0 +1,296 @@
+{
+    "Vicenza W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "61%",
+            "over_3_5": "22%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 18,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 24,
+            "goles_contra": 26,
+            "diferencia": -2,
+            "puntos": 22
+        }
+    },
+    "Freedom W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "61%",
+            "over_3_5": "56%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 18,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 5,
+            "goles_favor": 34,
+            "goles_contra": 33,
+            "diferencia": 1,
+            "puntos": 25
+        }
+    },
+    "San Marino A. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "61%",
+            "over_3_5": "50%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 18,
+            "ganados": 5,
+            "empatados": 4,
+            "perdidos": 9,
+            "goles_favor": 22,
+            "goles_contra": 36,
+            "diferencia": -14,
+            "puntos": 19
+        }
+    },
+    "Venezia W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "61%",
+            "over_3_5": "33%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 18,
+            "ganados": 2,
+            "empatados": 4,
+            "perdidos": 12,
+            "goles_favor": 17,
+            "goles_contra": 45,
+            "diferencia": -28,
+            "puntos": 10
+        }
+    },
+    "Frosinone W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "50%",
+            "over_3_5": "28%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 18,
+            "ganados": 4,
+            "empatados": 6,
+            "perdidos": 8,
+            "goles_favor": 23,
+            "goles_contra": 32,
+            "diferencia": -9,
+            "puntos": 18
+        }
+    },
+    "Trastevere W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "50%",
+            "over_3_5": "17%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 18,
+            "ganados": 1,
+            "empatados": 4,
+            "perdidos": 13,
+            "goles_favor": 12,
+            "goles_contra": 36,
+            "diferencia": -24,
+            "puntos": 7
+        }
+    },
+    "RES Roma W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "94%",
+            "over_2_5": "67%",
+            "over_3_5": "50%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 18,
+            "ganados": 7,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 34,
+            "goles_contra": 32,
+            "diferencia": 2,
+            "puntos": 27
+        }
+    },
+    "Bologna W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "78%",
+            "over_3_5": "56%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 18,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 40,
+            "goles_contra": 27,
+            "diferencia": 13,
+            "puntos": 30
+        }
+    },
+    "Arezzo W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "56%",
+            "over_3_5": "28%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 18,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 21,
+            "goles_contra": 29,
+            "diferencia": -8,
+            "puntos": 22
+        }
+    },
+    "Lumezzane W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "50%",
+            "over_3_5": "22%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 18,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 2,
+            "goles_favor": 35,
+            "goles_contra": 15,
+            "diferencia": 20,
+            "puntos": 40
+        }
+    },
+    "Brescia W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "61%",
+            "over_3_5": "39%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 18,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 31,
+            "goles_contra": 26,
+            "diferencia": 5,
+            "puntos": 29
+        }
+    },
+    "Como W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "67%",
+            "over_3_5": "39%",
+            "bts": "39%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 18,
+            "ganados": 14,
+            "empatados": 3,
+            "perdidos": 1,
+            "goles_favor": 44,
+            "goles_contra": 11,
+            "diferencia": 33,
+            "puntos": 45
+        }
+    },
+    "Cesena W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "72%",
+            "over_3_5": "44%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 18,
+            "ganados": 12,
+            "empatados": 1,
+            "perdidos": 5,
+            "goles_favor": 42,
+            "goles_contra": 21,
+            "diferencia": 21,
+            "puntos": 37
+        }
+    },
+    "Verona W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "61%",
+            "over_3_5": "39%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 18,
+            "ganados": 4,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 22,
+            "goles_contra": 32,
+            "diferencia": -10,
+            "puntos": 17
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61.1%",
+            "over_2_5": "37.3%",
+            "over_3_5": "18.3%",
+            "bts": "21.4%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:18:12.548852",
+        "liga": "italy18"
+    }
+}

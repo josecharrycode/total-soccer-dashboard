@@ -1,0 +1,296 @@
+{
+    "Harstad": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "88%",
+            "over_3_5": "73%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 2,
+            "perdidos": 15,
+            "goles_favor": 61,
+            "goles_contra": 63,
+            "diferencia": -2,
+            "puntos": 29
+        }
+    },
+    "Tromso B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "85%",
+            "over_3_5": "58%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 26,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 58,
+            "goles_contra": 47,
+            "diferencia": 11,
+            "puntos": 40
+        }
+    },
+    "Gamle Oslo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "73%",
+            "over_3_5": "58%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 68,
+            "goles_contra": 48,
+            "diferencia": 20,
+            "puntos": 40
+        }
+    },
+    "Alta B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "96%",
+            "over_3_5": "69%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 26,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 19,
+            "goles_favor": 44,
+            "goles_contra": 93,
+            "diferencia": -49,
+            "puntos": 15
+        }
+    },
+    "KFUM B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "69%",
+            "over_3_5": "54%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 8,
+            "perdidos": 10,
+            "goles_favor": 44,
+            "goles_contra": 50,
+            "diferencia": -6,
+            "puntos": 32
+        }
+    },
+    "Ullern": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "85%",
+            "over_3_5": "62%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 26,
+            "ganados": 12,
+            "empatados": 3,
+            "perdidos": 11,
+            "goles_favor": 64,
+            "goles_contra": 55,
+            "diferencia": 9,
+            "puntos": 39
+        }
+    },
+    "Sortland": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "81%",
+            "over_3_5": "73%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 26,
+            "ganados": 5,
+            "empatados": 4,
+            "perdidos": 17,
+            "goles_favor": 33,
+            "goles_contra": 91,
+            "diferencia": -58,
+            "puntos": 19
+        }
+    },
+    "Ulfstind": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "73%",
+            "over_3_5": "58%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 13,
+            "goles_favor": 46,
+            "goles_contra": 58,
+            "diferencia": -12,
+            "puntos": 35
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82.4%",
+            "over_2_5": "62.1%",
+            "over_3_5": "47.3%",
+            "bts": "16.5%"
+        },
+        "position": {}
+    },
+    "Baerum": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "85%",
+            "over_3_5": "58%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 26,
+            "ganados": 15,
+            "empatados": 4,
+            "perdidos": 7,
+            "goles_favor": 77,
+            "goles_contra": 41,
+            "diferencia": 36,
+            "puntos": 49
+        }
+    },
+    "Funnefoss/V": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "73%",
+            "over_3_5": "65%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 26,
+            "ganados": 5,
+            "empatados": 10,
+            "perdidos": 11,
+            "goles_favor": 45,
+            "goles_contra": 65,
+            "diferencia": -20,
+            "puntos": 25
+        }
+    },
+    "Junkeren": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "88%",
+            "over_3_5": "54%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 26,
+            "ganados": 22,
+            "empatados": 3,
+            "perdidos": 1,
+            "goles_favor": 89,
+            "goles_contra": 31,
+            "diferencia": 58,
+            "puntos": 69
+        }
+    },
+    "Skjervoy": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "85%",
+            "over_3_5": "65%",
+            "bts": "85%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 13,
+            "goles_favor": 44,
+            "goles_contra": 86,
+            "diferencia": -42,
+            "puntos": 29
+        }
+    },
+    "Floya": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "88%",
+            "over_3_5": "58%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 13,
+            "goles_favor": 63,
+            "goles_contra": 58,
+            "diferencia": 5,
+            "puntos": 35
+        }
+    },
+    "Frigg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "85%",
+            "over_3_5": "65%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 26,
+            "ganados": 19,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 91,
+            "goles_contra": 41,
+            "diferencia": 50,
+            "puntos": 60
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:24:29.849212",
+        "liga": "norway5"
+    }
+}

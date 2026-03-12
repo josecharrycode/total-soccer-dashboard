@@ -1,0 +1,336 @@
+{
+    "Diyarbekirspor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "42%",
+            "over_3_5": "21%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 24,
+            "ganados": 6,
+            "empatados": 8,
+            "perdidos": 10,
+            "goles_favor": 23,
+            "goles_contra": 36,
+            "diferencia": -13,
+            "puntos": 26
+        }
+    },
+    "Erciyes": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "38%",
+            "over_3_5": "17%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 24,
+            "ganados": 8,
+            "empatados": 10,
+            "perdidos": 6,
+            "goles_favor": 30,
+            "goles_contra": 24,
+            "diferencia": 6,
+            "puntos": 34
+        }
+    },
+    "Agri 1970": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "50%",
+            "over_3_5": "38%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 24,
+            "ganados": 9,
+            "empatados": 9,
+            "perdidos": 6,
+            "goles_favor": 46,
+            "goles_contra": 23,
+            "diferencia": 23,
+            "puntos": 36
+        }
+    },
+    "Nigde Belediyes": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "29%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 24,
+            "ganados": 9,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 35,
+            "goles_contra": 27,
+            "diferencia": 8,
+            "puntos": 35
+        }
+    },
+    "Kirikkale B.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "54%",
+            "over_3_5": "25%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 24,
+            "ganados": 7,
+            "empatados": 7,
+            "perdidos": 10,
+            "goles_favor": 29,
+            "goles_contra": 38,
+            "diferencia": -9,
+            "puntos": 28
+        }
+    },
+    "Mazidagi": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "58%",
+            "over_2_5": "33%",
+            "over_3_5": "12%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 24,
+            "ganados": 8,
+            "empatados": 10,
+            "perdidos": 6,
+            "goles_favor": 23,
+            "goles_contra": 20,
+            "diferencia": 3,
+            "puntos": 34
+        }
+    },
+    "Suvermez": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "38%",
+            "over_3_5": "25%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 24,
+            "ganados": 4,
+            "empatados": 12,
+            "perdidos": 8,
+            "goles_favor": 20,
+            "goles_contra": 33,
+            "diferencia": -13,
+            "puntos": 24
+        }
+    },
+    "Silifke": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "62%",
+            "over_2_5": "33%",
+            "over_3_5": "17%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 24,
+            "ganados": 10,
+            "empatados": 11,
+            "perdidos": 3,
+            "goles_favor": 30,
+            "goles_contra": 18,
+            "diferencia": 12,
+            "puntos": 41
+        }
+    },
+    "Kirsehir B.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "42%",
+            "over_3_5": "25%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 24,
+            "ganados": 6,
+            "empatados": 12,
+            "perdidos": 6,
+            "goles_favor": 27,
+            "goles_contra": 27,
+            "diferencia": 0,
+            "puntos": 30
+        }
+    },
+    "Karakopru": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "62%",
+            "over_2_5": "42%",
+            "over_3_5": "29%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 24,
+            "ganados": 9,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 29,
+            "goles_contra": 29,
+            "diferencia": 0,
+            "puntos": 35
+        }
+    },
+    "Kilis Belediyes": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "42%",
+            "over_3_5": "25%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 24,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 12,
+            "goles_favor": 19,
+            "goles_contra": 40,
+            "diferencia": -21,
+            "puntos": 26
+        }
+    },
+    "Yesilyurtspor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "62%",
+            "over_2_5": "42%",
+            "over_3_5": "29%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 24,
+            "ganados": 9,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 30,
+            "goles_contra": 27,
+            "diferencia": 3,
+            "puntos": 34
+        }
+    },
+    "12 Bingolspor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "42%",
+            "over_3_5": "29%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 24,
+            "ganados": 14,
+            "empatados": 7,
+            "perdidos": 3,
+            "goles_favor": 50,
+            "goles_contra": 22,
+            "diferencia": 28,
+            "puntos": 49
+        }
+    },
+    "Kahramanmar.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "38%",
+            "over_3_5": "25%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 24,
+            "ganados": 4,
+            "empatados": 9,
+            "perdidos": 11,
+            "goles_favor": 25,
+            "goles_contra": 40,
+            "diferencia": -15,
+            "puntos": 21
+        }
+    },
+    "Osmaniyespor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "42%",
+            "over_3_5": "21%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 24,
+            "ganados": 10,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 31,
+            "goles_contra": 29,
+            "diferencia": 2,
+            "puntos": 35
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "41.7%",
+            "over_2_5": "24.5%",
+            "over_3_5": "13.0%",
+            "bts": "32.0%"
+        },
+        "position": {}
+    },
+    "Turk Metal 1963": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "42%",
+            "over_3_5": "25%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 24,
+            "ganados": 3,
+            "empatados": 10,
+            "perdidos": 11,
+            "goles_favor": 25,
+            "goles_contra": 39,
+            "diferencia": -14,
+            "puntos": 19
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:43:29.794129",
+        "liga": "turkey6"
+    }
+}

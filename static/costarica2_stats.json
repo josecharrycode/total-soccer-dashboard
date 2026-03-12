@@ -1,0 +1,216 @@
+{
+    "Guadalupe": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "45%",
+            "over_3_5": "27%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 11,
+            "ganados": 1,
+            "empatados": 3,
+            "perdidos": 7,
+            "goles_favor": 9,
+            "goles_contra": 21,
+            "diferencia": -12,
+            "puntos": 6
+        }
+    },
+    "M. Liberia": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "36%",
+            "over_3_5": "18%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 11,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 5,
+            "goles_favor": 10,
+            "goles_contra": 14,
+            "diferencia": -4,
+            "puntos": 12
+        }
+    },
+    "Saprissa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "55%",
+            "over_3_5": "18%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 11,
+            "ganados": 6,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 16,
+            "goles_contra": 12,
+            "diferencia": 4,
+            "puntos": 21
+        }
+    },
+    "Cartagines": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64%",
+            "over_2_5": "27%",
+            "over_3_5": "9%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 11,
+            "ganados": 6,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 12,
+            "goles_contra": 10,
+            "diferencia": 2,
+            "puntos": 20
+        }
+    },
+    "Herediano": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "36%",
+            "over_3_5": "9%",
+            "bts": "27%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 11,
+            "ganados": 7,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 18,
+            "goles_contra": 6,
+            "diferencia": 12,
+            "puntos": 22
+        }
+    },
+    "Alajuelense": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "36%",
+            "over_3_5": "18%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 11,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 14,
+            "goles_contra": 12,
+            "diferencia": 2,
+            "puntos": 15
+        }
+    },
+    "Sporting SJ": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "45%",
+            "over_3_5": "9%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 11,
+            "ganados": 4,
+            "empatados": 2,
+            "perdidos": 5,
+            "goles_favor": 11,
+            "goles_contra": 14,
+            "diferencia": -3,
+            "puntos": 14
+        }
+    },
+    "San Carlos": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "36%",
+            "over_3_5": "18%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 11,
+            "ganados": 5,
+            "empatados": 2,
+            "perdidos": 4,
+            "goles_favor": 13,
+            "goles_contra": 12,
+            "diferencia": 1,
+            "puntos": 17
+        }
+    },
+    "Puntarenas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64%",
+            "over_2_5": "45%",
+            "over_3_5": "27%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 11,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 14,
+            "goles_contra": 12,
+            "diferencia": 2,
+            "puntos": 15
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "40.0%",
+            "over_2_5": "18.2%",
+            "over_3_5": "9.1%",
+            "bts": "30.0%"
+        },
+        "position": {}
+    },
+    "Zeledon": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "36%",
+            "over_3_5": "27%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 11,
+            "ganados": 1,
+            "empatados": 6,
+            "perdidos": 4,
+            "goles_favor": 12,
+            "goles_contra": 16,
+            "diferencia": -4,
+            "puntos": 9
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:57:51.001572",
+        "liga": "costarica2"
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "Macara": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 3,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 0,
+            "goles_favor": 3,
+            "goles_contra": 1,
+            "diferencia": 2,
+            "puntos": 5
+        }
+    },
+    "LDU Quito": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "0%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 3,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 2,
+            "goles_favor": 3,
+            "goles_contra": 5,
+            "diferencia": -2,
+            "puntos": 3
+        }
+    },
+    "I. del Valle": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 3,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 7,
+            "goles_contra": 1,
+            "diferencia": 6,
+            "puntos": 9
+        }
+    },
+    "Leones Norte": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 4,
+            "diferencia": -3,
+            "puntos": 2
+        }
+    },
+    "Manta": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 1,
+            "goles_contra": 4,
+            "diferencia": -3,
+            "puntos": 1
+        }
+    },
+    "Delfin": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "33%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 3,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 3,
+            "goles_contra": 1,
+            "diferencia": 2,
+            "puntos": 7
+        }
+    },
+    "D. Cuenca": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "33%",
+            "over_2_5": "33%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 3,
+            "ganados": 2,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 2,
+            "diferencia": 1,
+            "puntos": 6
+        }
+    },
+    "Tecnico U.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 2,
+            "goles_contra": 3,
+            "diferencia": -1,
+            "puntos": 2
+        }
+    },
+    "U. Catolica": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "50%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 2,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 3,
+            "goles_contra": 0,
+            "diferencia": 3,
+            "puntos": 4
+        }
+    },
+    "Mushuc Runa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 2,
+            "goles_contra": 4,
+            "diferencia": -2,
+            "puntos": 2
+        }
+    },
+    "Barcelona SC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "33%",
+            "over_2_5": "33%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 3,
+            "ganados": 2,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 2,
+            "diferencia": 1,
+            "puntos": 6
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "21.7%",
+            "over_2_5": "4.3%",
+            "over_3_5": "0.0%",
+            "bts": "30.4%"
+        },
+        "position": {}
+    },
+    "Guayaquil City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 1,
+            "goles_contra": 4,
+            "diferencia": -3,
+            "puntos": 1
+        }
+    },
+    "Emelec": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 2,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 2,
+            "diferencia": -1,
+            "puntos": 1
+        }
+    },
+    "Orense": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "33%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 4,
+            "diferencia": -1,
+            "puntos": 2
+        }
+    },
+    "Libertad": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "0%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 3,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 4,
+            "goles_contra": 2,
+            "diferencia": 2,
+            "puntos": 7
+        }
+    },
+    "Aucas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 2,
+            "goles_contra": 3,
+            "diferencia": -1,
+            "puntos": 2
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:00:08.722704",
+        "liga": "ecuador"
+    }
+}

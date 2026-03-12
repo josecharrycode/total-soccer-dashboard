@@ -1,0 +1,296 @@
+{
+    "Ajman": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "58%",
+            "over_2_5": "37%",
+            "over_3_5": "21%",
+            "bts": "32%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 19,
+            "ganados": 7,
+            "empatados": 2,
+            "perdidos": 10,
+            "goles_favor": 19,
+            "goles_contra": 25,
+            "diferencia": -6,
+            "puntos": 23
+        }
+    },
+    "Shabab Al Ahli": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63%",
+            "over_2_5": "42%",
+            "over_3_5": "37%",
+            "bts": "32%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 19,
+            "ganados": 14,
+            "empatados": 4,
+            "perdidos": 1,
+            "goles_favor": 44,
+            "goles_contra": 7,
+            "diferencia": 37,
+            "puntos": 46
+        }
+    },
+    "Al Ain": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "58%",
+            "over_3_5": "37%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 19,
+            "ganados": 14,
+            "empatados": 5,
+            "perdidos": 0,
+            "goles_favor": 40,
+            "goles_contra": 16,
+            "diferencia": 24,
+            "puntos": 47
+        }
+    },
+    "Ittihad Kalba": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "58%",
+            "over_3_5": "37%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 19,
+            "ganados": 5,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 20,
+            "goles_contra": 33,
+            "diferencia": -13,
+            "puntos": 20
+        }
+    },
+    "Bani Yas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "47%",
+            "over_3_5": "26%",
+            "bts": "32%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 19,
+            "ganados": 6,
+            "empatados": 2,
+            "perdidos": 11,
+            "goles_favor": 19,
+            "goles_contra": 30,
+            "diferencia": -11,
+            "puntos": 20
+        }
+    },
+    "Al Sharjah": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "58%",
+            "over_3_5": "47%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 19,
+            "ganados": 6,
+            "empatados": 2,
+            "perdidos": 11,
+            "goles_favor": 27,
+            "goles_contra": 35,
+            "diferencia": -8,
+            "puntos": 20
+        }
+    },
+    "Al Bataeh": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63%",
+            "over_2_5": "42%",
+            "over_3_5": "32%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 19,
+            "ganados": 4,
+            "empatados": 4,
+            "perdidos": 11,
+            "goles_favor": 18,
+            "goles_contra": 28,
+            "diferencia": -10,
+            "puntos": 16
+        }
+    },
+    "Al Wasl": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "32%",
+            "over_3_5": "21%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 19,
+            "ganados": 8,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 21,
+            "goles_contra": 20,
+            "diferencia": 1,
+            "puntos": 30
+        }
+    },
+    "Al Nasr": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "42%",
+            "over_3_5": "26%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 19,
+            "ganados": 6,
+            "empatados": 8,
+            "perdidos": 5,
+            "goles_favor": 24,
+            "goles_contra": 24,
+            "diferencia": 0,
+            "puntos": 26
+        }
+    },
+    "D. Al Fujairah": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "53%",
+            "over_3_5": "32%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 19,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 11,
+            "goles_favor": 17,
+            "goles_contra": 36,
+            "diferencia": -19,
+            "puntos": 14
+        }
+    },
+    "Al Dhafra": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "58%",
+            "over_3_5": "37%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 19,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 11,
+            "goles_favor": 25,
+            "goles_contra": 39,
+            "diferencia": -14,
+            "puntos": 18
+        }
+    },
+    "Al Wahda": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63%",
+            "over_2_5": "37%",
+            "over_3_5": "26%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 19,
+            "ganados": 9,
+            "empatados": 7,
+            "perdidos": 3,
+            "goles_favor": 29,
+            "goles_contra": 16,
+            "diferencia": 13,
+            "puntos": 34
+        }
+    },
+    "Al Jazira": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63%",
+            "over_2_5": "47%",
+            "over_3_5": "21%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 19,
+            "ganados": 10,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 30,
+            "goles_contra": 17,
+            "diferencia": 13,
+            "puntos": 34
+        }
+    },
+    "Khorfakkan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "63%",
+            "over_3_5": "42%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 19,
+            "ganados": 5,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 26,
+            "goles_contra": 33,
+            "diferencia": -7,
+            "puntos": 20
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "48.1%",
+            "over_2_5": "31.6%",
+            "over_3_5": "15.8%",
+            "bts": "27.1%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:44:01.273522",
+        "liga": "uae"
+    }
+}

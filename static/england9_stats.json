@@ -1,0 +1,426 @@
+{
+    "FC United": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "47%",
+            "over_3_5": "28%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 32,
+            "ganados": 17,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 49,
+            "goles_contra": 30,
+            "diferencia": 19,
+            "puntos": 59
+        }
+    },
+    "Stocksbridge P.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "53%",
+            "over_3_5": "28%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 19,
+            "partidos": 32,
+            "ganados": 7,
+            "empatados": 10,
+            "perdidos": 15,
+            "goles_favor": 32,
+            "goles_contra": 53,
+            "diferencia": -21,
+            "puntos": 31
+        }
+    },
+    "Bamber Bridge": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "48%",
+            "over_3_5": "35%",
+            "bts": "48%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 31,
+            "ganados": 13,
+            "empatados": 7,
+            "perdidos": 11,
+            "goles_favor": 47,
+            "goles_contra": 36,
+            "diferencia": 11,
+            "puntos": 46
+        }
+    },
+    "Prescot Cables": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "41%",
+            "over_3_5": "16%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 18,
+            "partidos": 32,
+            "ganados": 7,
+            "empatados": 12,
+            "perdidos": 13,
+            "goles_favor": 32,
+            "goles_contra": 40,
+            "diferencia": -8,
+            "puntos": 33
+        }
+    },
+    "Ilkeston Town": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "62%",
+            "over_3_5": "38%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 32,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 44,
+            "goles_contra": 47,
+            "diferencia": -3,
+            "puntos": 40
+        }
+    },
+    "Cleethorpes": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "63%",
+            "over_3_5": "23%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 30,
+            "ganados": 11,
+            "empatados": 8,
+            "perdidos": 11,
+            "goles_favor": 43,
+            "goles_contra": 35,
+            "diferencia": 8,
+            "puntos": 41
+        }
+    },
+    "Gainsborough": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "39%",
+            "over_3_5": "19%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 31,
+            "ganados": 14,
+            "empatados": 9,
+            "perdidos": 8,
+            "goles_favor": 43,
+            "goles_contra": 33,
+            "diferencia": 10,
+            "puntos": 51
+        }
+    },
+    "Hyde Utd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "68%",
+            "over_3_5": "52%",
+            "bts": "68%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 31,
+            "ganados": 7,
+            "empatados": 12,
+            "perdidos": 12,
+            "goles_favor": 48,
+            "goles_contra": 56,
+            "diferencia": -8,
+            "puntos": 33
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "48.8%",
+            "over_2_5": "28.1%",
+            "over_3_5": "11.4%",
+            "bts": "28.1%"
+        },
+        "position": {}
+    },
+    "Leek Town": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "52%",
+            "over_3_5": "24%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 33,
+            "ganados": 11,
+            "empatados": 7,
+            "perdidos": 15,
+            "goles_favor": 39,
+            "goles_contra": 46,
+            "diferencia": -7,
+            "puntos": 40
+        }
+    },
+    "Hednesford": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "44%",
+            "over_3_5": "12%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 32,
+            "ganados": 17,
+            "empatados": 9,
+            "perdidos": 6,
+            "goles_favor": 46,
+            "goles_contra": 27,
+            "diferencia": 19,
+            "puntos": 60
+        }
+    },
+    "Warrington": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "55%",
+            "over_3_5": "27%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 33,
+            "ganados": 12,
+            "empatados": 10,
+            "perdidos": 11,
+            "goles_favor": 39,
+            "goles_contra": 52,
+            "diferencia": -13,
+            "puntos": 46
+        }
+    },
+    "Rylands": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "39%",
+            "over_3_5": "27%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 33,
+            "ganados": 14,
+            "empatados": 12,
+            "perdidos": 7,
+            "goles_favor": 48,
+            "goles_contra": 36,
+            "diferencia": 12,
+            "puntos": 54
+        }
+    },
+    "Hebburn Town": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "52%",
+            "over_3_5": "33%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 33,
+            "ganados": 18,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 62,
+            "goles_contra": 37,
+            "diferencia": 25,
+            "puntos": 62
+        }
+    },
+    "Morpeth Town": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "41%",
+            "over_3_5": "19%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 20,
+            "partidos": 32,
+            "ganados": 8,
+            "empatados": 6,
+            "perdidos": 18,
+            "goles_favor": 30,
+            "goles_contra": 45,
+            "diferencia": -15,
+            "puntos": 30
+        }
+    },
+    "Stockton Town": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "61%",
+            "over_3_5": "35%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 31,
+            "ganados": 14,
+            "empatados": 10,
+            "perdidos": 7,
+            "goles_favor": 52,
+            "goles_contra": 38,
+            "diferencia": 14,
+            "puntos": 52
+        }
+    },
+    "Guiseley": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "31%",
+            "over_3_5": "31%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 32,
+            "ganados": 11,
+            "empatados": 7,
+            "perdidos": 14,
+            "goles_favor": 36,
+            "goles_contra": 42,
+            "diferencia": -6,
+            "puntos": 40
+        }
+    },
+    "Lancaster City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "50%",
+            "over_3_5": "31%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 32,
+            "ganados": 13,
+            "empatados": 8,
+            "perdidos": 11,
+            "goles_favor": 42,
+            "goles_contra": 38,
+            "diferencia": 4,
+            "puntos": 47
+        }
+    },
+    "Rushall": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "66%",
+            "over_2_5": "50%",
+            "over_3_5": "38%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 32,
+            "ganados": 9,
+            "empatados": 9,
+            "perdidos": 14,
+            "goles_favor": 37,
+            "goles_contra": 50,
+            "diferencia": -13,
+            "puntos": 36
+        }
+    },
+    "Whitby Town": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "48%",
+            "over_3_5": "26%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 31,
+            "ganados": 9,
+            "empatados": 11,
+            "perdidos": 11,
+            "goles_favor": 35,
+            "goles_contra": 39,
+            "diferencia": -4,
+            "puntos": 38
+        }
+    },
+    "Workington": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "41%",
+            "over_3_5": "25%",
+            "bts": "56%"
+        },
+        "position": {}
+    },
+    "Ashton Utd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "42%",
+            "over_3_5": "23%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 31,
+            "ganados": 11,
+            "empatados": 7,
+            "perdidos": 13,
+            "goles_favor": 35,
+            "goles_contra": 42,
+            "diferencia": -7,
+            "puntos": 40
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:02:08.540617",
+        "liga": "england9"
+    }
+}

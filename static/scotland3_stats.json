@@ -1,0 +1,216 @@
+{
+    "East Fife": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "54%",
+            "over_3_5": "21%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 28,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 26,
+            "goles_contra": 51,
+            "diferencia": -25,
+            "puntos": 28
+        }
+    },
+    "Queen of South": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "54%",
+            "over_3_5": "29%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 28,
+            "ganados": 11,
+            "empatados": 7,
+            "perdidos": 10,
+            "goles_favor": 42,
+            "goles_contra": 38,
+            "diferencia": 4,
+            "puntos": 40
+        }
+    },
+    "Hamilton": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "54%",
+            "over_3_5": "32%",
+            "bts": "39%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 28,
+            "ganados": 13,
+            "empatados": 6,
+            "perdidos": 9,
+            "goles_favor": 43,
+            "goles_contra": 29,
+            "diferencia": 14,
+            "puntos": 45
+        }
+    },
+    "Inverness": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "44%",
+            "over_3_5": "30%",
+            "bts": "37%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 27,
+            "ganados": 17,
+            "empatados": 6,
+            "perdidos": 4,
+            "goles_favor": 47,
+            "goles_contra": 17,
+            "diferencia": 30,
+            "puntos": 57
+        }
+    },
+    "Alloa Athletic": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "46%",
+            "over_3_5": "21%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 28,
+            "ganados": 13,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 40,
+            "goles_contra": 24,
+            "diferencia": 16,
+            "puntos": 46
+        }
+    },
+    "Stenhousemuir": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "36%",
+            "over_3_5": "25%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 28,
+            "ganados": 13,
+            "empatados": 11,
+            "perdidos": 4,
+            "goles_favor": 38,
+            "goles_contra": 22,
+            "diferencia": 16,
+            "puntos": 50
+        }
+    },
+    "Peterhead": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "74%",
+            "over_3_5": "48%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 27,
+            "ganados": 11,
+            "empatados": 5,
+            "perdidos": 11,
+            "goles_favor": 41,
+            "goles_contra": 48,
+            "diferencia": -7,
+            "puntos": 38
+        }
+    },
+    "Montrose": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "64%",
+            "over_3_5": "36%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 28,
+            "ganados": 9,
+            "empatados": 7,
+            "perdidos": 12,
+            "goles_favor": 36,
+            "goles_contra": 50,
+            "diferencia": -14,
+            "puntos": 34
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "52.5%",
+            "over_2_5": "28.8%",
+            "over_3_5": "10.1%",
+            "bts": "28.1%"
+        },
+        "position": {}
+    },
+    "Cove Rangers": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "43%",
+            "over_3_5": "21%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 28,
+            "ganados": 6,
+            "empatados": 8,
+            "perdidos": 14,
+            "goles_favor": 31,
+            "goles_contra": 36,
+            "diferencia": -5,
+            "puntos": 26
+        }
+    },
+    "Kelty Hearts": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "57%",
+            "over_3_5": "25%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 28,
+            "ganados": 3,
+            "empatados": 9,
+            "perdidos": 16,
+            "goles_favor": 24,
+            "goles_contra": 53,
+            "diferencia": -29,
+            "puntos": 18
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:33:37.577361",
+        "liga": "scotland3"
+    }
+}

@@ -1,0 +1,376 @@
+{
+    "TuBa Pohlheim": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "82%",
+            "over_3_5": "55%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 22,
+            "ganados": 10,
+            "empatados": 5,
+            "perdidos": 7,
+            "goles_favor": 50,
+            "goles_contra": 37,
+            "diferencia": 13,
+            "puntos": 35
+        }
+    },
+    "KSV Baunatal": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "82%",
+            "over_3_5": "36%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 22,
+            "ganados": 11,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 42,
+            "goles_contra": 30,
+            "diferencia": 12,
+            "puntos": 38
+        }
+    },
+    "Marburg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "55%",
+            "over_3_5": "36%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 22,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 29,
+            "goles_contra": 40,
+            "diferencia": -11,
+            "puntos": 28
+        }
+    },
+    "Stadtallendorf": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "57%",
+            "over_3_5": "48%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 21,
+            "ganados": 6,
+            "empatados": 9,
+            "perdidos": 6,
+            "goles_favor": 28,
+            "goles_contra": 31,
+            "diferencia": -3,
+            "puntos": 27
+        }
+    },
+    "Weidenhausen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "71%",
+            "over_3_5": "48%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 21,
+            "ganados": 2,
+            "empatados": 7,
+            "perdidos": 12,
+            "goles_favor": 25,
+            "goles_contra": 52,
+            "diferencia": -27,
+            "puntos": 13
+        }
+    },
+    "CSC 03 Kassel": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "64%",
+            "over_3_5": "59%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 22,
+            "ganados": 6,
+            "empatados": 5,
+            "perdidos": 11,
+            "goles_favor": 31,
+            "goles_contra": 53,
+            "diferencia": -22,
+            "puntos": 23
+        }
+    },
+    "Eintracht F. B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "64%",
+            "over_3_5": "50%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 22,
+            "ganados": 18,
+            "empatados": 3,
+            "perdidos": 1,
+            "goles_favor": 61,
+            "goles_contra": 19,
+            "diferencia": 42,
+            "puntos": 57
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68.6%",
+            "over_2_5": "48.5%",
+            "over_3_5": "27.3%",
+            "bts": "21.4%"
+        },
+        "position": {}
+    },
+    "RW Walldorf": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "91%",
+            "over_2_5": "86%",
+            "over_3_5": "86%",
+            "bts": "82%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 22,
+            "ganados": 10,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 59,
+            "goles_contra": 52,
+            "diferencia": 7,
+            "puntos": 34
+        }
+    },
+    "Fernwald": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "65%",
+            "over_3_5": "43%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 23,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 44,
+            "goles_contra": 36,
+            "diferencia": 8,
+            "puntos": 33
+        }
+    },
+    "Hummetroth": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "65%",
+            "over_3_5": "50%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 20,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 37,
+            "goles_contra": 33,
+            "diferencia": 4,
+            "puntos": 30
+        }
+    },
+    "Eddersheim": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "76%",
+            "over_3_5": "62%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 21,
+            "ganados": 15,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 53,
+            "goles_contra": 26,
+            "diferencia": 27,
+            "puntos": 48
+        }
+    },
+    "Darmstadt B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "73%",
+            "over_3_5": "64%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 22,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 45,
+            "goles_contra": 52,
+            "diferencia": -7,
+            "puntos": 26
+        }
+    },
+    "Waldgirmes": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "57%",
+            "over_3_5": "38%",
+            "bts": "48%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 21,
+            "ganados": 5,
+            "empatados": 4,
+            "perdidos": 12,
+            "goles_favor": 27,
+            "goles_contra": 40,
+            "diferencia": -13,
+            "puntos": 19
+        }
+    },
+    "Hanau": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "71%",
+            "over_3_5": "33%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 18,
+            "partidos": 21,
+            "ganados": 1,
+            "empatados": 6,
+            "perdidos": 14,
+            "goles_favor": 23,
+            "goles_contra": 48,
+            "diferencia": -25,
+            "puntos": 9
+        }
+    },
+    "Hunfelder SV": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "77%",
+            "over_3_5": "45%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 22,
+            "ganados": 10,
+            "empatados": 2,
+            "perdidos": 10,
+            "goles_favor": 43,
+            "goles_contra": 34,
+            "diferencia": 9,
+            "puntos": 32
+        }
+    },
+    "Friedberg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "52%",
+            "over_3_5": "29%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 21,
+            "ganados": 10,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 34,
+            "goles_contra": 30,
+            "diferencia": 4,
+            "puntos": 35
+        }
+    },
+    "Giessen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "76%",
+            "over_3_5": "57%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 21,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 8,
+            "goles_favor": 45,
+            "goles_contra": 40,
+            "diferencia": 5,
+            "puntos": 35
+        }
+    },
+    "Hanauer SC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "82%",
+            "over_2_5": "59%",
+            "over_3_5": "32%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 22,
+            "ganados": 6,
+            "empatados": 3,
+            "perdidos": 13,
+            "goles_favor": 21,
+            "goles_contra": 44,
+            "diferencia": -23,
+            "puntos": 21
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:08:49.206716",
+        "liga": "germany15"
+    }
+}

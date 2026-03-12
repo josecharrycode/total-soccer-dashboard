@@ -1,0 +1,336 @@
+{
+    "Curico Unido": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "33%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 3,
+            "goles_contra": 8,
+            "diferencia": -5,
+            "puntos": 1
+        }
+    },
+    "D. Iquique": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 3,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 0,
+            "goles_favor": 6,
+            "goles_contra": 1,
+            "diferencia": 5,
+            "puntos": 5
+        }
+    },
+    "Magallanes": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 3,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 5,
+            "goles_contra": 3,
+            "diferencia": 2,
+            "puntos": 7
+        }
+    },
+    "CD Santa Cruz": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 4,
+            "diferencia": -1,
+            "puntos": 2
+        }
+    },
+    "San Marcos": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 3,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 2,
+            "diferencia": 0,
+            "puntos": 3
+        }
+    },
+    "Deportes Temuco": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 5,
+            "diferencia": -2,
+            "puntos": 2
+        }
+    },
+    "Antofagasta": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "33%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 3,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 2,
+            "goles_favor": 3,
+            "goles_contra": 4,
+            "diferencia": -1,
+            "puntos": 3
+        }
+    },
+    "San Luis": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 2,
+            "goles_contra": 4,
+            "diferencia": -2,
+            "puntos": 2
+        }
+    },
+    "Recoleta": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 3,
+            "ganados": 2,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 5,
+            "goles_contra": 4,
+            "diferencia": 1,
+            "puntos": 6
+        }
+    },
+    "Cobreloa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "67%",
+            "over_3_5": "67%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 3,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 8,
+            "goles_contra": 2,
+            "diferencia": 6,
+            "puntos": 7
+        }
+    },
+    "Puerto Montt": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 3,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 7,
+            "goles_contra": 2,
+            "diferencia": 5,
+            "puntos": 9
+        }
+    },
+    "Rangers": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 3,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 1,
+            "goles_contra": 5,
+            "diferencia": -4,
+            "puntos": 1
+        }
+    },
+    "Copiapo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 3,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 3,
+            "diferencia": 0,
+            "puntos": 4
+        }
+    },
+    "S. Wanderers": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 3,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 4,
+            "goles_contra": 5,
+            "diferencia": -1,
+            "puntos": 4
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "37.5%",
+            "over_2_5": "20.8%",
+            "over_3_5": "12.5%",
+            "bts": "22.9%"
+        },
+        "position": {}
+    },
+    "Union Espanola": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "67%",
+            "over_3_5": "0%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 3,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 2,
+            "goles_favor": 4,
+            "goles_contra": 4,
+            "diferencia": 0,
+            "puntos": 3
+        }
+    },
+    "U. San Felipe": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "33%",
+            "over_3_5": "33%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 3,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 6,
+            "diferencia": -3,
+            "puntos": 4
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:56:01.371275",
+        "liga": "chile2"
+    }
+}

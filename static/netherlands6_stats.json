@@ -1,0 +1,256 @@
+{
+    "NAC Breda W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "71%",
+            "over_3_5": "57%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 14,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 11,
+            "goles_favor": 9,
+            "goles_contra": 46,
+            "diferencia": -37,
+            "puntos": 7
+        }
+    },
+    "Ajax W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "71%",
+            "over_3_5": "43%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 14,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 40,
+            "goles_contra": 13,
+            "diferencia": 27,
+            "puntos": 30
+        }
+    },
+    "PEC Zwolle W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "53%",
+            "over_3_5": "27%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 15,
+            "ganados": 9,
+            "empatados": 0,
+            "perdidos": 6,
+            "goles_favor": 25,
+            "goles_contra": 18,
+            "diferencia": 7,
+            "puntos": 27
+        }
+    },
+    "Utrecht W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "86%",
+            "over_3_5": "50%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 14,
+            "ganados": 6,
+            "empatados": 3,
+            "perdidos": 5,
+            "goles_favor": 26,
+            "goles_contra": 29,
+            "diferencia": -3,
+            "puntos": 21
+        }
+    },
+    "HERA": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "57%",
+            "over_3_5": "36%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 14,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 13,
+            "goles_contra": 25,
+            "diferencia": -12,
+            "puntos": 14
+        }
+    },
+    "PSV Eindhoven W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "67%",
+            "over_3_5": "40%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 15,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 2,
+            "goles_favor": 38,
+            "goles_contra": 11,
+            "diferencia": 27,
+            "puntos": 35
+        }
+    },
+    "Excelsior W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "64%",
+            "over_3_5": "36%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 14,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 11,
+            "goles_favor": 13,
+            "goles_contra": 30,
+            "diferencia": -17,
+            "puntos": 5
+        }
+    },
+    "Feyenoord W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "44%",
+            "over_3_5": "31%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 16,
+            "ganados": 11,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 32,
+            "goles_contra": 12,
+            "diferencia": 20,
+            "puntos": 36
+        }
+    },
+    "FC Twente W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "69%",
+            "over_3_5": "62%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 16,
+            "ganados": 11,
+            "empatados": 4,
+            "perdidos": 1,
+            "goles_favor": 45,
+            "goles_contra": 12,
+            "diferencia": 33,
+            "puntos": 37
+        }
+    },
+    "AZ W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "64%",
+            "over_3_5": "64%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 14,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 23,
+            "goles_contra": 30,
+            "diferencia": -7,
+            "puntos": 12
+        }
+    },
+    "ADO Den Haag W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "53%",
+            "over_3_5": "40%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 15,
+            "ganados": 1,
+            "empatados": 3,
+            "perdidos": 11,
+            "goles_favor": 9,
+            "goles_contra": 37,
+            "diferencia": -28,
+            "puntos": 6
+        }
+    },
+    "Heerenveen W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "80%",
+            "over_3_5": "73%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 15,
+            "ganados": 6,
+            "empatados": 1,
+            "perdidos": 8,
+            "goles_favor": 27,
+            "goles_contra": 37,
+            "diferencia": -10,
+            "puntos": 19
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64.8%",
+            "over_2_5": "46.6%",
+            "over_3_5": "29.5%",
+            "bts": "25.6%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:23:11.542943",
+        "liga": "netherlands6"
+    }
+}

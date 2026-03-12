@@ -1,0 +1,216 @@
+{
+    "Al Salt": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "47%",
+            "over_3_5": "16%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 19,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 24,
+            "goles_contra": 22,
+            "diferencia": 2,
+            "puntos": 25
+        }
+    },
+    "Sama Al Sarhan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "44%",
+            "over_3_5": "28%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 18,
+            "ganados": 1,
+            "empatados": 3,
+            "perdidos": 14,
+            "goles_favor": 10,
+            "goles_contra": 31,
+            "diferencia": -21,
+            "puntos": 6
+        }
+    },
+    "Al Ahli": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68%",
+            "over_2_5": "53%",
+            "over_3_5": "32%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 19,
+            "ganados": 2,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 16,
+            "goles_contra": 34,
+            "diferencia": -18,
+            "puntos": 12
+        }
+    },
+    "Al Hussein": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "59%",
+            "over_3_5": "47%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 17,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 1,
+            "goles_favor": 46,
+            "goles_contra": 12,
+            "diferencia": 34,
+            "puntos": 40
+        }
+    },
+    "Al Buqaa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "74%",
+            "over_3_5": "68%",
+            "bts": "74%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 19,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 8,
+            "goles_favor": 29,
+            "goles_contra": 46,
+            "diferencia": -17,
+            "puntos": 21
+        }
+    },
+    "Shabab Al Ordon": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "42%",
+            "over_3_5": "16%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 19,
+            "ganados": 4,
+            "empatados": 6,
+            "perdidos": 9,
+            "goles_favor": 15,
+            "goles_contra": 30,
+            "diferencia": -15,
+            "puntos": 18
+        }
+    },
+    "Al Faysali": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "61%",
+            "over_3_5": "33%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 18,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 2,
+            "goles_favor": 40,
+            "goles_contra": 17,
+            "diferencia": 23,
+            "puntos": 40
+        }
+    },
+    "Al Wihdat": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63%",
+            "over_2_5": "26%",
+            "over_3_5": "11%",
+            "bts": "32%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 19,
+            "ganados": 10,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 23,
+            "goles_contra": 15,
+            "diferencia": 8,
+            "puntos": 34
+        }
+    },
+    "Al Ramtha": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63%",
+            "over_2_5": "32%",
+            "over_3_5": "16%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 19,
+            "ganados": 9,
+            "empatados": 8,
+            "perdidos": 2,
+            "goles_favor": 25,
+            "goles_contra": 13,
+            "diferencia": 12,
+            "puntos": 35
+        }
+    },
+    "Al Jazeera": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63%",
+            "over_2_5": "47%",
+            "over_3_5": "26%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 19,
+            "ganados": 6,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 19,
+            "goles_contra": 27,
+            "diferencia": -8,
+            "puntos": 23
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "48.4%",
+            "over_2_5": "29.0%",
+            "over_3_5": "15.1%",
+            "bts": "30.6%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:19:31.786158",
+        "liga": "jordan"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "Fortis": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60%",
+            "over_2_5": "30%",
+            "over_3_5": "0%",
+            "bts": "30%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 10,
+            "ganados": 6,
+            "empatados": 3,
+            "perdidos": 1,
+            "goles_favor": 13,
+            "goles_contra": 4,
+            "diferencia": 9,
+            "puntos": 21
+        }
+    },
+    "Arambagh": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "30%",
+            "over_3_5": "0%",
+            "bts": "30%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 10,
+            "ganados": 1,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 5,
+            "goles_contra": 16,
+            "diferencia": -11,
+            "puntos": 6
+        }
+    },
+    "Fakirerpool": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "40%",
+            "over_3_5": "20%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 10,
+            "ganados": 2,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 10,
+            "goles_contra": 19,
+            "diferencia": -9,
+            "puntos": 10
+        }
+    },
+    "Bashundhara K.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "70%",
+            "over_3_5": "50%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 10,
+            "ganados": 6,
+            "empatados": 3,
+            "perdidos": 1,
+            "goles_favor": 26,
+            "goles_contra": 11,
+            "diferencia": 15,
+            "puntos": 21
+        }
+    },
+    "Brothers Union": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "30%",
+            "over_3_5": "20%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 10,
+            "ganados": 2,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 9,
+            "goles_contra": 14,
+            "diferencia": -5,
+            "puntos": 10
+        }
+    },
+    "PWD Sports Club": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "50%",
+            "over_3_5": "30%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 10,
+            "ganados": 1,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 7,
+            "goles_contra": 16,
+            "diferencia": -9,
+            "puntos": 7
+        }
+    },
+    "Rahmatgonj": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "50%",
+            "over_3_5": "30%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 10,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 13,
+            "goles_contra": 15,
+            "diferencia": -2,
+            "puntos": 15
+        }
+    },
+    "B. Police": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "20%",
+            "over_3_5": "0%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 10,
+            "ganados": 3,
+            "empatados": 6,
+            "perdidos": 1,
+            "goles_favor": 10,
+            "goles_contra": 7,
+            "diferencia": 3,
+            "puntos": 15
+        }
+    },
+    "Mohammedan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "30%",
+            "over_3_5": "20%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 10,
+            "ganados": 2,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 11,
+            "goles_contra": 13,
+            "diferencia": -2,
+            "puntos": 10
+        }
+    },
+    "Abahani": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "70%",
+            "over_3_5": "50%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 10,
+            "ganados": 4,
+            "empatados": 4,
+            "perdidos": 2,
+            "goles_favor": 21,
+            "goles_contra": 10,
+            "diferencia": 11,
+            "puntos": 16
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "42.0%",
+            "over_2_5": "22.0%",
+            "over_3_5": "14.0%",
+            "bts": "33.0%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:50:59.656733",
+        "liga": "bangladesh"
+    }
+}

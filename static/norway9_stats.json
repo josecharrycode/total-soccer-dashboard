@@ -1,0 +1,296 @@
+{
+    "Djerv": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "77%",
+            "over_3_5": "54%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 26,
+            "ganados": 16,
+            "empatados": 2,
+            "perdidos": 8,
+            "goles_favor": 62,
+            "goles_contra": 37,
+            "diferencia": 25,
+            "puntos": 50
+        }
+    },
+    "Sandnes Ulf B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "69%",
+            "over_3_5": "58%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 26,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 23,
+            "goles_favor": 32,
+            "goles_contra": 85,
+            "diferencia": -53,
+            "puntos": 7
+        }
+    },
+    "Haugesund B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "73%",
+            "over_3_5": "50%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 2,
+            "perdidos": 15,
+            "goles_favor": 41,
+            "goles_contra": 61,
+            "diferencia": -20,
+            "puntos": 29
+        }
+    },
+    "Stord": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "73%",
+            "over_3_5": "54%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 26,
+            "ganados": 12,
+            "empatados": 6,
+            "perdidos": 8,
+            "goles_favor": 58,
+            "goles_contra": 54,
+            "diferencia": 4,
+            "puntos": 42
+        }
+    },
+    "Vag": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "92%",
+            "over_3_5": "81%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 4,
+            "perdidos": 11,
+            "goles_favor": 66,
+            "goles_contra": 63,
+            "diferencia": 3,
+            "puntos": 37
+        }
+    },
+    "Sola": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "85%",
+            "over_3_5": "65%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 38,
+            "goles_contra": 87,
+            "diferencia": -49,
+            "puntos": 22
+        }
+    },
+    "Staal Jorpeland": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "96%",
+            "over_3_5": "77%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 2,
+            "perdidos": 15,
+            "goles_favor": 60,
+            "goles_contra": 73,
+            "diferencia": -13,
+            "puntos": 29
+        }
+    },
+    "Viking B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "69%",
+            "over_3_5": "54%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 26,
+            "ganados": 15,
+            "empatados": 2,
+            "perdidos": 9,
+            "goles_favor": 58,
+            "goles_contra": 47,
+            "diferencia": 11,
+            "puntos": 47
+        }
+    },
+    "Madla": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "73%",
+            "over_3_5": "65%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 26,
+            "ganados": 13,
+            "empatados": 7,
+            "perdidos": 6,
+            "goles_favor": 60,
+            "goles_contra": 42,
+            "diferencia": 18,
+            "puntos": 46
+        }
+    },
+    "Torvastad": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "65%",
+            "over_3_5": "54%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 26,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 15,
+            "goles_favor": 29,
+            "goles_contra": 68,
+            "diferencia": -39,
+            "puntos": 25
+        }
+    },
+    "Brodd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "81%",
+            "over_3_5": "62%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 26,
+            "ganados": 13,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 60,
+            "goles_contra": 54,
+            "diferencia": 6,
+            "puntos": 42
+        }
+    },
+    "Vindbjart": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "81%",
+            "over_3_5": "58%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 26,
+            "ganados": 17,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 74,
+            "goles_contra": 38,
+            "diferencia": 36,
+            "puntos": 55
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78.6%",
+            "over_2_5": "61.5%",
+            "over_3_5": "42.3%",
+            "bts": "16.2%"
+        },
+        "position": {}
+    },
+    "Hinna": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "77%",
+            "over_3_5": "62%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 26,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 13,
+            "goles_favor": 62,
+            "goles_contra": 53,
+            "diferencia": 9,
+            "puntos": 35
+        }
+    },
+    "Vidar": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "88%",
+            "over_3_5": "69%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 26,
+            "ganados": 19,
+            "empatados": 1,
+            "perdidos": 6,
+            "goles_favor": 96,
+            "goles_contra": 34,
+            "diferencia": 62,
+            "puntos": 58
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:25:21.143447",
+        "liga": "norway9"
+    }
+}

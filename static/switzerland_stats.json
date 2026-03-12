@@ -1,0 +1,388 @@
+{
+    "Sion": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 5.87,
+                "corners_contra": 3.6
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 4.79,
+                "corners_contra": 4.86
+            }
+        },
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "41%",
+            "over_3_5": "34%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 29,
+            "ganados": 10,
+            "empatados": 12,
+            "perdidos": 7,
+            "goles_favor": 41,
+            "goles_contra": 33,
+            "diferencia": 8,
+            "puntos": 42
+        }
+    },
+    "Thun": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 6.67,
+                "corners_contra": 4.13
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 5.0,
+                "corners_contra": 4.43
+            }
+        },
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "79%",
+            "over_3_5": "41%",
+            "bts": "72%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 29,
+            "ganados": 22,
+            "empatados": 2,
+            "perdidos": 5,
+            "goles_favor": 66,
+            "goles_contra": 32,
+            "diferencia": 34,
+            "puntos": 68
+        }
+    },
+    "BSC Young Boys": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 6.21,
+                "corners_contra": 3.71
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 4.6,
+                "corners_contra": 5.27
+            }
+        },
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "79%",
+            "over_3_5": "52%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 29,
+            "ganados": 12,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 58,
+            "goles_contra": 55,
+            "diferencia": 3,
+            "puntos": 42
+        }
+    },
+    "St. Gallen": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 5.4,
+                "corners_contra": 4.73
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 4.64,
+                "corners_contra": 5.07
+            }
+        },
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "72%",
+            "over_3_5": "41%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 29,
+            "ganados": 16,
+            "empatados": 6,
+            "perdidos": 7,
+            "goles_favor": 58,
+            "goles_contra": 35,
+            "diferencia": 23,
+            "puntos": 54
+        }
+    },
+    "Luzern": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 6.29,
+                "corners_contra": 5.07
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 4.33,
+                "corners_contra": 5.4
+            }
+        },
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "79%",
+            "over_3_5": "59%",
+            "bts": "79%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 29,
+            "ganados": 9,
+            "empatados": 9,
+            "perdidos": 11,
+            "goles_favor": 57,
+            "goles_contra": 54,
+            "diferencia": 3,
+            "puntos": 36
+        }
+    },
+    "Servette": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 5.4,
+                "corners_contra": 4.0
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 6.07,
+                "corners_contra": 4.5
+            }
+        },
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "62%",
+            "over_3_5": "48%",
+            "bts": "76%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 29,
+            "ganados": 7,
+            "empatados": 12,
+            "perdidos": 10,
+            "goles_favor": 47,
+            "goles_contra": 53,
+            "diferencia": -6,
+            "puntos": 33
+        }
+    },
+    "Grasshopper": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 5.33,
+                "corners_contra": 4.93
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 4.36,
+                "corners_contra": 5.14
+            }
+        },
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "52%",
+            "over_3_5": "34%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 29,
+            "ganados": 5,
+            "empatados": 9,
+            "perdidos": 15,
+            "goles_favor": 37,
+            "goles_contra": 51,
+            "diferencia": -14,
+            "puntos": 24
+        }
+    },
+    "Lausanne Sport": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 6.14,
+                "corners_contra": 5.29
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 4.4,
+                "corners_contra": 7.2
+            }
+        },
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "72%",
+            "over_3_5": "41%",
+            "bts": "76%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 29,
+            "ganados": 9,
+            "empatados": 9,
+            "perdidos": 11,
+            "goles_favor": 45,
+            "goles_contra": 47,
+            "diferencia": -2,
+            "puntos": 36
+        }
+    },
+    "Lugano": {
+        "corners": {
+            "local": {
+                "partidos": 15,
+                "corners_favor": 3.0,
+                "corners_contra": 5.87
+            },
+            "visitante": {
+                "partidos": 14,
+                "corners_favor": 4.71,
+                "corners_contra": 4.43
+            }
+        },
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "52%",
+            "over_3_5": "31%",
+            "bts": "66%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 29,
+            "ganados": 14,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 46,
+            "goles_contra": 36,
+            "diferencia": 10,
+            "puntos": 49
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67.2%",
+            "over_2_5": "41.4%",
+            "over_3_5": "23.6%",
+            "bts": "18.4%"
+        },
+        "position": {}
+    },
+    "FC Basel": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 6.43,
+                "corners_contra": 3.79
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 5.4,
+                "corners_contra": 5.73
+            }
+        },
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "59%",
+            "over_3_5": "21%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 29,
+            "ganados": 13,
+            "empatados": 7,
+            "perdidos": 9,
+            "goles_favor": 42,
+            "goles_contra": 38,
+            "diferencia": 4,
+            "puntos": 46
+        }
+    },
+    "Winterthur": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 3.64,
+                "corners_contra": 6.5
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 3.07,
+                "corners_contra": 6.87
+            }
+        },
+        "goals": {
+            "over_1_5": "97%",
+            "over_2_5": "79%",
+            "over_3_5": "55%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 29,
+            "ganados": 3,
+            "empatados": 7,
+            "perdidos": 19,
+            "goles_favor": 32,
+            "goles_contra": 79,
+            "diferencia": -47,
+            "puntos": 16
+        }
+    },
+    "FC Zurich": {
+        "corners": {
+            "local": {
+                "partidos": 14,
+                "corners_favor": 5.29,
+                "corners_contra": 4.71
+            },
+            "visitante": {
+                "partidos": 15,
+                "corners_favor": 5.0,
+                "corners_contra": 6.4
+            }
+        },
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "79%",
+            "over_3_5": "38%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 29,
+            "ganados": 9,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 41,
+            "goles_contra": 57,
+            "diferencia": -16,
+            "puntos": 31
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:41:35.269425",
+        "liga": "switzerland"
+    }
+}

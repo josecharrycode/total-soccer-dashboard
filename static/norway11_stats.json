@@ -1,0 +1,216 @@
+{
+    "Lyn W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "59%",
+            "over_3_5": "33%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 27,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 14,
+            "goles_favor": 31,
+            "goles_contra": 52,
+            "diferencia": -21,
+            "puntos": 25
+        }
+    },
+    "Honefoss W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "52%",
+            "over_3_5": "33%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 27,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 15,
+            "goles_favor": 23,
+            "goles_contra": 56,
+            "diferencia": -33,
+            "puntos": 26
+        }
+    },
+    "Kolbotn W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "63%",
+            "over_3_5": "41%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 27,
+            "ganados": 5,
+            "empatados": 2,
+            "perdidos": 20,
+            "goles_favor": 27,
+            "goles_contra": 68,
+            "diferencia": -41,
+            "puntos": 17
+        }
+    },
+    "Bodo/Glimt W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "74%",
+            "over_3_5": "41%",
+            "bts": "41%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 27,
+            "ganados": 6,
+            "empatados": 2,
+            "perdidos": 19,
+            "goles_favor": 22,
+            "goles_contra": 63,
+            "diferencia": -41,
+            "puntos": 20
+        }
+    },
+    "Rosenborg W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "63%",
+            "over_3_5": "33%",
+            "bts": "48%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 27,
+            "ganados": 18,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 63,
+            "goles_contra": 26,
+            "diferencia": 37,
+            "puntos": 58
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60.7%",
+            "over_2_5": "35.6%",
+            "over_3_5": "21.5%",
+            "bts": "29.3%"
+        },
+        "position": {}
+    },
+    "Valerenga W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "63%",
+            "over_3_5": "44%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 27,
+            "ganados": 22,
+            "empatados": 1,
+            "perdidos": 4,
+            "goles_favor": 73,
+            "goles_contra": 19,
+            "diferencia": 54,
+            "puntos": 67
+        }
+    },
+    "Brann W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "70%",
+            "over_3_5": "37%",
+            "bts": "30%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 27,
+            "ganados": 24,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 90,
+            "goles_contra": 11,
+            "diferencia": 79,
+            "puntos": 74
+        }
+    },
+    "LSK Kvinner W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "63%",
+            "over_3_5": "48%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 27,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 11,
+            "goles_favor": 48,
+            "goles_contra": 47,
+            "diferencia": 1,
+            "puntos": 40
+        }
+    },
+    "Roa W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "56%",
+            "over_3_5": "22%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 27,
+            "ganados": 4,
+            "empatados": 7,
+            "perdidos": 16,
+            "goles_favor": 23,
+            "goles_contra": 52,
+            "diferencia": -29,
+            "puntos": 19
+        }
+    },
+    "Stabaek W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "44%",
+            "over_3_5": "22%",
+            "bts": "30%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 27,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 11,
+            "goles_favor": 31,
+            "goles_contra": 37,
+            "diferencia": -6,
+            "puntos": 40
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:25:47.203679",
+        "liga": "norway11"
+    }
+}

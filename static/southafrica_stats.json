@@ -1,0 +1,336 @@
+{
+    "Marumo G.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "65%",
+            "over_2_5": "30%",
+            "over_3_5": "10%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 20,
+            "ganados": 4,
+            "empatados": 6,
+            "perdidos": 10,
+            "goles_favor": 15,
+            "goles_contra": 26,
+            "diferencia": -11,
+            "puntos": 18
+        }
+    },
+    "Durban City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "15%",
+            "over_3_5": "10%",
+            "bts": "20%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 20,
+            "ganados": 9,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 19,
+            "goles_contra": 14,
+            "diferencia": 5,
+            "puntos": 32
+        }
+    },
+    "Mamelodi S.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "30%",
+            "over_3_5": "15%",
+            "bts": "45%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 20,
+            "ganados": 14,
+            "empatados": 5,
+            "perdidos": 1,
+            "goles_favor": 34,
+            "goles_contra": 10,
+            "diferencia": 24,
+            "puntos": 47
+        }
+    },
+    "Polokwane": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "42%",
+            "over_2_5": "26%",
+            "over_3_5": "5%",
+            "bts": "37%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 19,
+            "ganados": 7,
+            "empatados": 7,
+            "perdidos": 5,
+            "goles_favor": 16,
+            "goles_contra": 13,
+            "diferencia": 3,
+            "puntos": 28
+        }
+    },
+    "Richards Bay": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "25%",
+            "over_3_5": "10%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 20,
+            "ganados": 5,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 15,
+            "goles_contra": 21,
+            "diferencia": -6,
+            "puntos": 23
+        }
+    },
+    "Siwelele": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "42%",
+            "over_2_5": "5%",
+            "over_3_5": "5%",
+            "bts": "16%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 19,
+            "ganados": 5,
+            "empatados": 7,
+            "perdidos": 7,
+            "goles_favor": 10,
+            "goles_contra": 14,
+            "diferencia": -4,
+            "puntos": 22
+        }
+    },
+    "AmaZulu": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "20%",
+            "over_3_5": "10%",
+            "bts": "30%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 20,
+            "ganados": 9,
+            "empatados": 4,
+            "perdidos": 7,
+            "goles_favor": 19,
+            "goles_contra": 18,
+            "diferencia": 1,
+            "puntos": 31
+        }
+    },
+    "Stellenbosch": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "53%",
+            "over_2_5": "26%",
+            "over_3_5": "5%",
+            "bts": "37%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 19,
+            "ganados": 6,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 15,
+            "goles_contra": 20,
+            "diferencia": -5,
+            "puntos": 23
+        }
+    },
+    "TS Galaxy": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "35%",
+            "over_3_5": "20%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 20,
+            "ganados": 7,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 23,
+            "goles_contra": 22,
+            "diferencia": 1,
+            "puntos": 24
+        }
+    },
+    "Orbit College": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "52%",
+            "over_3_5": "19%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 21,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 13,
+            "goles_favor": 16,
+            "goles_contra": 35,
+            "diferencia": -19,
+            "puntos": 18
+        }
+    },
+    "Magesi": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "26%",
+            "over_3_5": "11%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 19,
+            "ganados": 2,
+            "empatados": 7,
+            "perdidos": 10,
+            "goles_favor": 11,
+            "goles_contra": 26,
+            "diferencia": -15,
+            "puntos": 13
+        }
+    },
+    "Golden Arrows": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63%",
+            "over_2_5": "53%",
+            "over_3_5": "26%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 19,
+            "ganados": 6,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 24,
+            "goles_contra": 24,
+            "diferencia": 0,
+            "puntos": 21
+        }
+    },
+    "Orlando Pirates": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "35%",
+            "over_3_5": "5%",
+            "bts": "25%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 20,
+            "ganados": 15,
+            "empatados": 2,
+            "perdidos": 3,
+            "goles_favor": 33,
+            "goles_contra": 8,
+            "diferencia": 25,
+            "puntos": 47
+        }
+    },
+    "Chippa Utd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60%",
+            "over_2_5": "40%",
+            "over_3_5": "10%",
+            "bts": "35%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 20,
+            "ganados": 4,
+            "empatados": 7,
+            "perdidos": 9,
+            "goles_favor": 14,
+            "goles_contra": 24,
+            "diferencia": -10,
+            "puntos": 19
+        }
+    },
+    "Kaizer Chiefs": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "39%",
+            "over_2_5": "22%",
+            "over_3_5": "11%",
+            "bts": "28%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 18,
+            "ganados": 8,
+            "empatados": 6,
+            "perdidos": 4,
+            "goles_favor": 16,
+            "goles_contra": 12,
+            "diferencia": 4,
+            "puntos": 30
+        }
+    },
+    "Sekhukhune": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "55%",
+            "over_2_5": "15%",
+            "over_3_5": "10%",
+            "bts": "35%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 20,
+            "ganados": 9,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 21,
+            "goles_contra": 14,
+            "diferencia": 7,
+            "puntos": 33
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "28.7%",
+            "over_2_5": "11.5%",
+            "over_3_5": "3.2%",
+            "bts": "38.2%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:35:52.811993",
+        "liga": "southafrica"
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "Sol de America": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "22%",
+            "over_3_5": "11%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 18,
+            "ganados": 3,
+            "empatados": 9,
+            "perdidos": 6,
+            "goles_favor": 10,
+            "goles_contra": 20,
+            "diferencia": -10,
+            "puntos": 18
+        }
+    },
+    "12 de Junio VH": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "44%",
+            "over_3_5": "22%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 18,
+            "ganados": 10,
+            "empatados": 6,
+            "perdidos": 2,
+            "goles_favor": 26,
+            "goles_contra": 14,
+            "diferencia": 12,
+            "puntos": 36
+        }
+    },
+    "Pastoreo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "28%",
+            "over_3_5": "22%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 18,
+            "ganados": 5,
+            "empatados": 7,
+            "perdidos": 6,
+            "goles_favor": 19,
+            "goles_contra": 21,
+            "diferencia": -2,
+            "puntos": 22
+        }
+    },
+    "Encarnacion": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "44%",
+            "over_3_5": "11%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 18,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 7,
+            "goles_favor": 18,
+            "goles_contra": 21,
+            "diferencia": -3,
+            "puntos": 21
+        }
+    },
+    "San Lorenzo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "33%",
+            "over_3_5": "0%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 18,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 7,
+            "goles_favor": 19,
+            "goles_contra": 17,
+            "diferencia": 2,
+            "puntos": 25
+        }
+    },
+    "D. Santani": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "44%",
+            "over_3_5": "22%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 18,
+            "ganados": 4,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 16,
+            "goles_contra": 26,
+            "diferencia": -10,
+            "puntos": 16
+        }
+    },
+    "Rubio Nu": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56%",
+            "over_2_5": "39%",
+            "over_3_5": "22%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 18,
+            "ganados": 10,
+            "empatados": 7,
+            "perdidos": 1,
+            "goles_favor": 28,
+            "goles_contra": 12,
+            "diferencia": 16,
+            "puntos": 37
+        }
+    },
+    "D. Capiata": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56%",
+            "over_2_5": "28%",
+            "over_3_5": "11%",
+            "bts": "39%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 18,
+            "ganados": 9,
+            "empatados": 6,
+            "perdidos": 3,
+            "goles_favor": 22,
+            "goles_contra": 11,
+            "diferencia": 11,
+            "puntos": 33
+        }
+    },
+    "Guairena": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56%",
+            "over_2_5": "22%",
+            "over_3_5": "11%",
+            "bts": "28%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 18,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 14,
+            "goles_contra": 20,
+            "diferencia": -6,
+            "puntos": 18
+        }
+    },
+    "Tacuary": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56%",
+            "over_2_5": "39%",
+            "over_3_5": "22%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 18,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 18,
+            "goles_contra": 19,
+            "diferencia": -1,
+            "puntos": 29
+        }
+    },
+    "Guarani de Fram": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "89%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 18,
+            "ganados": 2,
+            "empatados": 10,
+            "perdidos": 6,
+            "goles_favor": 24,
+            "goles_contra": 29,
+            "diferencia": -5,
+            "puntos": 16
+        }
+    },
+    "C. River Plate": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "44%",
+            "over_3_5": "33%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 18,
+            "ganados": 5,
+            "empatados": 8,
+            "perdidos": 5,
+            "goles_favor": 23,
+            "goles_contra": 23,
+            "diferencia": 0,
+            "puntos": 23
+        }
+    },
+    "S. Carapegua": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "39%",
+            "over_3_5": "17%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 18,
+            "ganados": 6,
+            "empatados": 8,
+            "perdidos": 4,
+            "goles_favor": 23,
+            "goles_contra": 17,
+            "diferencia": 6,
+            "puntos": 26
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "38.2%",
+            "over_2_5": "18.1%",
+            "over_3_5": "6.9%",
+            "bts": "30.9%"
+        },
+        "position": {}
+    },
+    "Independiente": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "72%",
+            "over_2_5": "39%",
+            "over_3_5": "6%",
+            "bts": "39%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 18,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 18,
+            "goles_contra": 20,
+            "diferencia": -2,
+            "puntos": 22
+        }
+    },
+    "F. de la Mora": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "39%",
+            "over_3_5": "11%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 18,
+            "ganados": 3,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 14,
+            "goles_contra": 22,
+            "diferencia": -8,
+            "puntos": 16
+        }
+    },
+    "Resistencia": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "56%",
+            "over_3_5": "33%",
+            "bts": "83%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 18,
+            "ganados": 5,
+            "empatados": 8,
+            "perdidos": 5,
+            "goles_favor": 28,
+            "goles_contra": 28,
+            "diferencia": 0,
+            "puntos": 23
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:26:38.419837",
+        "liga": "paraguay3"
+    }
+}

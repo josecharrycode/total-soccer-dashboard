@@ -1,0 +1,336 @@
+{
+    "Racing CM": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "57%",
+            "over_2_5": "57%",
+            "over_3_5": "36%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 14,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 12,
+            "goles_contra": 22,
+            "diferencia": -10,
+            "puntos": 14
+        }
+    },
+    "Plaza Colonia": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "57%",
+            "over_2_5": "29%",
+            "over_3_5": "21%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 14,
+            "ganados": 2,
+            "empatados": 2,
+            "perdidos": 10,
+            "goles_favor": 9,
+            "goles_contra": 24,
+            "diferencia": -15,
+            "puntos": 8
+        }
+    },
+    "Cerro Largo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64%",
+            "over_2_5": "36%",
+            "over_3_5": "21%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 14,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 17,
+            "goles_contra": 14,
+            "diferencia": 3,
+            "puntos": 22
+        }
+    },
+    "Nacional": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64%",
+            "over_2_5": "64%",
+            "over_3_5": "29%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 14,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 1,
+            "goles_favor": 24,
+            "goles_contra": 10,
+            "diferencia": 14,
+            "puntos": 29
+        }
+    },
+    "Progreso": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "57%",
+            "over_3_5": "36%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 14,
+            "ganados": 5,
+            "empatados": 2,
+            "perdidos": 7,
+            "goles_favor": 16,
+            "goles_contra": 22,
+            "diferencia": -6,
+            "puntos": 17
+        }
+    },
+    "Liverpool M.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64%",
+            "over_2_5": "50%",
+            "over_3_5": "29%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 14,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 3,
+            "goles_favor": 19,
+            "goles_contra": 14,
+            "diferencia": 5,
+            "puntos": 25
+        }
+    },
+    "Boston River": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "57%",
+            "over_3_5": "36%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 14,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 1,
+            "goles_favor": 26,
+            "goles_contra": 10,
+            "diferencia": 16,
+            "puntos": 25
+        }
+    },
+    "River Plate": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64%",
+            "over_2_5": "21%",
+            "over_3_5": "7%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 14,
+            "ganados": 2,
+            "empatados": 5,
+            "perdidos": 7,
+            "goles_favor": 8,
+            "goles_contra": 18,
+            "diferencia": -10,
+            "puntos": 11
+        }
+    },
+    "Montevideo City": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "50%",
+            "over_3_5": "36%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 14,
+            "ganados": 8,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 28,
+            "goles_contra": 15,
+            "diferencia": 13,
+            "puntos": 27
+        }
+    },
+    "Cerro": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "29%",
+            "over_3_5": "7%",
+            "bts": "29%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 14,
+            "ganados": 7,
+            "empatados": 2,
+            "perdidos": 5,
+            "goles_favor": 13,
+            "goles_contra": 13,
+            "diferencia": 0,
+            "puntos": 23
+        }
+    },
+    "Wanderers": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "57%",
+            "over_2_5": "43%",
+            "over_3_5": "14%",
+            "bts": "29%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 14,
+            "ganados": 1,
+            "empatados": 4,
+            "perdidos": 9,
+            "goles_favor": 7,
+            "goles_contra": 21,
+            "diferencia": -14,
+            "puntos": 7
+        }
+    },
+    "Miramar M.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "64%",
+            "over_3_5": "43%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 14,
+            "ganados": 3,
+            "empatados": 4,
+            "perdidos": 7,
+            "goles_favor": 17,
+            "goles_contra": 24,
+            "diferencia": -7,
+            "puntos": 13
+        }
+    },
+    "Penarol": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "64%",
+            "over_3_5": "29%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 14,
+            "ganados": 10,
+            "empatados": 2,
+            "perdidos": 2,
+            "goles_favor": 28,
+            "goles_contra": 12,
+            "diferencia": 16,
+            "puntos": 32
+        }
+    },
+    "Defensor S.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "43%",
+            "over_2_5": "36%",
+            "over_3_5": "14%",
+            "bts": "29%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 14,
+            "ganados": 7,
+            "empatados": 1,
+            "perdidos": 6,
+            "goles_favor": 12,
+            "goles_contra": 15,
+            "diferencia": -3,
+            "puntos": 22
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "44.6%",
+            "over_2_5": "23.2%",
+            "over_3_5": "8.9%",
+            "bts": "36.2%"
+        },
+        "position": {}
+    },
+    "Danubio": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "57%",
+            "over_2_5": "36%",
+            "over_3_5": "14%",
+            "bts": "36%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 14,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 16,
+            "goles_contra": 13,
+            "diferencia": 3,
+            "puntos": 18
+        }
+    },
+    "Juventud": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "36%",
+            "over_2_5": "21%",
+            "over_3_5": "0%",
+            "bts": "21%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 14,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 7,
+            "goles_favor": 7,
+            "goles_contra": 12,
+            "diferencia": -5,
+            "puntos": 15
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:45:05.366336",
+        "liga": "uruguay3"
+    }
+}

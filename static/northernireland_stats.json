@@ -1,0 +1,256 @@
+{
+    "Portadown": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "65%",
+            "over_3_5": "29%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 31,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 18,
+            "goles_favor": 36,
+            "goles_contra": 55,
+            "diferencia": -19,
+            "puntos": 35
+        }
+    },
+    "Glenavon": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "61%",
+            "over_3_5": "29%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 31,
+            "ganados": 7,
+            "empatados": 1,
+            "perdidos": 23,
+            "goles_favor": 30,
+            "goles_contra": 60,
+            "diferencia": -30,
+            "puntos": 22
+        }
+    },
+    "Carrick Rangers": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "58%",
+            "over_3_5": "32%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 31,
+            "ganados": 11,
+            "empatados": 7,
+            "perdidos": 13,
+            "goles_favor": 46,
+            "goles_contra": 49,
+            "diferencia": -3,
+            "puntos": 40
+        }
+    },
+    "Coleraine": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "58%",
+            "over_3_5": "32%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 31,
+            "ganados": 19,
+            "empatados": 4,
+            "perdidos": 8,
+            "goles_favor": 60,
+            "goles_contra": 30,
+            "diferencia": 30,
+            "puntos": 61
+        }
+    },
+    "Larne": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "45%",
+            "over_3_5": "19%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 31,
+            "ganados": 20,
+            "empatados": 7,
+            "perdidos": 4,
+            "goles_favor": 55,
+            "goles_contra": 21,
+            "diferencia": 34,
+            "puntos": 67
+        }
+    },
+    "Crusaders": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "65%",
+            "over_3_5": "48%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 31,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 20,
+            "goles_favor": 38,
+            "goles_contra": 69,
+            "diferencia": -31,
+            "puntos": 25
+        }
+    },
+    "Linfield": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "66%",
+            "over_2_5": "47%",
+            "over_3_5": "25%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 32,
+            "ganados": 18,
+            "empatados": 8,
+            "perdidos": 6,
+            "goles_favor": 56,
+            "goles_contra": 22,
+            "diferencia": 34,
+            "puntos": 62
+        }
+    },
+    "Dungannon": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "52%",
+            "over_3_5": "32%",
+            "bts": "39%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 31,
+            "ganados": 15,
+            "empatados": 1,
+            "perdidos": 15,
+            "goles_favor": 39,
+            "goles_contra": 55,
+            "diferencia": -16,
+            "puntos": 46
+        }
+    },
+    "Bangor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84%",
+            "over_2_5": "56%",
+            "over_3_5": "34%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 32,
+            "ganados": 9,
+            "empatados": 6,
+            "perdidos": 17,
+            "goles_favor": 37,
+            "goles_contra": 57,
+            "diferencia": -20,
+            "puntos": 33
+        }
+    },
+    "Cliftonville": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "76%",
+            "over_2_5": "59%",
+            "over_3_5": "41%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 29,
+            "ganados": 12,
+            "empatados": 7,
+            "perdidos": 10,
+            "goles_favor": 45,
+            "goles_contra": 42,
+            "diferencia": 3,
+            "puntos": 43
+        }
+    },
+    "Glentoran": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "52%",
+            "over_3_5": "32%",
+            "bts": "52%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 31,
+            "ganados": 20,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 59,
+            "goles_contra": 29,
+            "diferencia": 30,
+            "puntos": 65
+        }
+    },
+    "Ballymena Utd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "42%",
+            "over_3_5": "26%",
+            "bts": "48%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 31,
+            "ganados": 8,
+            "empatados": 6,
+            "perdidos": 17,
+            "goles_favor": 35,
+            "goles_contra": 47,
+            "diferencia": -12,
+            "puntos": 30
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "54.8%",
+            "over_2_5": "31.7%",
+            "over_3_5": "14.5%",
+            "bts": "26.1%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:23:24.980584",
+        "liga": "northernireland"
+    }
+}

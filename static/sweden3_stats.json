@@ -1,0 +1,336 @@
+{
+    "Haninge": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "77%",
+            "over_3_5": "53%",
+            "bts": "70%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 30,
+            "ganados": 9,
+            "empatados": 5,
+            "perdidos": 16,
+            "goles_favor": 53,
+            "goles_contra": 69,
+            "diferencia": -16,
+            "puntos": 32
+        }
+    },
+    "AFC Eskilstuna": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "70%",
+            "over_3_5": "43%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 30,
+            "ganados": 12,
+            "empatados": 5,
+            "perdidos": 13,
+            "goles_favor": 53,
+            "goles_contra": 65,
+            "diferencia": -12,
+            "puntos": 41
+        }
+    },
+    "Hammarby Talang": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "57%",
+            "over_3_5": "43%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 30,
+            "ganados": 19,
+            "empatados": 7,
+            "perdidos": 4,
+            "goles_favor": 62,
+            "goles_contra": 31,
+            "diferencia": 31,
+            "puntos": 64
+        }
+    },
+    "Arlanda": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "60%",
+            "over_3_5": "33%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 30,
+            "ganados": 12,
+            "empatados": 6,
+            "perdidos": 12,
+            "goles_favor": 48,
+            "goles_contra": 48,
+            "diferencia": 0,
+            "puntos": 42
+        }
+    },
+    "Sollentuna": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "73%",
+            "over_3_5": "53%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 30,
+            "ganados": 10,
+            "empatados": 9,
+            "perdidos": 11,
+            "goles_favor": 47,
+            "goles_contra": 60,
+            "diferencia": -13,
+            "puntos": 39
+        }
+    },
+    "Karlberg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "50%",
+            "over_3_5": "43%",
+            "bts": "70%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 30,
+            "ganados": 10,
+            "empatados": 9,
+            "perdidos": 11,
+            "goles_favor": 48,
+            "goles_contra": 47,
+            "diferencia": 1,
+            "puntos": 39
+        }
+    },
+    "Stocksund": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "97%",
+            "over_2_5": "87%",
+            "over_3_5": "60%",
+            "bts": "80%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 30,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 17,
+            "goles_favor": 51,
+            "goles_contra": 78,
+            "diferencia": -27,
+            "puntos": 35
+        }
+    },
+    "Enkoping": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "63%",
+            "over_3_5": "50%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 30,
+            "ganados": 10,
+            "empatados": 6,
+            "perdidos": 14,
+            "goles_favor": 47,
+            "goles_contra": 54,
+            "diferencia": -7,
+            "puntos": 36
+        }
+    },
+    "Gefle": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "43%",
+            "over_3_5": "27%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 30,
+            "ganados": 8,
+            "empatados": 9,
+            "perdidos": 13,
+            "goles_favor": 38,
+            "goles_contra": 47,
+            "diferencia": -9,
+            "puntos": 33
+        }
+    },
+    "Team TG": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "60%",
+            "over_3_5": "43%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 30,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 24,
+            "goles_favor": 27,
+            "goles_contra": 67,
+            "diferencia": -40,
+            "puntos": 12
+        }
+    },
+    "United Nordic": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "63%",
+            "over_3_5": "40%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 30,
+            "ganados": 20,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 67,
+            "goles_contra": 33,
+            "diferencia": 34,
+            "puntos": 65
+        }
+    },
+    "Orebro S.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "67%",
+            "over_3_5": "47%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 30,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 18,
+            "goles_favor": 33,
+            "goles_contra": 63,
+            "diferencia": -30,
+            "puntos": 26
+        }
+    },
+    "Assyriska": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "67%",
+            "over_3_5": "27%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 30,
+            "ganados": 12,
+            "empatados": 6,
+            "perdidos": 12,
+            "goles_favor": 43,
+            "goles_contra": 41,
+            "diferencia": 2,
+            "puntos": 42
+        }
+    },
+    "Stockholm Inter": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "47%",
+            "over_3_5": "30%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 30,
+            "ganados": 16,
+            "empatados": 8,
+            "perdidos": 6,
+            "goles_favor": 53,
+            "goles_contra": 23,
+            "diferencia": 30,
+            "puntos": 56
+        }
+    },
+    "Vasalund": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "73%",
+            "over_3_5": "60%",
+            "bts": "63%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 30,
+            "ganados": 17,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 73,
+            "goles_contra": 41,
+            "diferencia": 32,
+            "puntos": 56
+        }
+    },
+    "Karlstad": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "63%",
+            "over_3_5": "40%",
+            "bts": "70%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 30,
+            "ganados": 16,
+            "empatados": 6,
+            "perdidos": 8,
+            "goles_favor": 64,
+            "goles_contra": 40,
+            "diferencia": 24,
+            "puntos": 54
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "63.8%",
+            "over_2_5": "43.3%",
+            "over_3_5": "27.5%",
+            "bts": "20.0%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:39:11.584653",
+        "liga": "sweden3"
+    }
+}

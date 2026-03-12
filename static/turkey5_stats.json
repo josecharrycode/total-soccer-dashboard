@@ -1,0 +1,336 @@
+{
+    "Corluspor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 24,
+            "ganados": 13,
+            "empatados": 7,
+            "perdidos": 4,
+            "goles_favor": 41,
+            "goles_contra": 19,
+            "diferencia": 22,
+            "puntos": 46
+        }
+    },
+    "Nilufer B.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "50%",
+            "over_3_5": "21%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 24,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 11,
+            "goles_favor": 23,
+            "goles_contra": 34,
+            "diferencia": -11,
+            "puntos": 25
+        }
+    },
+    "Galata": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "38%",
+            "over_3_5": "21%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 24,
+            "ganados": 9,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 30,
+            "goles_contra": 27,
+            "diferencia": 3,
+            "puntos": 32
+        }
+    },
+    "Beykoz I.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "50%",
+            "over_3_5": "29%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 24,
+            "ganados": 7,
+            "empatados": 10,
+            "perdidos": 7,
+            "goles_favor": 30,
+            "goles_contra": 32,
+            "diferencia": -2,
+            "puntos": 31
+        }
+    },
+    "Yalova Yesilova": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "62%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 24,
+            "ganados": 9,
+            "empatados": 9,
+            "perdidos": 6,
+            "goles_favor": 35,
+            "goles_contra": 26,
+            "diferencia": 9,
+            "puntos": 36
+        }
+    },
+    "Cankaya FK": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "46%",
+            "over_3_5": "21%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 24,
+            "ganados": 5,
+            "empatados": 8,
+            "perdidos": 11,
+            "goles_favor": 26,
+            "goles_contra": 31,
+            "diferencia": -5,
+            "puntos": 23
+        }
+    },
+    "Kucukcekmece": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 24,
+            "ganados": 13,
+            "empatados": 5,
+            "perdidos": 6,
+            "goles_favor": 41,
+            "goles_contra": 26,
+            "diferencia": 15,
+            "puntos": 44
+        }
+    },
+    "Silivrispor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "58%",
+            "over_3_5": "29%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 24,
+            "ganados": 10,
+            "empatados": 5,
+            "perdidos": 9,
+            "goles_favor": 36,
+            "goles_contra": 30,
+            "diferencia": 6,
+            "puntos": 35
+        }
+    },
+    "B. Yildirimspor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "54%",
+            "over_2_5": "50%",
+            "over_3_5": "33%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 24,
+            "ganados": 12,
+            "empatados": 8,
+            "perdidos": 4,
+            "goles_favor": 34,
+            "goles_contra": 25,
+            "diferencia": 9,
+            "puntos": 44
+        }
+    },
+    "Inkilapspor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "21%",
+            "over_3_5": "12%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 24,
+            "ganados": 4,
+            "empatados": 14,
+            "perdidos": 6,
+            "goles_favor": 18,
+            "goles_contra": 26,
+            "diferencia": -8,
+            "puntos": 26
+        }
+    },
+    "Inegol Kafkas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 24,
+            "ganados": 13,
+            "empatados": 8,
+            "perdidos": 3,
+            "goles_favor": 38,
+            "goles_contra": 19,
+            "diferencia": 19,
+            "puntos": 47
+        }
+    },
+    "K. Bulvarspor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "46%",
+            "over_3_5": "29%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 24,
+            "ganados": 8,
+            "empatados": 7,
+            "perdidos": 9,
+            "goles_favor": 29,
+            "goles_contra": 34,
+            "diferencia": -5,
+            "puntos": 31
+        }
+    },
+    "Edirnespor": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "58%",
+            "over_3_5": "42%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 24,
+            "ganados": 2,
+            "empatados": 4,
+            "perdidos": 18,
+            "goles_favor": 18,
+            "goles_contra": 54,
+            "diferencia": -36,
+            "puntos": 10
+        }
+    },
+    "Polatli B.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "58%",
+            "over_2_5": "33%",
+            "over_3_5": "17%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 24,
+            "ganados": 5,
+            "empatados": 5,
+            "perdidos": 14,
+            "goles_favor": 17,
+            "goles_contra": 36,
+            "diferencia": -19,
+            "puntos": 20
+        }
+    },
+    "Kestel Cilek": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "42%",
+            "over_3_5": "12%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 24,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 12,
+            "goles_favor": 21,
+            "goles_contra": 30,
+            "diferencia": -9,
+            "puntos": 26
+        }
+    },
+    "Etimesgut": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "33%",
+            "over_3_5": "17%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 24,
+            "ganados": 11,
+            "empatados": 9,
+            "perdidos": 4,
+            "goles_favor": 27,
+            "goles_contra": 15,
+            "diferencia": 12,
+            "puntos": 42
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "45.3%",
+            "over_2_5": "25.0%",
+            "over_3_5": "11.5%",
+            "bts": "32.0%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:43:19.179529",
+        "liga": "turkey5"
+    }
+}

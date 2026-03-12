@@ -1,0 +1,376 @@
+{
+    "Bruhl": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "67%",
+            "over_3_5": "57%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 21,
+            "ganados": 14,
+            "empatados": 4,
+            "perdidos": 3,
+            "goles_favor": 47,
+            "goles_contra": 26,
+            "diferencia": 21,
+            "puntos": 46
+        }
+    },
+    "FC Zurich B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "62%",
+            "over_3_5": "43%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 21,
+            "ganados": 8,
+            "empatados": 6,
+            "perdidos": 7,
+            "goles_favor": 36,
+            "goles_contra": 36,
+            "diferencia": 0,
+            "puntos": 30
+        }
+    },
+    "Kriens": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "71%",
+            "over_3_5": "52%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 21,
+            "ganados": 16,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 59,
+            "goles_contra": 26,
+            "diferencia": 33,
+            "puntos": 51
+        }
+    },
+    "Cham": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "76%",
+            "over_3_5": "48%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 21,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 9,
+            "goles_favor": 37,
+            "goles_contra": 38,
+            "diferencia": -1,
+            "puntos": 28
+        }
+    },
+    "Lugano B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "62%",
+            "over_3_5": "52%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 21,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 27,
+            "goles_contra": 43,
+            "diferencia": -16,
+            "puntos": 25
+        }
+    },
+    "Bulle": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "81%",
+            "over_3_5": "52%",
+            "bts": "86%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 21,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 10,
+            "goles_favor": 41,
+            "goles_contra": 42,
+            "diferencia": -1,
+            "puntos": 25
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69.8%",
+            "over_2_5": "52.9%",
+            "over_3_5": "30.2%",
+            "bts": "18.3%"
+        },
+        "position": {}
+    },
+    "Kreuzlingen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "62%",
+            "over_3_5": "43%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 21,
+            "ganados": 5,
+            "empatados": 7,
+            "perdidos": 9,
+            "goles_favor": 27,
+            "goles_contra": 41,
+            "diferencia": -14,
+            "puntos": 22
+        }
+    },
+    "Biel-Bienne": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "71%",
+            "over_3_5": "71%",
+            "bts": "76%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 21,
+            "ganados": 12,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 48,
+            "goles_contra": 31,
+            "diferencia": 17,
+            "puntos": 39
+        }
+    },
+    "Bavois": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "67%",
+            "over_3_5": "57%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 21,
+            "ganados": 13,
+            "empatados": 3,
+            "perdidos": 5,
+            "goles_favor": 45,
+            "goles_contra": 25,
+            "diferencia": 20,
+            "puntos": 42
+        }
+    },
+    "Breitenrain": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "52%",
+            "over_3_5": "38%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 21,
+            "ganados": 6,
+            "empatados": 5,
+            "perdidos": 10,
+            "goles_favor": 28,
+            "goles_contra": 30,
+            "diferencia": -2,
+            "puntos": 23
+        }
+    },
+    "Schaffhausen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "52%",
+            "over_3_5": "19%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 21,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 9,
+            "goles_favor": 26,
+            "goles_contra": 31,
+            "diferencia": -5,
+            "puntos": 28
+        }
+    },
+    "Paradiso": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "81%",
+            "over_3_5": "57%",
+            "bts": "76%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 21,
+            "ganados": 4,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 36,
+            "goles_contra": 52,
+            "diferencia": -16,
+            "puntos": 18
+        }
+    },
+    "Basel B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "71%",
+            "over_3_5": "52%",
+            "bts": "71%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 21,
+            "ganados": 9,
+            "empatados": 7,
+            "perdidos": 5,
+            "goles_favor": 43,
+            "goles_contra": 32,
+            "diferencia": 11,
+            "puntos": 34
+        }
+    },
+    "Vevey Sports": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "86%",
+            "over_2_5": "76%",
+            "over_3_5": "57%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 18,
+            "partidos": 21,
+            "ganados": 1,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 14,
+            "goles_contra": 59,
+            "diferencia": -45,
+            "puntos": 7
+        }
+    },
+    "Lausanne B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "71%",
+            "over_3_5": "43%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 21,
+            "ganados": 6,
+            "empatados": 2,
+            "perdidos": 13,
+            "goles_favor": 37,
+            "goles_contra": 46,
+            "diferencia": -9,
+            "puntos": 20
+        }
+    },
+    "BSC Y. Boys B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "67%",
+            "over_3_5": "57%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 21,
+            "ganados": 12,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 44,
+            "goles_contra": 31,
+            "diferencia": 13,
+            "puntos": 40
+        }
+    },
+    "Luzern B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "90%",
+            "over_2_5": "86%",
+            "over_3_5": "81%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 21,
+            "ganados": 6,
+            "empatados": 7,
+            "perdidos": 8,
+            "goles_favor": 51,
+            "goles_contra": 50,
+            "diferencia": 1,
+            "puntos": 25
+        }
+    },
+    "Grand-Saconnex": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "95%",
+            "over_2_5": "81%",
+            "over_3_5": "71%",
+            "bts": "90%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 21,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 10,
+            "goles_favor": 44,
+            "goles_contra": 51,
+            "diferencia": -7,
+            "puntos": 21
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:42:02.771843",
+        "liga": "switzerland3"
+    }
+}

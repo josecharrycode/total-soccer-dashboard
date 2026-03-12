@@ -1,0 +1,216 @@
+{
+    "Zalgiris": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "50%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 4,
+            "ganados": 3,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 9,
+            "goles_contra": 4,
+            "diferencia": 5,
+            "puntos": 9
+        }
+    },
+    "Siauliai": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "25%",
+            "over_3_5": "25%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 4,
+            "ganados": 0,
+            "empatados": 3,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 5,
+            "diferencia": -2,
+            "puntos": 3
+        }
+    },
+    "Kauno Zalgiris": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "75%",
+            "over_3_5": "25%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 4,
+            "ganados": 4,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 9,
+            "goles_contra": 2,
+            "diferencia": 7,
+            "puntos": 12
+        }
+    },
+    "Banga": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "25%",
+            "over_3_5": "25%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 4,
+            "ganados": 2,
+            "empatados": 0,
+            "perdidos": 2,
+            "goles_favor": 7,
+            "goles_contra": 2,
+            "diferencia": 5,
+            "puntos": 6
+        }
+    },
+    "Dziugas Telsiai": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 4,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 7,
+            "goles_contra": 5,
+            "diferencia": 2,
+            "puntos": 7
+        }
+    },
+    "Panevezys": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "50%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 4,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 2,
+            "goles_favor": 2,
+            "goles_contra": 9,
+            "diferencia": -7,
+            "puntos": 2
+        }
+    },
+    "Hegelmann L.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 4,
+            "ganados": 0,
+            "empatados": 3,
+            "perdidos": 1,
+            "goles_favor": 3,
+            "goles_contra": 5,
+            "diferencia": -2,
+            "puntos": 3
+        }
+    },
+    "Riteriai": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "75%",
+            "over_3_5": "25%",
+            "bts": "25%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 4,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 4,
+            "goles_favor": 1,
+            "goles_contra": 12,
+            "diferencia": -11,
+            "puntos": 0
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "40.0%",
+            "over_2_5": "25.0%",
+            "over_3_5": "15.0%",
+            "bts": "35.0%"
+        },
+        "position": {}
+    },
+    "Suduva": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "25%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 4,
+            "ganados": 1,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 2,
+            "goles_contra": 1,
+            "diferencia": 1,
+            "puntos": 5
+        }
+    },
+    "TransINVEST": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "50%",
+            "over_3_5": "25%",
+            "bts": "25%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 4,
+            "ganados": 2,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 6,
+            "goles_contra": 4,
+            "diferencia": 2,
+            "puntos": 7
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:20:34.638407",
+        "liga": "lithuania"
+    }
+}

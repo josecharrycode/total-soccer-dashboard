@@ -1,0 +1,296 @@
+{
+    "Hong Linh Ha T.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "53%",
+            "over_2_5": "27%",
+            "over_3_5": "7%",
+            "bts": "40%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 15,
+            "ganados": 5,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 11,
+            "goles_contra": 15,
+            "diferencia": -4,
+            "puntos": 20
+        }
+    },
+    "Thanh Hoa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "53%",
+            "over_3_5": "40%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 15,
+            "ganados": 2,
+            "empatados": 7,
+            "perdidos": 6,
+            "goles_favor": 17,
+            "goles_contra": 25,
+            "diferencia": -8,
+            "puntos": 13
+        }
+    },
+    "Gia Lai": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60%",
+            "over_2_5": "47%",
+            "over_3_5": "20%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 15,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 7,
+            "goles_favor": 11,
+            "goles_contra": 21,
+            "diferencia": -10,
+            "puntos": 14
+        }
+    },
+    "Da Nang": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "43%",
+            "over_3_5": "21%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 14,
+            "ganados": 2,
+            "empatados": 5,
+            "perdidos": 7,
+            "goles_favor": 14,
+            "goles_contra": 20,
+            "diferencia": -6,
+            "puntos": 11
+        }
+    },
+    "Cong An Nhan": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "64%",
+            "over_3_5": "36%",
+            "bts": "64%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 14,
+            "ganados": 11,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 32,
+            "goles_contra": 12,
+            "diferencia": 20,
+            "puntos": 35
+        }
+    },
+    "Hai Phong": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "80%",
+            "over_3_5": "33%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 15,
+            "ganados": 6,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 26,
+            "goles_contra": 22,
+            "diferencia": 4,
+            "puntos": 21
+        }
+    },
+    "Song Lam Nghe": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "40%",
+            "over_3_5": "20%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 15,
+            "ganados": 5,
+            "empatados": 4,
+            "perdidos": 6,
+            "goles_favor": 18,
+            "goles_contra": 19,
+            "diferencia": -1,
+            "puntos": 19
+        }
+    },
+    "Phu Dong": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "67%",
+            "over_3_5": "53%",
+            "bts": "80%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 15,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 3,
+            "goles_favor": 32,
+            "goles_contra": 20,
+            "diferencia": 12,
+            "puntos": 28
+        }
+    },
+    "Ha Noi": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "60%",
+            "over_3_5": "27%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 15,
+            "ganados": 7,
+            "empatados": 3,
+            "perdidos": 5,
+            "goles_favor": 25,
+            "goles_contra": 18,
+            "diferencia": 7,
+            "puntos": 24
+        }
+    },
+    "Viettel": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "47%",
+            "over_3_5": "20%",
+            "bts": "60%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 15,
+            "ganados": 9,
+            "empatados": 4,
+            "perdidos": 2,
+            "goles_favor": 24,
+            "goles_contra": 14,
+            "diferencia": 10,
+            "puntos": 31
+        }
+    },
+    "Ho Chi Minh": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "53%",
+            "over_2_5": "53%",
+            "over_3_5": "20%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 15,
+            "ganados": 7,
+            "empatados": 2,
+            "perdidos": 6,
+            "goles_favor": 18,
+            "goles_contra": 18,
+            "diferencia": 0,
+            "puntos": 23
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "54.8%",
+            "over_2_5": "26.9%",
+            "over_3_5": "7.7%",
+            "bts": "21.2%"
+        },
+        "position": {}
+    },
+    "Nam Dinh": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "80%",
+            "over_2_5": "47%",
+            "over_3_5": "20%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 15,
+            "ganados": 4,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 17,
+            "goles_contra": 20,
+            "diferencia": -3,
+            "puntos": 18
+        }
+    },
+    "Binh Duong": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "67%",
+            "over_3_5": "20%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 15,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 17,
+            "goles_contra": 24,
+            "diferencia": -7,
+            "puntos": 15
+        }
+    },
+    "PVF-CAND": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "73%",
+            "over_3_5": "40%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 15,
+            "ganados": 2,
+            "empatados": 5,
+            "perdidos": 8,
+            "goles_favor": 15,
+            "goles_contra": 29,
+            "diferencia": -14,
+            "puntos": 11
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:46:05.219015",
+        "liga": "vietnam"
+    }
+}

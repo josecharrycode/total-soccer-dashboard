@@ -1,0 +1,376 @@
+{
+    "Ural": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "65%",
+            "over_2_5": "30%",
+            "over_3_5": "17%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 23,
+            "ganados": 12,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 31,
+            "goles_contra": 20,
+            "diferencia": 11,
+            "puntos": 42
+        }
+    },
+    "Chernomorets": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "39%",
+            "over_3_5": "22%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 23,
+            "ganados": 7,
+            "empatados": 6,
+            "perdidos": 10,
+            "goles_favor": 28,
+            "goles_contra": 29,
+            "diferencia": -1,
+            "puntos": 27
+        }
+    },
+    "SKA Khabarovsk": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "30%",
+            "over_3_5": "13%",
+            "bts": "57%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 23,
+            "ganados": 8,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 24,
+            "goles_contra": 25,
+            "diferencia": -1,
+            "puntos": 32
+        }
+    },
+    "Volga Ulyanovsk": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "48%",
+            "over_3_5": "22%",
+            "bts": "61%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 23,
+            "ganados": 7,
+            "empatados": 5,
+            "perdidos": 11,
+            "goles_favor": 26,
+            "goles_contra": 35,
+            "diferencia": -9,
+            "puntos": 26
+        }
+    },
+    "Chelyabinsk": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "39%",
+            "over_3_5": "26%",
+            "bts": "48%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 23,
+            "ganados": 9,
+            "empatados": 9,
+            "perdidos": 5,
+            "goles_favor": 31,
+            "goles_contra": 23,
+            "diferencia": 8,
+            "puntos": 36
+        }
+    },
+    "Spartak Kostrom": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "48%",
+            "over_3_5": "26%",
+            "bts": "74%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 23,
+            "ganados": 9,
+            "empatados": 9,
+            "perdidos": 5,
+            "goles_favor": 34,
+            "goles_contra": 28,
+            "diferencia": 6,
+            "puntos": 36
+        }
+    },
+    "Chayka": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "70%",
+            "over_2_5": "52%",
+            "over_3_5": "39%",
+            "bts": "48%"
+        },
+        "position": {
+            "posicion": 18,
+            "partidos": 23,
+            "ganados": 3,
+            "empatados": 6,
+            "perdidos": 14,
+            "goles_favor": 20,
+            "goles_contra": 47,
+            "diferencia": -27,
+            "puntos": 15
+        }
+    },
+    "Shinnik": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "52%",
+            "over_2_5": "30%",
+            "over_3_5": "13%",
+            "bts": "35%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 23,
+            "ganados": 7,
+            "empatados": 8,
+            "perdidos": 8,
+            "goles_favor": 20,
+            "goles_contra": 21,
+            "diferencia": -1,
+            "puntos": 29
+        }
+    },
+    "Torpedo Moscow": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "61%",
+            "over_2_5": "30%",
+            "over_3_5": "22%",
+            "bts": "30%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 23,
+            "ganados": 6,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 19,
+            "goles_contra": 31,
+            "diferencia": -12,
+            "puntos": 24
+        }
+    },
+    "Ufa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "65%",
+            "over_2_5": "48%",
+            "over_3_5": "35%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 23,
+            "ganados": 4,
+            "empatados": 8,
+            "perdidos": 11,
+            "goles_favor": 24,
+            "goles_contra": 32,
+            "diferencia": -8,
+            "puntos": 20
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "36.4%",
+            "over_2_5": "20.4%",
+            "over_3_5": "11.2%",
+            "bts": "33.0%"
+        },
+        "position": {}
+    },
+    "Fakel Voronezh": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50%",
+            "over_2_5": "23%",
+            "over_3_5": "14%",
+            "bts": "23%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 22,
+            "ganados": 16,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 30,
+            "goles_contra": 11,
+            "diferencia": 19,
+            "puntos": 51
+        }
+    },
+    "Neftekhimik": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64%",
+            "over_2_5": "27%",
+            "over_3_5": "27%",
+            "bts": "55%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 22,
+            "ganados": 7,
+            "empatados": 10,
+            "perdidos": 5,
+            "goles_favor": 27,
+            "goles_contra": 24,
+            "diferencia": 3,
+            "puntos": 31
+        }
+    },
+    "Yenisey": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "52%",
+            "over_2_5": "26%",
+            "over_3_5": "13%",
+            "bts": "26%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 23,
+            "ganados": 6,
+            "empatados": 9,
+            "perdidos": 8,
+            "goles_favor": 16,
+            "goles_contra": 26,
+            "diferencia": -10,
+            "puntos": 27
+        }
+    },
+    "Rotor Volgograd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "65%",
+            "over_2_5": "35%",
+            "over_3_5": "9%",
+            "bts": "26%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 23,
+            "ganados": 8,
+            "empatados": 8,
+            "perdidos": 7,
+            "goles_favor": 26,
+            "goles_contra": 19,
+            "diferencia": 7,
+            "puntos": 32
+        }
+    },
+    "Rodina Moskva": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "35%",
+            "over_3_5": "13%",
+            "bts": "43%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 23,
+            "ganados": 11,
+            "empatados": 9,
+            "perdidos": 3,
+            "goles_favor": 32,
+            "goles_contra": 17,
+            "diferencia": 15,
+            "puntos": 42
+        }
+    },
+    "Arsenal Tula": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "78%",
+            "over_2_5": "52%",
+            "over_3_5": "22%",
+            "bts": "74%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 23,
+            "ganados": 6,
+            "empatados": 11,
+            "perdidos": 6,
+            "goles_favor": 30,
+            "goles_contra": 27,
+            "diferencia": 3,
+            "puntos": 29
+        }
+    },
+    "Kamaz": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "48%",
+            "over_3_5": "26%",
+            "bts": "65%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 23,
+            "ganados": 8,
+            "empatados": 9,
+            "perdidos": 6,
+            "goles_favor": 37,
+            "goles_contra": 26,
+            "diferencia": 11,
+            "puntos": 33
+        }
+    },
+    "Sokol Saratov": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "48%",
+            "over_2_5": "13%",
+            "over_3_5": "9%",
+            "bts": "30%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 23,
+            "ganados": 2,
+            "empatados": 10,
+            "perdidos": 11,
+            "goles_favor": 10,
+            "goles_contra": 24,
+            "diferencia": -14,
+            "puntos": 16
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:32:30.947179",
+        "liga": "russia2"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "Levadia": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 0,
+            "diferencia": 2,
+            "puntos": 3
+        }
+    },
+    "Harju JK": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 1,
+            "diferencia": 1,
+            "puntos": 3
+        }
+    },
+    "Paide": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "100%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 2,
+            "goles_contra": 3,
+            "diferencia": -1,
+            "puntos": 0
+        }
+    },
+    "Narva Trans": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 2,
+            "diferencia": -1,
+            "puntos": 0
+        }
+    },
+    "Flora": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 3,
+            "goles_contra": 0,
+            "diferencia": 3,
+            "puntos": 3
+        }
+    },
+    "Nomme Utd": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 0,
+            "goles_contra": 3,
+            "diferencia": -3,
+            "puntos": 0
+        }
+    },
+    "Tammeka": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "0%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 0,
+            "goles_contra": 1,
+            "diferencia": -1,
+            "puntos": 0
+        }
+    },
+    "Vaprus": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "100%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 3,
+            "goles_contra": 2,
+            "diferencia": 1,
+            "puntos": 3
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60.0%",
+            "over_2_5": "20.0%",
+            "over_3_5": "20.0%",
+            "bts": "30.0%"
+        },
+        "position": {}
+    },
+    "Kuressaare": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 0,
+            "goles_contra": 2,
+            "diferencia": -2,
+            "puntos": 0
+        }
+    },
+    "Nomme Kalju": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "0%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 1,
+            "goles_contra": 0,
+            "diferencia": 1,
+            "puntos": 3
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:03:23.165487",
+        "liga": "estonia"
+    }
+}

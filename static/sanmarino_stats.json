@@ -1,0 +1,336 @@
+{
+    "Libertas": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "54%",
+            "over_3_5": "42%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 24,
+            "ganados": 7,
+            "empatados": 7,
+            "perdidos": 10,
+            "goles_favor": 28,
+            "goles_contra": 47,
+            "diferencia": -19,
+            "puntos": 28
+        }
+    },
+    "Faetano": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "54%",
+            "over_3_5": "25%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 24,
+            "ganados": 5,
+            "empatados": 4,
+            "perdidos": 15,
+            "goles_favor": 20,
+            "goles_contra": 47,
+            "diferencia": -27,
+            "puntos": 19
+        }
+    },
+    "Juvenes/D.": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "42%",
+            "over_3_5": "25%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 24,
+            "ganados": 7,
+            "empatados": 7,
+            "perdidos": 10,
+            "goles_favor": 28,
+            "goles_contra": 33,
+            "diferencia": -5,
+            "puntos": 28
+        }
+    },
+    "Pennarossa": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "62%",
+            "over_3_5": "29%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 24,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 13,
+            "goles_favor": 23,
+            "goles_contra": 46,
+            "diferencia": -23,
+            "puntos": 21
+        }
+    },
+    "Murata": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "54%",
+            "over_3_5": "38%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 24,
+            "ganados": 1,
+            "empatados": 4,
+            "perdidos": 19,
+            "goles_favor": 16,
+            "goles_contra": 61,
+            "diferencia": -45,
+            "puntos": 7
+        }
+    },
+    "Virtus": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "54%",
+            "over_3_5": "21%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 24,
+            "ganados": 18,
+            "empatados": 5,
+            "perdidos": 1,
+            "goles_favor": 52,
+            "goles_contra": 11,
+            "diferencia": 41,
+            "puntos": 59
+        }
+    },
+    "SM Academy": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "46%",
+            "over_3_5": "33%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 24,
+            "ganados": 3,
+            "empatados": 5,
+            "perdidos": 16,
+            "goles_favor": 21,
+            "goles_contra": 50,
+            "diferencia": -29,
+            "puntos": 14
+        }
+    },
+    "Cailungo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "54%",
+            "over_3_5": "25%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 24,
+            "ganados": 2,
+            "empatados": 4,
+            "perdidos": 18,
+            "goles_favor": 17,
+            "goles_contra": 51,
+            "diferencia": -34,
+            "puntos": 10
+        }
+    },
+    "Tre Fiori": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "74%",
+            "over_2_5": "48%",
+            "over_3_5": "39%",
+            "bts": "26%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 23,
+            "ganados": 17,
+            "empatados": 5,
+            "perdidos": 1,
+            "goles_favor": 48,
+            "goles_contra": 11,
+            "diferencia": 37,
+            "puntos": 56
+        }
+    },
+    "Tre Penne": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "46%",
+            "over_3_5": "25%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 24,
+            "ganados": 17,
+            "empatados": 5,
+            "perdidos": 2,
+            "goles_favor": 52,
+            "goles_contra": 14,
+            "diferencia": 38,
+            "puntos": 56
+        }
+    },
+    "La Fiorita": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "58%",
+            "over_3_5": "42%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 24,
+            "ganados": 13,
+            "empatados": 9,
+            "perdidos": 2,
+            "goles_favor": 50,
+            "goles_contra": 22,
+            "diferencia": 28,
+            "puntos": 48
+        }
+    },
+    "Domagnano": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "79%",
+            "over_2_5": "62%",
+            "over_3_5": "33%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 24,
+            "ganados": 11,
+            "empatados": 6,
+            "perdidos": 7,
+            "goles_favor": 48,
+            "goles_contra": 24,
+            "diferencia": 24,
+            "puntos": 39
+        }
+    },
+    "San Giovanni": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "33%",
+            "over_3_5": "12%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 24,
+            "ganados": 5,
+            "empatados": 9,
+            "perdidos": 10,
+            "goles_favor": 19,
+            "goles_contra": 32,
+            "diferencia": -13,
+            "puntos": 24
+        }
+    },
+    "Folgore": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "67%",
+            "over_3_5": "33%",
+            "bts": "58%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 24,
+            "ganados": 14,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 52,
+            "goles_contra": 25,
+            "diferencia": 27,
+            "puntos": 47
+        }
+    },
+    "Fiorentino": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "67%",
+            "over_2_5": "42%",
+            "over_3_5": "21%",
+            "bts": "21%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 24,
+            "ganados": 11,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 24,
+            "goles_contra": 35,
+            "diferencia": -11,
+            "puntos": 36
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "50.3%",
+            "over_2_5": "28.3%",
+            "over_3_5": "13.1%",
+            "bts": "30.1%"
+        },
+        "position": {}
+    },
+    "Cosmos": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "48%",
+            "over_2_5": "26%",
+            "over_3_5": "9%",
+            "bts": "26%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 23,
+            "ganados": 9,
+            "empatados": 8,
+            "perdidos": 6,
+            "goles_favor": 25,
+            "goles_contra": 14,
+            "diferencia": 11,
+            "puntos": 35
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:32:44.926224",
+        "liga": "sanmarino"
+    }
+}

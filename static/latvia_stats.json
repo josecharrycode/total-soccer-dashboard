@@ -1,0 +1,216 @@
+{
+    "Daugavpils": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "0%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 0,
+            "goles_contra": 1,
+            "diferencia": -1,
+            "puntos": 0
+        }
+    },
+    "Ogre United": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 0,
+            "goles_contra": 2,
+            "diferencia": -2,
+            "puntos": 0
+        }
+    },
+    "Tukums": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 2,
+            "diferencia": -1,
+            "puntos": 0
+        }
+    },
+    "Liepaja": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 1,
+            "diferencia": 1,
+            "puntos": 3
+        }
+    },
+    "Riga FC": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 2,
+            "diferencia": -1,
+            "puntos": 0
+        }
+    },
+    "RFS": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 0,
+            "diferencia": 2,
+            "puntos": 3
+        }
+    },
+    "Auda": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 1,
+            "diferencia": 1,
+            "puntos": 3
+        }
+    },
+    "Super Nova": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 1,
+            "ganados": 0,
+            "empatados": 0,
+            "perdidos": 1,
+            "goles_favor": 1,
+            "goles_contra": 2,
+            "diferencia": -1,
+            "puntos": 0
+        }
+    },
+    "Grobina": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "0%",
+            "over_2_5": "0%",
+            "over_3_5": "0%",
+            "bts": "0%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 1,
+            "goles_contra": 0,
+            "diferencia": 1,
+            "puntos": 3
+        }
+    },
+    "FS Jelgava": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "100%",
+            "over_3_5": "0%",
+            "bts": "100%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 1,
+            "ganados": 1,
+            "empatados": 0,
+            "perdidos": 0,
+            "goles_favor": 2,
+            "goles_contra": 1,
+            "diferencia": 1,
+            "puntos": 3
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60.0%",
+            "over_2_5": "0.0%",
+            "over_3_5": "0.0%",
+            "bts": "20.0%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:20:09.289548",
+        "liga": "latvia"
+    }
+}

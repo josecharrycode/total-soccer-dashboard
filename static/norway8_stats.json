@@ -1,0 +1,286 @@
+{
+    "OS": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "88%",
+            "over_3_5": "81%",
+            "bts": "73%"
+        },
+        "position": {}
+    },
+    "Bjarg": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "81%",
+            "over_3_5": "65%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 26,
+            "ganados": 24,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 92,
+            "goles_contra": 20,
+            "diferencia": 72,
+            "puntos": 73
+        }
+    },
+    "Fyllingsdalen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "88%",
+            "over_3_5": "62%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 26,
+            "ganados": 13,
+            "empatados": 1,
+            "perdidos": 12,
+            "goles_favor": 50,
+            "goles_contra": 61,
+            "diferencia": -11,
+            "puntos": 40
+        }
+    },
+    "Loddefjord": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "81%",
+            "over_3_5": "77%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 26,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 18,
+            "goles_favor": 42,
+            "goles_contra": 96,
+            "diferencia": -54,
+            "puntos": 18
+        }
+    },
+    "Fjora": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "88%",
+            "over_3_5": "73%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 3,
+            "perdidos": 15,
+            "goles_favor": 49,
+            "goles_contra": 79,
+            "diferencia": -30,
+            "puntos": 27
+        }
+    },
+    "Valerenga B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "92%",
+            "over_3_5": "77%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 26,
+            "ganados": 10,
+            "empatados": 1,
+            "perdidos": 15,
+            "goles_favor": 63,
+            "goles_contra": 65,
+            "diferencia": -2,
+            "puntos": 31
+        }
+    },
+    "Gneist": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "88%",
+            "over_3_5": "69%",
+            "bts": "92%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 7,
+            "perdidos": 10,
+            "goles_favor": 55,
+            "goles_contra": 55,
+            "diferencia": 0,
+            "puntos": 34
+        }
+    },
+    "Lyngbo": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "81%",
+            "over_3_5": "54%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 26,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 16,
+            "goles_favor": 39,
+            "goles_contra": 58,
+            "diferencia": -19,
+            "puntos": 22
+        }
+    },
+    "Forde": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "69%",
+            "over_3_5": "46%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 26,
+            "ganados": 16,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 75,
+            "goles_contra": 40,
+            "diferencia": 35,
+            "puntos": 53
+        }
+    },
+    "Sandefjord B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "96%",
+            "over_3_5": "77%",
+            "bts": "92%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 26,
+            "ganados": 12,
+            "empatados": 2,
+            "perdidos": 12,
+            "goles_favor": 57,
+            "goles_contra": 70,
+            "diferencia": -13,
+            "puntos": 38
+        }
+    },
+    "Lyn B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "88%",
+            "over_3_5": "58%",
+            "bts": "77%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 26,
+            "ganados": 8,
+            "empatados": 4,
+            "perdidos": 14,
+            "goles_favor": 53,
+            "goles_contra": 68,
+            "diferencia": -15,
+            "puntos": 28
+        }
+    },
+    "Fana": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "96%",
+            "over_2_5": "81%",
+            "over_3_5": "69%",
+            "bts": "81%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 26,
+            "ganados": 15,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 79,
+            "goles_contra": 47,
+            "diferencia": 32,
+            "puntos": 51
+        }
+    },
+    "Askoy": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "69%",
+            "over_3_5": "54%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 6,
+            "perdidos": 11,
+            "goles_favor": 44,
+            "goles_contra": 52,
+            "diferencia": -8,
+            "puntos": 33
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "84.6%",
+            "over_2_5": "66.5%",
+            "over_3_5": "48.4%",
+            "bts": "12.6%"
+        },
+        "position": {}
+    },
+    "Asane B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "92%",
+            "over_3_5": "69%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 26,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 14,
+            "goles_favor": 52,
+            "goles_contra": 78,
+            "diferencia": -26,
+            "puntos": 30
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:25:08.178543",
+        "liga": "norway8"
+    }
+}

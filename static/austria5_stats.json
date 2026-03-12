@@ -1,0 +1,356 @@
+{
+    "Imst": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "62%",
+            "over_3_5": "31%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 16,
+            "ganados": 6,
+            "empatados": 6,
+            "perdidos": 4,
+            "goles_favor": 25,
+            "goles_contra": 24,
+            "diferencia": 1,
+            "puntos": 24
+        }
+    },
+    "TSV St. Johann": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "93%",
+            "over_2_5": "67%",
+            "over_3_5": "27%",
+            "bts": "67%"
+        },
+        "position": {
+            "posicion": 13,
+            "partidos": 15,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 20,
+            "goles_contra": 27,
+            "diferencia": -7,
+            "puntos": 15
+        }
+    },
+    "Lauterach": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "87%",
+            "over_2_5": "73%",
+            "over_3_5": "53%",
+            "bts": "73%"
+        },
+        "position": {
+            "posicion": 15,
+            "partidos": 15,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 9,
+            "goles_favor": 22,
+            "goles_contra": 31,
+            "diferencia": -9,
+            "puntos": 12
+        }
+    },
+    "W. Innsbruck": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "62%",
+            "over_3_5": "38%",
+            "bts": "25%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 16,
+            "ganados": 14,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 41,
+            "goles_contra": 8,
+            "diferencia": 33,
+            "puntos": 43
+        }
+    },
+    "Seekirchen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "94%",
+            "over_2_5": "88%",
+            "over_3_5": "75%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 16,
+            "ganados": 10,
+            "empatados": 2,
+            "perdidos": 4,
+            "goles_favor": 43,
+            "goles_contra": 23,
+            "diferencia": 20,
+            "puntos": 32
+        }
+    },
+    "Kitzbuhel": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "56%",
+            "over_3_5": "25%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 16,
+            "ganados": 5,
+            "empatados": 3,
+            "perdidos": 8,
+            "goles_favor": 19,
+            "goles_contra": 25,
+            "diferencia": -6,
+            "puntos": 18
+        }
+    },
+    "Wals-Grunau": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "69%",
+            "over_3_5": "50%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 16,
+            "ganados": 6,
+            "empatados": 5,
+            "perdidos": 5,
+            "goles_favor": 30,
+            "goles_contra": 28,
+            "diferencia": 2,
+            "puntos": 23
+        }
+    },
+    "Reichenau": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "56%",
+            "over_3_5": "44%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 16,
+            "ganados": 7,
+            "empatados": 1,
+            "perdidos": 8,
+            "goles_favor": 23,
+            "goles_contra": 26,
+            "diferencia": -3,
+            "puntos": 22
+        }
+    },
+    "Lustenau": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "69%",
+            "over_3_5": "69%",
+            "bts": "50%"
+        },
+        "position": {
+            "posicion": 14,
+            "partidos": 16,
+            "ganados": 4,
+            "empatados": 3,
+            "perdidos": 9,
+            "goles_favor": 24,
+            "goles_contra": 44,
+            "diferencia": -20,
+            "puntos": 15
+        }
+    },
+    "Dornbirn": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "69%",
+            "over_3_5": "44%",
+            "bts": "31%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 16,
+            "ganados": 10,
+            "empatados": 1,
+            "perdidos": 5,
+            "goles_favor": 32,
+            "goles_contra": 18,
+            "diferencia": 14,
+            "puntos": 31
+        }
+    },
+    "Schwaz": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "81%",
+            "over_3_5": "50%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 16,
+            "ganados": 9,
+            "empatados": 2,
+            "perdidos": 5,
+            "goles_favor": 36,
+            "goles_contra": 22,
+            "diferencia": 14,
+            "puntos": 29
+        }
+    },
+    "Bischofshofen": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "81%",
+            "over_3_5": "50%",
+            "bts": "44%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 16,
+            "ganados": 8,
+            "empatados": 2,
+            "perdidos": 6,
+            "goles_favor": 30,
+            "goles_contra": 22,
+            "diferencia": 8,
+            "puntos": 26
+        }
+    },
+    "Saalfelden": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "69%",
+            "over_2_5": "38%",
+            "over_3_5": "12%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 16,
+            "ganados": 5,
+            "empatados": 2,
+            "perdidos": 9,
+            "goles_favor": 14,
+            "goles_contra": 25,
+            "diferencia": -11,
+            "puntos": 17
+        }
+    },
+    "Kuchl": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "62%",
+            "over_3_5": "44%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 16,
+            "ganados": 10,
+            "empatados": 2,
+            "perdidos": 4,
+            "goles_favor": 29,
+            "goles_contra": 24,
+            "diferencia": 5,
+            "puntos": 32
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "64.4%",
+            "over_2_5": "42.2%",
+            "over_3_5": "21.5%",
+            "bts": "24.4%"
+        },
+        "position": {}
+    },
+    "Hohenems": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "56%",
+            "over_3_5": "25%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 16,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 5,
+            "goles_favor": 21,
+            "goles_contra": 24,
+            "diferencia": -3,
+            "puntos": 21
+        }
+    },
+    "R. Altach B": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "62%",
+            "over_3_5": "50%",
+            "bts": "56%"
+        },
+        "position": {
+            "posicion": 16,
+            "partidos": 16,
+            "ganados": 3,
+            "empatados": 3,
+            "perdidos": 10,
+            "goles_favor": 18,
+            "goles_contra": 39,
+            "diferencia": -21,
+            "puntos": 12
+        }
+    },
+    "Kufstein": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "44%",
+            "over_3_5": "31%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 17,
+            "partidos": 16,
+            "ganados": 0,
+            "empatados": 7,
+            "perdidos": 9,
+            "goles_favor": 13,
+            "goles_contra": 30,
+            "diferencia": -17,
+            "puntos": 7
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:49:51.133785",
+        "liga": "austria5"
+    }
+}

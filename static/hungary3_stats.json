@@ -1,0 +1,256 @@
+{
+    "Budaors W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "92%",
+            "over_3_5": "62%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 13,
+            "ganados": 1,
+            "empatados": 1,
+            "perdidos": 11,
+            "goles_favor": 17,
+            "goles_contra": 51,
+            "diferencia": -34,
+            "puntos": 4
+        }
+    },
+    "Pecsi MFC W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "58%",
+            "over_3_5": "25%",
+            "bts": "42%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 12,
+            "ganados": 5,
+            "empatados": 1,
+            "perdidos": 6,
+            "goles_favor": 17,
+            "goles_contra": 16,
+            "diferencia": 1,
+            "puntos": 16
+        }
+    },
+    "Gyori ETO W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "69%",
+            "over_3_5": "46%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 13,
+            "ganados": 9,
+            "empatados": 1,
+            "perdidos": 3,
+            "goles_favor": 36,
+            "goles_contra": 12,
+            "diferencia": 24,
+            "puntos": 28
+        }
+    },
+    "MTK Hungaria W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "62%",
+            "over_3_5": "38%",
+            "bts": "23%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 13,
+            "ganados": 10,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 37,
+            "goles_contra": 6,
+            "diferencia": 31,
+            "puntos": 32
+        }
+    },
+    "Diosgyori VTK W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "92%",
+            "over_3_5": "85%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 13,
+            "ganados": 5,
+            "empatados": 0,
+            "perdidos": 8,
+            "goles_favor": 20,
+            "goles_contra": 41,
+            "diferencia": -21,
+            "puntos": 15
+        }
+    },
+    "Viktoria FC W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "58%",
+            "over_3_5": "42%",
+            "bts": "25%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 12,
+            "ganados": 2,
+            "empatados": 2,
+            "perdidos": 8,
+            "goles_favor": 12,
+            "goles_contra": 21,
+            "diferencia": -9,
+            "puntos": 8
+        }
+    },
+    "Ferencvaros W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "85%",
+            "over_2_5": "54%",
+            "over_3_5": "54%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 13,
+            "ganados": 11,
+            "empatados": 1,
+            "perdidos": 1,
+            "goles_favor": 38,
+            "goles_contra": 10,
+            "diferencia": 28,
+            "puntos": 34
+        }
+    },
+    "Ujpest W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "77%",
+            "over_2_5": "54%",
+            "over_3_5": "38%",
+            "bts": "46%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 13,
+            "ganados": 6,
+            "empatados": 1,
+            "perdidos": 6,
+            "goles_favor": 21,
+            "goles_contra": 24,
+            "diferencia": -3,
+            "puntos": 19
+        }
+    },
+    "Honved W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "62%",
+            "over_3_5": "31%",
+            "bts": "54%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 13,
+            "ganados": 4,
+            "empatados": 4,
+            "perdidos": 5,
+            "goles_favor": 20,
+            "goles_contra": 19,
+            "diferencia": 1,
+            "puntos": 16
+        }
+    },
+    "Puskas A. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "83%",
+            "over_2_5": "75%",
+            "over_3_5": "67%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 12,
+            "ganados": 9,
+            "empatados": 2,
+            "perdidos": 1,
+            "goles_favor": 35,
+            "goles_contra": 11,
+            "diferencia": 24,
+            "puntos": 29
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "68.4%",
+            "over_2_5": "50.0%",
+            "over_3_5": "30.3%",
+            "bts": "27.0%"
+        },
+        "position": {}
+    },
+    "Szent Mihaly W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "92%",
+            "over_2_5": "69%",
+            "over_3_5": "54%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 13,
+            "ganados": 5,
+            "empatados": 1,
+            "perdidos": 7,
+            "goles_favor": 24,
+            "goles_contra": 25,
+            "diferencia": -1,
+            "puntos": 16
+        }
+    },
+    "Szekszardi W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "100%",
+            "over_2_5": "75%",
+            "over_3_5": "58%",
+            "bts": "33%"
+        },
+        "position": {
+            "posicion": 12,
+            "partidos": 12,
+            "ganados": 0,
+            "empatados": 2,
+            "perdidos": 10,
+            "goles_favor": 7,
+            "goles_contra": 48,
+            "diferencia": -41,
+            "puntos": 2
+        }
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T14:11:57.370924",
+        "liga": "hungary3"
+    }
+}

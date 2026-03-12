@@ -1,0 +1,236 @@
+{
+    "Sydney W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56%",
+            "over_2_5": "44%",
+            "over_3_5": "31%",
+            "bts": "31%"
+        },
+        "position": {
+            "posicion": 11,
+            "partidos": 16,
+            "ganados": 3,
+            "empatados": 6,
+            "perdidos": 7,
+            "goles_favor": 14,
+            "goles_contra": 22,
+            "diferencia": -8,
+            "puntos": 15
+        }
+    },
+    "Western S. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "71%",
+            "over_2_5": "53%",
+            "over_3_5": "29%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 10,
+            "partidos": 17,
+            "ganados": 4,
+            "empatados": 4,
+            "perdidos": 9,
+            "goles_favor": 16,
+            "goles_contra": 31,
+            "diferencia": -15,
+            "puntos": 16
+        }
+    },
+    "Adelaide Utd W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "60%",
+            "over_2_5": "53%",
+            "over_3_5": "20%",
+            "bts": "47%"
+        },
+        "position": {
+            "posicion": 3,
+            "partidos": 15,
+            "ganados": 8,
+            "empatados": 2,
+            "perdidos": 5,
+            "goles_favor": 19,
+            "goles_contra": 17,
+            "diferencia": 2,
+            "puntos": 26
+        }
+    },
+    "Perth Glory W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "62%",
+            "over_2_5": "44%",
+            "over_3_5": "31%",
+            "bts": "38%"
+        },
+        "position": {
+            "posicion": 5,
+            "partidos": 16,
+            "ganados": 7,
+            "empatados": 2,
+            "perdidos": 7,
+            "goles_favor": 17,
+            "goles_contra": 22,
+            "diferencia": -5,
+            "puntos": 23
+        }
+    },
+    "Brisbane Roar W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "69%",
+            "over_3_5": "62%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 8,
+            "partidos": 16,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 6,
+            "goles_favor": 26,
+            "goles_contra": 31,
+            "diferencia": -5,
+            "puntos": 22
+        }
+    },
+    "Melbourne C. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "75%",
+            "over_2_5": "62%",
+            "over_3_5": "38%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 1,
+            "partidos": 16,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 29,
+            "goles_contra": 17,
+            "diferencia": 12,
+            "puntos": 30
+        }
+    },
+    "Wellington P. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "73%",
+            "over_2_5": "47%",
+            "over_3_5": "27%",
+            "bts": "53%"
+        },
+        "position": {
+            "posicion": 4,
+            "partidos": 15,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 29,
+            "goles_contra": 13,
+            "diferencia": 16,
+            "puntos": 25
+        }
+    },
+    "Newcastle J. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "69%",
+            "over_3_5": "31%",
+            "bts": "75%"
+        },
+        "position": {
+            "posicion": 9,
+            "partidos": 16,
+            "ganados": 5,
+            "empatados": 2,
+            "perdidos": 9,
+            "goles_favor": 21,
+            "goles_contra": 28,
+            "diferencia": -7,
+            "puntos": 17
+        }
+    },
+    "Melbourne V. W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "65%",
+            "over_2_5": "59%",
+            "over_3_5": "35%",
+            "bts": "59%"
+        },
+        "position": {
+            "posicion": 6,
+            "partidos": 17,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 7,
+            "goles_favor": 24,
+            "goles_contra": 22,
+            "diferencia": 2,
+            "puntos": 22
+        }
+    },
+    "Canberra Utd W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "88%",
+            "over_2_5": "56%",
+            "over_3_5": "19%",
+            "bts": "62%"
+        },
+        "position": {
+            "posicion": 2,
+            "partidos": 16,
+            "ganados": 8,
+            "empatados": 3,
+            "perdidos": 5,
+            "goles_favor": 25,
+            "goles_contra": 17,
+            "diferencia": 8,
+            "puntos": 27
+        }
+    },
+    "Central Coast W": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "81%",
+            "over_2_5": "69%",
+            "over_3_5": "38%",
+            "bts": "69%"
+        },
+        "position": {
+            "posicion": 7,
+            "partidos": 16,
+            "ganados": 6,
+            "empatados": 4,
+            "perdidos": 6,
+            "goles_favor": 25,
+            "goles_contra": 25,
+            "diferencia": 0,
+            "puntos": 22
+        }
+    },
+    "League average": {
+        "corners": {},
+        "goals": {
+            "over_1_5": "56.8%",
+            "over_2_5": "33.0%",
+            "over_3_5": "13.6%",
+            "bts": "25.0%"
+        },
+        "position": {}
+    },
+    "_metadata": {
+        "fecha_actualizacion": "2026-03-12T13:48:37.827227",
+        "liga": "australia2"
+    }
+}
