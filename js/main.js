@@ -1,3 +1,9 @@
+/*
+ * © 2026 Jose Charry. Todos los derechos reservados.
+ * Queda estrictamente prohibida la copia, distribución o modificación
+ * de este código sin autorización expresa del autor.
+ */
+
 /**
  * TOTAL SOCCER DASHBOARD - MOTOR ELITE V3
  * Modelo: Poisson + Dixon-Coles

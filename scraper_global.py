@@ -1,3 +1,7 @@
+# © 2026 Jose Charry. Todos los derechos reservados.
+#Queda estrictamente prohibida la copia, distribución o modificación
+#de este código sin autorización expresa del autor.
+
 import requests
 from bs4 import BeautifulSoup
 import json
