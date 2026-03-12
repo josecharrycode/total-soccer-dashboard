@@ -4,15 +4,15 @@
 
 :root {
     /* Color Palette - Dark/Purple Theme */
-    --bg-primary: #050505;       /* Negro puro */
-    --bg-secondary: #121212;     /* Gris casi negro */
-    --bg-card: #1a1a1a;          /* Fondo tarjetas */
-    --bg-card-hover: #2a1b3d;    /* Morado muy oscuro hover */
+    --bg-primary: #050505;       
+    --bg-secondary: #121212;     
+    --bg-card: #1a1a1a;          
+    --bg-card-hover: #2a1b3d;    
     
-    --accent-primary: #9b51e0;   /* Morado principal */
-    --accent-secondary: #ffffff; /* Blanco puro */
-    --accent-danger: #ff3366;    /* Rojo alertas */
-    --accent-info: #d8b4fe;      /* Lila / Morado claro */
+    --accent-primary: #9b51e0;   
+    --accent-secondary: #ffffff; 
+    --accent-danger: #ff3366;    
+    --accent-info: #d8b4fe;      
     
     --text-primary: #ffffff;     
     --text-secondary: #cccccc;   
@@ -25,25 +25,19 @@
     --font-display: 'Bebas Neue', cursive;
     --font-body: 'Outfit', sans-serif;
     
-    /* Spacing */
+    /* Spacing & Radius */
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
     --spacing-md: 1.5rem;
     --spacing-lg: 2rem;
     --spacing-xl: 3rem;
-    
-    /* Border Radius */
     --radius-sm: 8px;
     --radius-md: 12px;
     --radius-lg: 16px;
     --radius-xl: 24px;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+* { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
     font-family: var(--font-body);
@@ -99,7 +93,6 @@ body {
     background-clip: text;
 }
 
-/* League Selector Container */
 .league-selector-container {
     display: flex;
     align-items: center;
@@ -127,7 +120,7 @@ body {
     box-shadow: 0 0 0 3px var(--shadow);
 }
 
-.league-select option {
+.league-select option, .league-select optgroup {
     background: var(--bg-card);
     color: var(--text-primary);
     padding: var(--spacing-sm);
@@ -159,11 +152,7 @@ body {
     align-items: center;
 }
 
-.team-selector {
-    display: flex;
-    flex-direction: column;
-    gap: var(--spacing-sm);
-}
+.team-selector { display: flex; flex-direction: column; gap: var(--spacing-sm); }
 
 .team-selector label {
     display: flex;
@@ -326,6 +315,61 @@ body {
 }
 
 /* ===================================
+   MARCADORES Y CUOTAS (PREMIUM DARK)
+   =================================== */
+.gap-15 { gap: 15px; }
+.w-100 { width: 100%; }
+
+.score-card {
+    background: linear-gradient(145deg, #161026, #0a0812);
+    border: 1px solid rgba(155, 81, 224, 0.15);
+    border-radius: var(--radius-md);
+    padding: 20px 10px;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.score-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 2px;
+    background: linear-gradient(90deg, transparent, var(--accent-primary), transparent);
+    opacity: 0.5;
+}
+
+.score-value {
+    font-family: var(--font-display);
+    font-size: 3.5rem;
+    color: var(--accent-secondary); 
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+    margin-bottom: 8px;
+    line-height: 1;
+}
+
+.score-prob {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+
+.odd-badge {
+    background: rgba(155, 81, 224, 0.1);
+    color: var(--accent-info); 
+    padding: 4px 12px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    border: 1px solid rgba(155, 81, 224, 0.3);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0.5px;
+    display: inline-block;
+}
+
+/* ===================================
    UTILITIES
    =================================== */
 
@@ -333,9 +377,9 @@ body {
 .flex-between { display: flex; justify-content: space-between; align-items: center; }
 .flex-around { display: flex; justify-content: space-around; align-items: center; }
 
-.text-green { color: var(--accent-primary) !important; } /* Ahora es Morado */
-.text-blue { color: var(--accent-info) !important; }     /* Ahora es Lila */
-.text-yellow { color: var(--accent-secondary) !important; } /* Ahora es Blanco */
+.text-green { color: var(--accent-primary) !important; } 
+.text-blue { color: var(--accent-info) !important; }     
+.text-yellow { color: var(--accent-secondary) !important; } 
 .text-muted { color: var(--text-muted); }
 .text-center { text-align: center; }
 .bold { font-weight: 700; color: white; }
@@ -353,7 +397,6 @@ body {
 .border-bottom { border-bottom: 1px solid var(--border-color); }
 .bg-darker { background: var(--bg-primary); }
 
-/* Barra de probabilidad */
 .prob-bar-container {
     display: flex;
     height: 8px;
@@ -368,80 +411,36 @@ body {
 
 
 /* ===================================
-   MARCADORES Y CUOTAS (PREMIUM DARK)
+   VISTA ESCALADA (PC PERFECTO EN MÓVIL)
    =================================== */
-.gap-15 { gap: 15px; }
-.w-100 { width: 100%; }
 
-.score-card {
-    background: linear-gradient(145deg, #161026, #0a0812);
-    border: 1px solid rgba(155, 81, 224, 0.15); /* Borde morado sutil */
-    border-radius: var(--radius-md);
-    padding: 20px 10px;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
-}
-
-/* Efecto de luz superior en la tarjeta */
-.score-card::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; width: 100%; height: 2px;
-    background: linear-gradient(90deg, transparent, var(--accent-primary), transparent);
-    opacity: 0.5;
-}
-
-.score-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(155, 81, 224, 0.15); /* Resplandor morado */
-    border-color: var(--accent-primary);
-}
-
-.score-value {
-    font-family: var(--font-display);
-    font-size: 3.5rem; /* Números más grandes y blancos */
-    color: var(--accent-secondary); 
-    text-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
-    margin-bottom: 8px;
-    line-height: 1;
-}
-
-.score-prob {
-    color: var(--text-secondary);
-    font-size: 0.9rem;
+#results-container {
+    width: 100%;
+    overflow: hidden; /* Evita cualquier barra de scroll */
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 6px;
+    justify-content: center;
 }
 
-/* Rediseño de la etiqueta de la cuota */
-.odd-badge {
-    background: rgba(155, 81, 224, 0.1); /* Fondo morado translúcido */
-    color: var(--accent-info); /* Texto lila */
-    padding: 4px 12px;
-    border-radius: 6px;
-    font-size: 0.85rem;
-    font-weight: 700;
-    border: 1px solid rgba(155, 81, 224, 0.3);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-    letter-spacing: 0.5px;
-    display: inline-block;
+/* Fija el diseño en 3 columnas idéntico a la PC */
+.dashboard-3col {
+    display: grid !important;
+    grid-template-columns: 280px 1fr 280px !important; 
+    gap: 20px;
+    width: 1100px; /* Ancho real del dashboard en escritorio */
+    min-width: 1100px; 
+    margin: 20px auto;
 }
 
-/* Responsive */
-@media (max-width: 1200px) {
-    .dashboard-3col { grid-template-columns: 1fr; }
-    .pred-grid { grid-template-columns: 1fr 1fr; }
-}
-@media (max-width: 768px) {
-    .pred-grid { grid-template-columns: 1fr; }
-    .col-span-2 { grid-column: span 1; }
-    .team-selectors { grid-template-columns: 1fr; gap: var(--spacing-md); }
-    .vs-divider { order: 2; }
-    .home-team { order: 1; }
-    .away-team { order: 3; }
-    .league-selector-container { flex-direction: column; align-items: flex-start; width: 100%; }
+/* MAGIA: Escalado Automático para pantallas menores a 1150px */
+@media (max-width: 1150px) {
+    .dashboard-3col {
+        /* Calcula el ancho de la pantalla del usuario y encoge el panel completo para que quepa exacto */
+        zoom: calc(100vw / 1150); 
+    }
+    
+    /* El menú de arriba sigue normal para que los dedos puedan tocar los botones fácilmente */
+    .team-selectors { grid-template-columns: 1fr; gap: 15px; }
+    .vs-divider { margin: 10px 0; }
+    .header-content { flex-direction: column; text-align: center; }
     .league-select { width: 100%; }
 }
